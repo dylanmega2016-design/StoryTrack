@@ -1,27 +1,115 @@
 ---
-title: "Segundo avance- StoryTrack"
-author: "Dylan, Maria Jose, Gabriel, Harol"
-format: html
-editor: visual
+title: "Segundo avance — StoryTrack"
+subtitle: "Estructuración y limpieza de subtítulos"
+author: "Dylan, María José, Gabriel y Harol"
+format:
+  pdf:
+    geometry:
+      - landscape
+      - margin=1.5cm
+    number-sections: true
 ---
 
-## Quarto
+## \## Procesamiento de los subtítulos
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
-
-## Running Code
-
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+Los datos originales corresponden a archivos de subtítulos en formato \`.srt\`.
+Para estructurar la información se creó la función \`leer.subtitulos()\`, la cual
+identifica cada bloque de subtítulos y extrae las variables necesarias para
+construir la base de datos.
 
 ```{r}
-1 + 1
+leer.subtitulos <- function(ruta.archivo) {
+  lineas <- readLines (ruta.archivo, encoding = "UTF-8")
+  separadores <- which(lineas== "")
+  bordes <- c(0, separadores, length(lineas)+1)
+  subtitulos <- data.frame()
+  nombre.archivo <- basename(ruta.archivo)
+  temporada <- regmatches(nombre.archivo, regexpr("S[0-9]{2}", nombre.archivo))
+  episodio <- regmatches(nombre.archivo, regexpr("E[0-9]{2}", nombre.archivo))
+  temporada <- as.integer(substr(temporada, 2, 3))
+  episodio <- as.integer(substr(episodio, 2, 3))
+  serie <- sub(" S[0-9]{2}E[0-9]{2}.*", "", nombre.archivo)
+  for (i in 1: (length(bordes)-1)){
+    bloque.actual <- lineas[(bordes[i]+1):(bordes[i+1]-1)]
+    numero.bloque <- as.integer(bloque.actual[1])
+    tiempo <- bloque.actual[2]
+    tiempos <- strsplit(tiempo, " --> ")[[1]]
+    inicio.sub <- tiempos[1]
+    fin.sub <- tiempos[2]
+    texto.sub <- paste(bloque.actual[3:length(bloque.actual)], collapse = " ")
+    fila.sub <- data.frame(
+      serie = serie,
+      temporada = temporada,
+      episodio = episodio,
+      bloque = numero.bloque,
+      inicio = inicio.sub,
+      fin = fin.sub,
+      texto = texto.sub,
+      archivo = nombre.archivo
+    )
+    subtitulos <- rbind(subtitulos, fila.sub)
+    
+  }
+  subtitulos
+}
 ```
 
-You can add options to executable code like this
+```         
+## Consolidación de los episodios  Los archivos `.srt` disponibles se identificaron automáticamente y se procesaron con la función anterior. Posteriormente, las tablas correspondientes a cada episodio se unieron en una sola base de datos.
+```
 
+```{r}
+archivos.srt <-  list.files(path =  "data/SubtitulosOriginales", pattern = "\\.srt$", full.names = TRUE)
+subtitulos.consolidados <- data.frame()
+for (ruta in archivos.srt) {
+  datos.archivo <- leer.subtitulos(ruta)
+  subtitulos.consolidados <- rbind(subtitulos.consolidados, datos.archivo)
+}
+```
+
+```         
+## Revisión y limpieza de los datos  Se revisó la base consolidada para identificar valores faltantes, campos vacíos y registros duplicados.
+```
+
+```{r}
+colSums(is.na(subtitulos.consolidados))
+
+colSums(subtitulos.consolidados == "")
+
+sum(duplicated(subtitulos.consolidados))
+```
+## Variables de la base
+
+La base final contiene ocho variables:
+
+- `serie`: nombre de la serie.
+- `temporada`: número de temporada.
+- `episodio`: número de episodio.
+- `bloque`: número del bloque de subtítulo.
+- `inicio`: tiempo de inicio del subtítulo.
+- `fin`: tiempo de finalización del subtítulo.
+- `texto`: contenido textual del subtítulo.
+- `archivo`: archivo `.srt` de origen.
+
+## Base de datos consolidada
+
+A continuación se presentan las primeras 10 observaciones de la base de datos
+consolidada.
 ```{r}
 #| echo: false
-2 * 2
-```
 
-The `echo: false` option disables the printing of code (only output is displayed).
+tabla.final <- head(subtitulos.consolidados, 10)
+
+knitr::kable(
+  tabla.final,
+  format = "latex",
+  booktabs = TRUE,
+  caption = "Primeras 10 filas de la base de subtítulos consolidada",
+  align = c("l", "c", "c", "c", "c", "c", "l", "l")
+) |>
+  kableExtra::kable_styling(
+    latex_options = c("striped", "scale_down", "hold_position"),
+    font_size = 8
+  )
+
+```
