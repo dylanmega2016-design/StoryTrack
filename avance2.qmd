@@ -10,10 +10,10 @@ format:
     number-sections: true
 ---
 
-## \## Procesamiento de los subtítulos
+## Procesamiento de los subtítulos
 
-Los datos originales corresponden a archivos de subtítulos en formato \`.srt\`.
-Para estructurar la información se creó la función \`leer.subtitulos()\`, la cual
+Los datos originales corresponden a archivos de subtítulos en formato ".srt".
+Para estructurar la información se creó la función "leer.subtitulos()", la cual
 identifica cada bloque de subtítulos y extrae las variables necesarias para
 construir la base de datos.
 
@@ -54,9 +54,11 @@ leer.subtitulos <- function(ruta.archivo) {
 }
 ```
 
-```         
-## Consolidación de los episodios  Los archivos `.srt` disponibles se identificaron automáticamente y se procesaron con la función anterior. Posteriormente, las tablas correspondientes a cada episodio se unieron en una sola base de datos.
-```
+         
+## Consolidación de los episodios 
+
+Los archivos ".srt" disponibles se identificaron automáticamente y se procesaron con la función anterior. Posteriormente, las tablas correspondientes a cada episodio se unieron en una sola base de datos.
+
 
 ```{r}
 archivos.srt <-  list.files(path =  "data/SubtitulosOriginales", pattern = "\\.srt$", full.names = TRUE)
@@ -67,9 +69,11 @@ for (ruta in archivos.srt) {
 }
 ```
 
-```         
-## Revisión y limpieza de los datos  Se revisó la base consolidada para identificar valores faltantes, campos vacíos y registros duplicados.
-```
+         
+## Revisión y limpieza de los datos 
+
+Se revisó la base consolidada para identificar valores faltantes, campos vacíos y registros duplicados.
+
 
 ```{r}
 colSums(is.na(subtitulos.consolidados))
