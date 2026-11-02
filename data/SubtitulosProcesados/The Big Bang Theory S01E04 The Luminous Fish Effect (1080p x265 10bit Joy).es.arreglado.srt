@@ -1,0 +1,1814 @@
+1
+00:00:03,692 --> 00:00:06,354
+Sheldon: Sabes, he vuelto a pensar en
+los viajes en el tiempo.
+
+2
+00:00:06,364 --> 00:00:09,177
+Leonard: ¿Por qué?, ¿Chocaste con un
+obstáculo con invisibilidad?
+
+3
+00:00:10,629 --> 00:00:12,741
+Sheldon: Dejemos eso para después.
+
+4
+00:00:12,931 --> 00:00:16,294
+Sheldon: Bueno, se me ocurrió que si llegara a
+hacer una máquina del tiempo perfecta,
+
+5
+00:00:16,304 --> 00:00:18,516
+Sheldon: iría al pasado y me
+la daría a mí mismo,
+
+6
+00:00:18,527 --> 00:00:22,180
+Sheldon: por lo tanto eliminaría la necesidad de
+tener que inventarla en primer lugar.
+
+7
+00:00:23,051 --> 00:00:23,892
+Leonard: Interesante.
+
+8
+00:00:23,902 --> 00:00:26,084
+Sheldon: En serio, realmente te
+saca la presión.
+
+9
+00:00:27,075 --> 00:00:28,707
+Leonard: Suena como un gran paso adelante.
+
+10
+00:00:28,717 --> 00:00:31,309
+Leonard: ¿Debería llamar a la revista de ciencia
+y decirles que reserven portada?
+
+11
+00:00:31,319 --> 00:00:34,192
+Sheldon: Es viaje en el tiempo, Leonard,
+ya lo habría hecho.
+
+12
+00:00:35,574 --> 00:00:37,756
+Leonard: Entonces creo que las
+felicitaciones están en camino.
+
+13
+00:00:37,766 --> 00:00:41,329
+Sheldon: No, las felicitaciones
+ya estarían en camino.
+
+14
+00:00:41,790 --> 00:00:43,872
+Sheldon: Sabes qué, no me va
+a gustar mucho esta fiesta.
+
+15
+00:00:43,882 --> 00:00:46,424
+Leonard: Lo sé, me familiarizo contigo.
+
+16
+00:00:46,434 --> 00:00:48,732
+Sheldon: La última fiesta del departamento, el
+profesor Finkleday me arrinconó
+
+17
+00:00:48,733 --> 00:00:51,530
+Sheldon: y me habló sobre la exploración de
+cuevas durante 45 minutos.
+
+18
+00:00:51,540 --> 00:00:52,821
+Leonard: Sí, estaba ahí.
+
+19
+00:00:52,831 --> 00:00:54,743
+Sheldon: ¿Sabes qué es lo interesante de
+las cuevas, Leonard?
+
+20
+00:00:54,753 --> 00:00:56,444
+- Leonard: ¿Qué?
+- Sheldon: Nada.
+
+21
+00:00:58,046 --> 00:01:00,719
+Leonard: Bien, entonces evitaremos a Finkleday,
+conoceremos al nuevo cabeza del
+
+22
+00:01:00,729 --> 00:01:02,500
+Leonard: departamento, lo felicitaremos,
+le daremos la mano y nos iremos.
+
+23
+00:01:02,510 --> 00:01:03,642
+Sheldon: ¿Cómo sería esto?
+
+24
+00:01:03,652 --> 00:01:05,604
+Sheldon: "Encantado de conocerle,
+Dr. Gablehauser.
+
+25
+00:01:05,614 --> 00:01:08,577
+Sheldon: Qué afortunado de que la universidad
+haya elegido contratarlo
+
+26
+00:01:08,587 --> 00:01:11,930
+Sheldon: a pesar de que no ha hecho ninguna
+investigación original en 25 años
+
+27
+00:01:11,940 --> 00:01:14,102
+Sheldon: y en cambio haya escrito
+una serie de libros populares
+
+28
+00:01:14,112 --> 00:01:17,045
+Sheldon: que reducen los grandes conceptos
+de la ciencia a simples anécdotas,
+
+29
+00:01:17,055 --> 00:01:19,611
+Sheldon: cada una más estúpida para
+ajustarse a la duración
+
+30
+00:01:19,612 --> 00:01:22,230
+Sheldon: del movimiento intestinal promedio.
+
+31
+00:01:22,961 --> 00:01:24,923
+Sheldon: Mahalo.
+
+32
+00:01:27,916 --> 00:01:30,268
+Leonard: "Mahalo" es un buen detalle.
+
+33
+00:01:30,969 --> 00:01:33,311
+Sheldon: ¿Sabes qué sólo hay ocho
+consonantes en el idioma hawaiano?
+
+34
+00:01:33,321 --> 00:01:35,614
+Leonard: Interesante.
+Deberías comenzar con eso.
+
+35
+00:01:37,626 --> 00:01:39,728
+Raj: Dios, mira este buffet.
+
+36
+00:01:40,669 --> 00:01:42,400
+Raj: Amo a Estados Unidos.
+
+37
+00:01:42,410 --> 00:01:44,062
+Leonard: ¿No tienen buffet en India?
+
+38
+00:01:44,072 --> 00:01:46,444
+Raj: Claro, pero es todo comida india.
+
+39
+00:01:47,145 --> 00:01:50,138
+Raj: No encuentras una rosca de pan
+en Mumbai para salvar tu vida.
+
+40
+00:01:50,148 --> 00:01:52,060
+Raj: Úntame.
+
+41
+00:01:53,461 --> 00:01:55,774
+Sheldon: Bien, aquí hay un giro
+interesante en sucesos.
+
+42
+00:01:55,784 --> 00:01:57,435
+Leonard: ¿Qué?
+
+43
+00:01:58,687 --> 00:02:00,158
+Leonard: ¿Howard trajo una cita?
+
+44
+00:02:00,168 --> 00:02:05,113
+Sheldon: Una explicación más creíble sería que su
+trabajo en robots hizo un gran avance.
+
+45
+00:02:05,714 --> 00:02:08,907
+Howard: ¿Qué pasa, perras científicas?
+
+46
+00:02:10,018 --> 00:02:13,241
+Howard: ¿Puedo presentarles a mi amiga
+especial Summer?
+
+47
+00:02:13,251 --> 00:02:15,033
+Summer: Howard, ya te lo dije,
+tocar es un extra.
+
+48
+00:02:15,043 --> 00:02:17,165
+Howard: Es verdad. Lo siento.
+
+49
+00:02:17,646 --> 00:02:20,408
+Leonard: Aquí viene nuestro nuevo jefe.
+Se amable.
+
+50
+00:02:20,418 --> 00:02:21,790
+Gablehouser: Hola, colega.
+
+51
+00:02:21,800 --> 00:02:23,832
+- Gablehouser: Eric Gablehauser.
+- Howard: Howard Wolowitz.
+
+52
+00:02:23,842 --> 00:02:27,075
+Gablehouser: Howard, encantado de conocerte.
+¿Y tú eres?
+
+53
+00:02:27,546 --> 00:02:30,919
+Sheldon: Un científico verdadero.
+
+54
+00:02:33,081 --> 00:02:34,913
+Sheldon: ¿Cómo estuvo eso?
+
+55
+00:02:36,064 --> 00:02:38,537
+Sheldon: No puedo creer que me haya despedido.
+
+56
+00:02:38,957 --> 00:02:41,379
+Leonard: Bueno, lo llamaste profesor de
+instituto de ciencia glorificado,
+
+57
+00:02:41,389 --> 00:02:45,764
+Leonard: cuyo último experimento exitoso fue
+encender sus propios pedos.
+
+58
+00:02:46,464 --> 00:02:49,818
+Leonard: En mi defensa, introduje eso diciendo,
+"con el debido respeto."
+
+59
+00:02:51,419 --> 00:02:54,272
+Leonard: <i>#Todo nuestro universo estaba
+en un caliente y denso estado#</i>
+
+60
+00:02:54,353 --> 00:02:56,125
+Leonard: <i>#Entonces hace cerca de
+14 billones de años#</i>
+
+61
+00:02:56,174 --> 00:02:58,024
+Leonard: <i>#la expansión comenzó... ¡espera!#</i>
+
+62
+00:02:58,119 --> 00:03:01,012
+Leonard: <i>#¡La tierra comenzó a enfriarse, los
+autótrofos comenzaron a babear,#</i>
+
+63
+00:03:01,046 --> 00:03:02,699
+Leonard: <i>#los neandertales
+desarrollaron herramientas,#</i>
+
+64
+00:03:02,718 --> 00:03:03,494
+Leonard: <i>#construimos el muro,#</i>
+
+65
+00:03:03,595 --> 00:03:04,440
+Leonard: <i>#construimos las pirámides,#</i>
+
+66
+00:03:04,513 --> 00:03:07,380
+Leonard: <i>#matemáticas, ciencia, historia,
+desenredando el misterio#</i>
+
+67
+00:03:07,395 --> 00:03:08,957
+Leonard: <i>#que comenzó todo con un Big Bang!#</i>
+
+68
+00:03:08,958 --> 00:03:09,859
+Sheldon: wWw. Subs-Team. Tv
+P r e s e n t a:
+
+69
+00:03:09,860 --> 00:03:10,861
+Sheldon: The Big Bang Theory S01 E03
+The Luminous Fish Effect
+
+70
+00:03:10,862 --> 00:03:11,763
+Leonard: etkoala
+
+71
+00:03:11,764 --> 00:03:12,765
+Sheldon: Prestifilipo
+
+72
+00:03:12,766 --> 00:03:13,767
+Leonard: kokinfrog
+
+73
+00:03:13,768 --> 00:03:14,769
+Leonard: tacho8
+
+74
+00:03:14,770 --> 00:03:15,771
+Leonard: Corrección:
+Lauta
+
+75
+00:03:15,772 --> 00:03:16,673
+Sheldon: Corrección:
+PolloDH
+
+76
+00:03:16,685 --> 00:03:17,956
+Sheldon: Buenos días.
+
+77
+00:03:17,966 --> 00:03:19,477
+Sheldon: Buenos días.
+
+78
+00:03:19,487 --> 00:03:21,620
+Leonard: ¿Estás haciendo huevos
+para el desayuno?
+
+79
+00:03:21,630 --> 00:03:24,312
+Sheldon: No es un desayuno,
+es un experimento.
+
+80
+00:03:26,174 --> 00:03:28,527
+Sheldon: Es que se parece
+mucho a un desayuno.
+
+81
+00:03:28,537 --> 00:03:32,310
+Sheldon: Por fin tengo tiempo para probar mi
+hipótesis sobre la separación de las
+
+82
+00:03:32,320 --> 00:03:34,155
+Sheldon: moléculas de agua de las proteínas de
+los huevos y su impacto
+
+83
+00:03:34,156 --> 00:03:36,284
+Leonard: en relación al gusto.
+
+84
+00:03:37,405 --> 00:03:39,538
+Leonard: Suena delicioso.
+
+85
+00:03:39,958 --> 00:03:41,990
+Leonard: Espero ver tu trabajo con tocino.
+
+86
+00:03:42,000 --> 00:03:43,932
+Sheldon: Igual que yo.
+
+87
+00:03:44,853 --> 00:03:49,247
+Leonard: Sabes, estoy seguro que si te disculpas
+a Gablehauser, te devolverá tu trabajo.
+
+88
+00:03:49,257 --> 00:03:50,839
+Sheldon: No quiero recuperar mi trabajo.
+
+89
+00:03:50,849 --> 00:03:54,833
+Sheldon: He pasado los últimos tres años y medio
+mirando una pizarra llena de ecuaciones.
+
+90
+00:03:54,843 --> 00:03:57,405
+Sheldon: Antes de eso, pasé cuatro
+años trabajando en mi tesis.
+
+91
+00:03:57,415 --> 00:04:01,530
+Sheldon: Antes de eso, estaba en la universidad,
+y antes, estaba en quinto grado.
+
+92
+00:04:02,200 --> 00:04:06,404
+Sheldon: Hoy es mi primer día libre
+en décadas y voy a saborearlo.
+
+93
+00:04:06,414 --> 00:04:08,406
+Leonard: De acuerdo.
+
+94
+00:04:08,416 --> 00:04:10,488
+Leonard: Te dejo para que
+repares tus huevos.
+
+95
+00:04:10,498 --> 00:04:14,142
+Sheldon: No sólo reparo mis huevos, estoy
+reparando los huevos de todos.
+
+96
+00:04:14,152 --> 00:04:16,715
+Leonard: Y todos te damos las gracias.
+
+97
+00:04:47,395 --> 00:04:50,268
+Sheldon: Usar huevos nuevos.
+
+98
+00:04:53,161 --> 00:04:54,933
+Penny: Hola. Voy a ir al mercado.
+
+99
+00:04:54,943 --> 00:04:56,354
+Penny: ¿Necesitan algo?
+
+100
+00:04:56,364 --> 00:04:58,897
+Sheldon: Bueno, esta debe ser una de esas
+circunstancias a la que
+
+101
+00:04:58,907 --> 00:05:00,590
+Sheldon: gente no acostumbrada a la ley
+de los grandes números
+
+102
+00:05:00,591 --> 00:05:02,681
+Sheldon: llamaría una coincidencia.
+
+103
+00:05:03,041 --> 00:05:03,712
+Penny: ¿Perdón?
+
+104
+00:05:03,722 --> 00:05:04,693
+Sheldon: Necesito huevos.
+
+105
+00:05:04,703 --> 00:05:06,164
+Sheldon: Cuatro docenas serán suficientes.
+
+106
+00:05:06,174 --> 00:05:06,925
+Penny: ¿Cuatro docenas?
+
+107
+00:05:06,935 --> 00:05:09,257
+Sheldon: Sí, y distribuidos igualmente en
+partes entre marrón, blanco...
+
+108
+00:05:09,267 --> 00:05:12,551
+Sheldon: silvestres, grandes,
+extra grandes y gigantes.
+
+109
+00:05:12,561 --> 00:05:13,932
+Penny: Está bien, una vez más.
+
+110
+00:05:13,942 --> 00:05:16,264
+Sheldon: Olvídalo. No lo entenderías bien.
+
+111
+00:05:16,274 --> 00:05:18,426
+Sheldon: Mejor voy contigo.
+
+112
+00:05:18,857 --> 00:05:20,859
+Penny: Sí.
+
+113
+00:05:24,823 --> 00:05:26,845
+Penny: ¿Por qué no fuiste a trabajar?
+
+114
+00:05:27,255 --> 00:05:31,730
+Sheldon: Me estoy tomando un sabático, porque me
+niego a respetar mentes mediocres.
+
+115
+00:05:31,740 --> 00:05:33,852
+Penny: ¿Así que te echaron?
+
+116
+00:05:33,862 --> 00:05:37,365
+Sheldon: A los físicos teóricos no los echan...
+
+117
+00:05:37,375 --> 00:05:39,247
+Sheldon: pero, sí.
+
+118
+00:05:39,958 --> 00:05:41,239
+Penny: Tal vez sea lo mejor.
+
+119
+00:05:41,249 --> 00:05:44,853
+Penny: Sabes, yo siempre digo que cuando
+se cierra una puerta otra se abre.
+
+120
+00:05:44,863 --> 00:05:46,695
+Sheldon: No, no pasa eso.
+
+121
+00:05:47,115 --> 00:05:49,217
+Sheldon: No a menos que las puertas estén
+conectadas mediante un dispositivo
+
+122
+00:05:49,218 --> 00:05:51,469
+Sheldon: o sensor de movimiento.
+
+123
+00:05:51,479 --> 00:05:52,070
+Penny: Quiero decir--
+
+124
+00:05:52,080 --> 00:05:54,221
+Sheldon: O si la primera puerta al cerrarse crea
+un cambio en la presión del aire
+
+125
+00:05:54,222 --> 00:05:56,454
+Sheldon: eso puede abrir la
+segunda puerta.
+
+126
+00:05:57,145 --> 00:05:59,067
+Penny: No importa.
+
+127
+00:05:59,868 --> 00:06:01,039
+Sheldon: Más despacio.
+
+128
+00:06:01,049 --> 00:06:02,981
+Sheldon: Despacio, por favor, ¡despacio!
+
+129
+00:06:02,991 --> 00:06:03,942
+Penny: ¡Estamos bien!
+
+130
+00:06:03,952 --> 00:06:06,595
+Sheldon: No estás dejando suficiente
+espacio entre los autos.
+
+131
+00:06:06,605 --> 00:06:07,576
+Penny: Sí lo estoy dejando.
+
+132
+00:06:07,586 --> 00:06:09,417
+Sheldon: No, déjame hacer la matemática por tí.
+
+133
+00:06:09,427 --> 00:06:11,920
+Sheldon: Este auto pesa digamos dos toneladas.
+
+134
+00:06:11,930 --> 00:06:14,322
+Sheldon: Agregamos 65 kilos por
+mí, y 55 kilos por tí--
+
+135
+00:06:14,332 --> 00:06:16,254
+- Penny: ¿55 kilos?
+- Sheldon: Lo siento.
+
+136
+00:06:16,264 --> 00:06:17,445
+Sheldon: ¿Te he ofendido?
+
+137
+00:06:17,455 --> 00:06:20,508
+Sheldon: ¿Está tu peso de alguna
+manera atado a tu autoestima?
+
+138
+00:06:20,889 --> 00:06:22,791
+Penny: Bueno, sí.
+
+139
+00:06:22,801 --> 00:06:24,052
+Sheldon: Interesante.
+
+140
+00:06:24,062 --> 00:06:27,606
+Sheldon: Como sea, eso nos da un total
+de, digamos dos toneladas y media.
+
+141
+00:06:27,616 --> 00:06:29,798
+Penny: Digamos dos toneladas y 495 kilos.
+
+142
+00:06:29,808 --> 00:06:31,279
+Sheldon: Bien.
+
+143
+00:06:31,289 --> 00:06:35,243
+Sheldon: Estamos viajando a, oh señor,
+85 kilómetros por hora.
+
+144
+00:06:35,253 --> 00:06:38,597
+Sheldon: Supongamos que los frenos son
+nuevos y el calibrador está alineado.
+
+145
+00:06:38,607 --> 00:06:40,338
+Sheldon: Aun así, para cuando tengamos
+que detenernos,
+
+146
+00:06:40,348 --> 00:06:42,931
+Sheldon: estaremos ocupando el mismo
+espacio que ese Buick,
+
+147
+00:06:42,941 --> 00:06:44,672
+Sheldon: una imposibilidad
+que la naturaleza
+
+148
+00:06:44,673 --> 00:06:46,875
+Sheldon: resolverá rápidamente con
+la muerte, mutilación...
+
+149
+00:06:46,885 --> 00:06:50,168
+Sheldon: Mira construyeron un
+nuevo campo de mini-golf.
+
+150
+00:06:53,091 --> 00:06:54,793
+Sheldon: Esto es genial.
+
+151
+00:06:54,803 --> 00:06:55,944
+Sheldon: Mírame.
+
+152
+00:06:55,954 --> 00:06:58,893
+Sheldon: Estoy en el mundo real con
+gente común viviendo
+
+153
+00:06:58,894 --> 00:07:01,960
+Sheldon: sus vidas laborales
+comunes y sin color.
+
+154
+00:07:02,430 --> 00:07:03,542
+Penny: Gracias.
+
+155
+00:07:03,552 --> 00:07:05,493
+Sheldon: No, gracias a tí.
+
+156
+00:07:05,503 --> 00:07:08,116
+Sheldon: Y gracias a usted persona común.
+
+157
+00:07:09,247 --> 00:07:12,220
+Sheldon: ¿Quieres escuchar algo
+interesante acerca de los tomates?
+
+158
+00:07:12,230 --> 00:07:13,602
+Penny: No, en realidad no.
+
+159
+00:07:13,612 --> 00:07:16,685
+Penny: ¿No dijiste que necesitabas huevos?
+
+160
+00:07:16,695 --> 00:07:20,068
+Sheldon: Sí, pero cualquiera que sepa sobre el
+crecimiento dinámico de las bacterias
+
+161
+00:07:20,078 --> 00:07:21,621
+Sheldon: sabe que debe tomar la
+comida refrigerada cuando
+
+162
+00:07:21,622 --> 00:07:23,471
+Sheldon: va saliendo del supermercado.
+
+163
+00:07:23,481 --> 00:07:26,985
+Penny: Bien, entonces deberías comenzar
+dirigiéndote para afuera.
+
+164
+00:07:27,365 --> 00:07:29,497
+Sheldon: No, esto es divertido.
+
+165
+00:07:29,507 --> 00:07:32,100
+Sheldon: Acerca de los tomates,
+creo que realmente disfrutarás esto...
+
+166
+00:07:32,110 --> 00:07:36,004
+Sheldon: Están acomodados con los vegetales,
+pero técnicamente son una fruta.
+
+167
+00:07:36,014 --> 00:07:37,556
+- Penny: Interesante.
+- Sheldon: ¿Lo es?
+
+168
+00:07:37,566 --> 00:07:40,398
+Penny: No, me refiero a que
+tú lo disfrutes.
+
+169
+00:07:44,422 --> 00:07:46,094
+Sheldon: Muchacho.
+
+170
+00:07:47,235 --> 00:07:49,197
+Penny: ¿Ahora qué?
+
+171
+00:07:49,207 --> 00:07:51,980
+Sheldon: Bueno, hay algún valor al tomar
+algún complejo multivitamínico,
+
+172
+00:07:51,981 --> 00:07:54,072
+Sheldon: pero el cuerpo humano no
+puede absorber mucho.
+
+173
+00:07:54,082 --> 00:07:58,116
+Sheldon: Lo que estás comprando aquí son
+ingredientes para una orina muy costosa.
+
+174
+00:07:59,808 --> 00:08:02,951
+Penny: Tal vez eso es lo que busco.
+
+175
+00:08:02,961 --> 00:08:06,074
+Sheldon: Bien, entonces necesitarás
+un poco de magnesio.
+
+176
+00:08:11,509 --> 00:08:13,081
+Sheldon: Esto fue divertido.
+
+177
+00:08:13,091 --> 00:08:15,814
+Sheldon: Tal vez mañana podamos ir a una
+de esas tiendas de descuento.
+
+178
+00:08:15,824 --> 00:08:16,975
+Penny: No lo sé, Sheldon.
+
+179
+00:08:16,985 --> 00:08:20,809
+Penny: Voy a tomarme un tiempo para recuperarme
+de toda la diversión que tuve hoy.
+
+180
+00:08:21,810 --> 00:08:22,731
+Sheldon: ¿Estás segura?
+
+181
+00:08:22,741 --> 00:08:25,223
+Sheldon: Hay muchas ventajas
+al comprar por mayoreo.
+
+182
+00:08:25,233 --> 00:08:30,358
+Sheldon: Por ejemplo, me enteré que puedes
+comprar tampones para un mes.
+
+183
+00:08:31,970 --> 00:08:33,471
+Penny: ¿Qué?
+
+184
+00:08:33,481 --> 00:08:34,132
+Sheldon: Piénsalo.
+
+185
+00:08:34,142 --> 00:08:36,484
+Sheldon: Es un producto que no se echa a
+perder y lo vas a necesitar
+
+186
+00:08:36,485 --> 00:08:38,827
+Sheldon: por los próximos treinta años.
+
+187
+00:08:39,698 --> 00:08:43,201
+Penny: ¿Quieres que compre
+tampones para treinta años?
+
+188
+00:08:43,211 --> 00:08:44,332
+Sheldon: Bueno, treinta, treinta y cinco.
+
+189
+00:08:44,342 --> 00:08:47,105
+- Sheldon: ¿Cuándo empezó tu madre la menopausia?
+- Penny: Bien.
+
+190
+00:08:47,876 --> 00:08:49,878
+Penny: No voy a hablar eso contigo.
+
+191
+00:08:49,888 --> 00:08:52,481
+Sheldon: Penny, es un proceso natural,
+
+192
+00:08:52,482 --> 00:08:54,973
+Sheldon: y estamos hablando estadísticamente
+de un ahorro importante.
+
+193
+00:08:54,983 --> 00:08:59,027
+Sheldon: Ahora, si suponemos quince tampones
+por periodo y veintiocho días por...
+
+194
+00:08:59,037 --> 00:09:01,610
+Sheldon: ¿Eres bastante regular?
+
+195
+00:09:05,624 --> 00:09:09,688
+Sheldon: Bien, ninguna tienda de descuento, pero
+aún sigue en pie el mini golf, ¿verdad?
+
+196
+00:09:15,473 --> 00:09:16,525
+Leonard: Acabo de toparme con Penny.
+
+197
+00:09:16,535 --> 00:09:18,597
+Leonard: Parecía molesta por algo.
+
+198
+00:09:18,607 --> 00:09:21,029
+Sheldon: Pienso que es su época del mes.
+
+199
+00:09:22,911 --> 00:09:26,084
+Sheldon: Marcaré el calendario para
+futuras referencias.
+
+200
+00:09:28,787 --> 00:09:31,199
+Leonard: ¿Qué pasa con el pescado?
+
+201
+00:09:31,209 --> 00:09:33,211
+Sheldon: Es un experimento.
+
+202
+00:09:34,112 --> 00:09:36,304
+Leonard: ¿Qué pasó con tu investigación
+sobre los huevos revueltos?
+
+203
+00:09:36,314 --> 00:09:37,656
+Sheldon: Era un camino sin salida.
+
+204
+00:09:37,666 --> 00:09:40,809
+Sheldon: Los huevos revueltos son tan
+buenos como siempre.
+
+205
+00:09:41,209 --> 00:09:43,982
+Leonard: Así que, ¿pescado?
+
+206
+00:09:44,763 --> 00:09:47,055
+Sheldon: Leí un artículo sobre unos
+científicos japoneses
+
+207
+00:09:47,056 --> 00:09:49,778
+Sheldon: que insertaron ADN de aguamarinas
+luminosas en otros animales,
+
+208
+00:09:49,788 --> 00:09:54,222
+Sheldon: y pensé, mira,
+luces nocturnas de peces.
+
+209
+00:09:56,424 --> 00:09:58,316
+Leonard: "Luces nocturnas de peces".
+
+210
+00:09:58,326 --> 00:09:59,938
+Sheldon: Es una idea de un
+billón de dólares.
+
+211
+00:10:02,390 --> 00:10:04,222
+Leonard: No diré nada.
+
+212
+00:10:05,003 --> 00:10:07,095
+Leonard: Sheldon, ¿estás seguro que no
+quieres sólo disculparte
+
+213
+00:10:07,096 --> 00:10:09,377
+Leonard: con Gablehauser y
+volver a tu trabajo?
+
+214
+00:10:09,387 --> 00:10:12,521
+Sheldon: No, no, no, tengo mucho
+que hacer.
+
+215
+00:10:13,141 --> 00:10:14,533
+Leonard: Como el pez luminoso.
+
+216
+00:10:15,023 --> 00:10:16,895
+Sheldon: Lo siento. No lo...
+
+217
+00:10:18,687 --> 00:10:20,258
+Leonard: Es sólo el principio.
+
+218
+00:10:20,268 --> 00:10:22,158
+Sheldon: También haré algo
+para venderlo por
+
+219
+00:10:22,159 --> 00:10:24,553
+Sheldon: correo para una compañía
+de higiene femenina.
+
+220
+00:10:24,563 --> 00:10:27,055
+Sheldon: ¡Tampones que brillan
+en la oscuridad!
+
+221
+00:10:29,798 --> 00:10:32,721
+Sheldon: Leonard, vamos a ser ricos.
+
+222
+00:10:35,714 --> 00:10:38,046
+Leonard: Gracias por venir en
+tan poco tiempo.
+
+223
+00:10:38,056 --> 00:10:39,357
+Mary Cooper: Bueno, hiciste lo
+correcto al llamar.
+
+224
+00:10:39,367 --> 00:10:40,498
+Leonard: No supe más que hacer.
+
+225
+00:10:40,508 --> 00:10:41,810
+Leonard: Perdió todo el enfoque.
+
+226
+00:10:41,820 --> 00:10:44,262
+Leonard: Cada día tiene una
+nueva obsesión.
+
+227
+00:10:50,759 --> 00:10:54,062
+Leonard: Esta en particular es
+perturbadora.
+
+228
+00:10:56,224 --> 00:10:58,046
+Sheldon: ¿Mami?
+
+229
+00:10:58,266 --> 00:11:00,919
+Sheldon: ¡Hola, mi niño!
+
+230
+00:11:10,809 --> 00:11:14,512
+Mary Cooper: ¿Te conseguiste una tejedora?
+Que bien.
+
+231
+00:11:14,523 --> 00:11:15,654
+Sheldon: Gracias.
+
+232
+00:11:15,664 --> 00:11:18,076
+Mary Cooper: Cariño, ¿por qué conseguiste
+una tejedora?
+
+233
+00:11:18,887 --> 00:11:23,061
+Sheldon: Estaba trabajando con un
+pez luminoso, y pensé...
+
+234
+00:11:24,192 --> 00:11:26,294
+Sheldon: "tejedora".
+
+235
+00:11:27,716 --> 00:11:30,098
+Sheldon: Mamá, ¿qué estás
+haciendo aquí?
+
+236
+00:11:30,108 --> 00:11:31,770
+Mary Cooper: Me llamó Leonard.
+
+237
+00:11:31,780 --> 00:11:33,652
+Sheldon: Lo sé, pero ¿por qué?
+
+238
+00:11:33,662 --> 00:11:35,814
+Leonard: Porque una de las grandes
+mentes del siglo 21
+
+239
+00:11:35,815 --> 00:11:37,866
+Leonard: está criando peces que
+brillan en la oscuridad
+
+240
+00:11:37,876 --> 00:11:40,418
+Leonard: y tejiendo sarapes.
+
+241
+00:11:40,428 --> 00:11:43,071
+Sheldon: Este no es un sarape,
+esto es un poncho.
+
+242
+00:11:43,081 --> 00:11:45,283
+Sheldon: Un sarape está abierto por los lados,
+el poncho está cerrado.
+
+243
+00:11:45,293 --> 00:11:46,214
+Sheldon: Esto es un poncho.
+
+244
+00:11:46,224 --> 00:11:50,098
+Sheldon: Y tampoco es razón para
+llamar a la mamá de alguien.
+
+245
+00:11:50,949 --> 00:11:54,032
+Leonard: ¿De veras? ¿Cuándo fue la última
+vez que saliste de la casa?
+
+246
+00:11:54,042 --> 00:11:55,734
+Sheldon: Fui al mercado con Penny.
+
+247
+00:11:55,744 --> 00:11:57,616
+Leonard: Sí, eso fue hace tres semanas.
+
+248
+00:11:57,626 --> 00:11:59,866
+Sheldon: Bueno, pues abróchate el cinturón, en
+los siguientes cuatro a ocho días
+
+249
+00:11:59,867 --> 00:12:02,160
+Sheldon: se va a poner
+muy malhumorada.
+
+250
+00:12:04,603 --> 00:12:07,475
+Mary Cooper: Cariño, tu amiguito
+está preocupado por ti.
+
+251
+00:12:07,485 --> 00:12:09,696
+Sheldon: Sí, bueno, no soy un niño,
+soy un adulto
+
+252
+00:12:09,697 --> 00:12:12,190
+Sheldon: capaz de vivir mi vida
+como se me acomode.
+
+253
+00:12:12,200 --> 00:12:16,124
+Sheldon: ¡Y de ninguna manera necesito
+a alguien que le chismee a mi madre!
+
+254
+00:12:16,685 --> 00:12:18,086
+Leonard: ¿A dónde vas?
+
+255
+00:12:18,096 --> 00:12:20,979
+Sheldon: A mi cuarto,
+¡y no se le permite entrar a nadie!
+
+256
+00:12:23,021 --> 00:12:25,614
+Mary Cooper: Sacó el temperamento
+de su padre.
+
+257
+00:12:25,624 --> 00:12:28,336
+- Mary Cooper: Él tiene mis ojos.
+- Leonard: Ya veo.
+
+258
+00:12:28,346 --> 00:12:31,850
+Mary Cooper: Todo eso de la ciencia,
+eso viene de Jesucristo.
+
+259
+00:12:35,013 --> 00:12:36,705
+Leonard: Sheldon, tu mamá
+hizo la cena.
+
+260
+00:12:36,715 --> 00:12:38,476
+Sheldon: ¡No tengo hambre!
+
+261
+00:12:38,707 --> 00:12:40,819
+Mary Cooper: Leonard, no te preocupes.
+Es muy terco.
+
+262
+00:12:40,829 --> 00:12:43,271
+Mary Cooper: Puede permanecer ahí hasta el éxtasis.
+
+263
+00:12:44,633 --> 00:12:47,015
+Penny: ¿Estamos seguros que
+eso es algo malo?
+
+264
+00:12:47,025 --> 00:12:49,868
+Mary Cooper: Te lo digo, quiero al muchacho a
+muerte, pero ha sido difícil
+
+265
+00:12:49,878 --> 00:12:52,440
+Mary Cooper: desde que se me cayó
+en el K-Mart.
+
+266
+00:12:54,773 --> 00:12:57,467
+Howard: Discúlpeme si soy muy
+atrevido, pero ahora veo
+
+267
+00:12:57,468 --> 00:13:00,418
+Howard: de dónde Sheldon obtuvo su
+apariencia provocativa.
+
+268
+00:13:01,840 --> 00:13:04,963
+Mary Cooper: Cariño, no va a funcionar,
+pero sigue tratando.
+
+269
+00:13:05,524 --> 00:13:07,365
+Mary Cooper: Hice pollo.
+
+270
+00:13:07,566 --> 00:13:12,480
+Mary Cooper: Espero que no sea uno de los animales
+que tu gente piensa que es mágico.
+
+271
+00:13:17,576 --> 00:13:20,228
+Mary Cooper: Tenemos un caballero indio
+en nuestra iglesia,
+
+272
+00:13:20,238 --> 00:13:22,781
+Mary Cooper: el doctor Patel, es una
+historia hermosa.
+
+273
+00:13:22,791 --> 00:13:25,083
+Mary Cooper: El Señor le habló y
+lo alentó a
+
+274
+00:13:25,084 --> 00:13:27,375
+Mary Cooper: darnos a todos 20% de descuento
+en la cirugía láser para los ojos.
+
+275
+00:13:27,385 --> 00:13:29,828
+Mary Cooper: Claro está, a aquellos
+que lo necesiten.
+
+276
+00:13:29,838 --> 00:13:31,329
+Leonard: Es una bonita historia.
+
+277
+00:13:31,339 --> 00:13:33,642
+Leonard: ¿Va a hacer algo acerca
+de lo de Sheldon?
+
+278
+00:13:33,652 --> 00:13:34,502
+Leonard: Lo haremos.
+
+279
+00:13:34,512 --> 00:13:36,605
+Mary Cooper: Tienen que tomarse
+su tiempo con Sheldon.
+
+280
+00:13:36,615 --> 00:13:38,747
+Mary Cooper: Su padre, en paz descanse,
+siempre solía decirme,
+
+281
+00:13:38,757 --> 00:13:41,980
+Mary Cooper: "Mary, tienes que tomarte
+tu tiempo con Sheldon".
+
+282
+00:13:42,831 --> 00:13:44,302
+Leonard: Suena como un hombre sabio.
+
+283
+00:13:44,312 --> 00:13:45,874
+Mary Cooper: No tan sabio.
+
+284
+00:13:45,884 --> 00:13:49,187
+Mary Cooper: Una vez trató de pelear con un gato
+montés por un poco de regaliz.
+
+285
+00:13:49,838 --> 00:13:55,163
+Mary Cooper: Todos tomen un plato y
+un mantel que Shelly tejió.
+
+286
+00:13:55,453 --> 00:13:57,716
+Penny: ¿Alguna vez Shelly se ha vuelto
+tan loco como ahora?
+
+287
+00:13:57,726 --> 00:13:59,307
+Mary Cooper: Todo el tiempo.
+
+288
+00:13:59,317 --> 00:14:01,670
+Mary Cooper: Recuerdo un verano cuando
+él tenía 13 años
+
+289
+00:14:01,680 --> 00:14:05,013
+Mary Cooper: construyó un pequeño
+reactor nuclear en el cobertizo
+
+290
+00:14:05,023 --> 00:14:08,236
+Mary Cooper: y le dijo a todos que iba a proveer de
+electricidad gratis para todo el pueblo.
+
+291
+00:14:08,246 --> 00:14:10,550
+Mary Cooper: Bueno, el único problema fue,
+que él no tenía
+
+292
+00:14:10,551 --> 00:14:13,181
+Mary Cooper: lo que ustedes llaman
+materiales "fisionables".
+
+293
+00:14:13,592 --> 00:14:16,605
+Mary Cooper: De cualquier manera, cuando fue a
+internet para obtener un poco
+
+294
+00:14:16,615 --> 00:14:21,279
+Mary Cooper: un hombre del gobierno llegó
+y lo calmo delicadamente
+
+295
+00:14:21,319 --> 00:14:23,521
+Mary Cooper: y le dijo que es contra
+la ley tener
+
+296
+00:14:23,522 --> 00:14:25,784
+Mary Cooper: un dispositivo con uranio
+en un cobertizo.
+
+297
+00:14:26,394 --> 00:14:27,165
+Penny: ¿Y qué pasó?
+
+298
+00:14:27,175 --> 00:14:28,707
+Mary Cooper: Bueno, tuvo que encajar.
+
+299
+00:14:28,717 --> 00:14:32,901
+Mary Cooper: Se encerró en su cuarto
+y construyó un rayo mortal sónico.
+
+300
+00:14:32,911 --> 00:14:33,872
+Leonard: ¿Un rayo mortal?
+
+301
+00:14:33,882 --> 00:14:35,353
+Mary Cooper: Bueno, así lo llamaba él.
+
+302
+00:14:35,363 --> 00:14:37,846
+Mary Cooper: Ni siquiera calmo a los
+niños vecinos.
+
+303
+00:14:38,707 --> 00:14:41,229
+Mary Cooper: Hizo enojar mucho a nuestro perro.
+
+304
+00:14:43,101 --> 00:14:45,974
+Mary Cooper: Ustedes dos hacen una bonita pareja.
+
+305
+00:14:46,635 --> 00:14:48,076
+Mary Cooper: Nosotros no...
+
+306
+00:14:48,086 --> 00:14:49,568
+Leonard: no somos pareja.
+Somos solteros.
+
+307
+00:14:49,578 --> 00:14:50,388
+- Leonard: Dos solteros.
+- Sí.
+
+308
+00:14:50,398 --> 00:14:54,462
+Leonard: Como esas, rebanadas de queso
+envueltas de a una, que...
+
+309
+00:14:56,054 --> 00:14:57,736
+Leonard: somos amigos.
+
+310
+00:14:58,927 --> 00:15:00,048
+Mary Cooper: ¿Toqué un punto sensible?
+
+311
+00:15:00,058 --> 00:15:01,590
+- Howard: Oh, sí.
+- Mary Cooper: Bien.
+
+312
+00:15:01,600 --> 00:15:03,982
+Mary Cooper: Muy bien, todo el mundo,
+es hora de comer.
+
+313
+00:15:04,873 --> 00:15:09,758
+Mary Cooper: Oh, Señor, te damos gracias por este
+alimento y por todos tus regalos.
+
+314
+00:15:09,768 --> 00:15:13,532
+Mary Cooper: Y te pedimos que ayudes a Sheldon
+a volver a su puesto.
+
+315
+00:15:14,352 --> 00:15:16,995
+Mary Cooper: Ahora, luego de meditar
+en silencio, voy
+
+316
+00:15:16,996 --> 00:15:18,977
+Mary Cooper: a terminar con "en nombre de Jesús",
+
+317
+00:15:18,987 --> 00:15:22,270
+Mary Cooper: pero ustedes dos no sientan ninguna
+obligación a acompañarme.
+
+318
+00:15:23,161 --> 00:15:26,184
+Mary Cooper: A menos, por supuesto, que los motive
+el Espíritu Santo.
+
+319
+00:15:35,393 --> 00:15:38,256
+Penny: Oh, Dios, esta es la mejor papilla que
+nunca he comido.
+
+320
+00:15:38,266 --> 00:15:40,008
+Mary Cooper: Siempre fue la favorita de Sheldon.
+
+321
+00:15:40,018 --> 00:15:42,390
+Mary Cooper: ¿Sabes cuál es el
+ingrediente secreto?
+
+322
+00:15:42,400 --> 00:15:44,623
+- Penny: ¿Amor?
+- Mary Cooper: Grasa.
+
+323
+00:15:49,207 --> 00:15:50,258
+Howard: Oigan, miren quién viene--
+
+324
+00:15:50,889 --> 00:15:52,641
+Mary Cooper: Vas a asustarlo.
+
+325
+00:15:54,422 --> 00:15:57,385
+Mary Cooper: Es como un cervatillo, tienes que
+dejar que se acerque a ti.
+
+326
+00:16:05,784 --> 00:16:07,015
+Leonard: Esto es ridículo.
+
+327
+00:16:07,025 --> 00:16:09,207
+Leonard: ¡Maldición, Sheldon,
+tienes que superarlo!
+
+328
+00:16:09,217 --> 00:16:11,217
+Leonard: Eres un físico, ¡Debes estar
+en la Universidad
+
+329
+00:16:11,218 --> 00:16:13,832
+Leonard: investigando y no
+escondido en tu cuarto!
+
+330
+00:16:20,569 --> 00:16:22,971
+Mary Cooper: ¿Tú no cazas, verdad?
+
+331
+00:16:28,667 --> 00:16:30,869
+Mary Cooper: Buen día, bizcochito.
+
+332
+00:16:31,960 --> 00:16:32,881
+Sheldon: Buen día.
+
+333
+00:16:33,441 --> 00:16:36,204
+Mary Cooper: Oh, bueno, eso se ve
+increíblemente raro, ¿qué es eso?
+
+334
+00:16:37,395 --> 00:16:41,900
+Sheldon: Es mi idea de cómo debe verse el ADN de
+una forma de vida basada en silicona.
+
+335
+00:16:43,141 --> 00:16:47,075
+Mary Cooper: Pero diseñada inteligentemente
+por un Creador ¿cierto?
+
+336
+00:16:49,457 --> 00:16:51,009
+Sheldon: ¿Qué quieres, mamá?
+
+337
+00:16:51,019 --> 00:16:53,341
+Mary Cooper: ¿Recuerdas lo que solía decir tu papá,
+sobre que sólo puedes pescar
+
+338
+00:16:53,351 --> 00:16:57,976
+Mary Cooper: mientras seas capaz de tirar cartuchos
+de dinamita en el agua?
+
+339
+00:16:58,366 --> 00:16:59,077
+Sheldon: Sí.
+
+340
+00:16:59,087 --> 00:17:01,519
+Mary Cooper: Bueno, me cansé de pescar.
+
+341
+00:17:03,041 --> 00:17:04,332
+Mary Cooper: Ponte esto.
+
+342
+00:17:04,342 --> 00:17:05,123
+Sheldon: ¿Para qué?
+
+343
+00:17:05,133 --> 00:17:07,215
+Mary Cooper: Porque vas a volver a tu oficina,
+
+344
+00:17:07,225 --> 00:17:10,068
+Mary Cooper: vas a disculparte con tu jefe y a
+recuperar tu trabajo.
+
+345
+00:17:10,078 --> 00:17:10,929
+Sheldon: No.
+
+346
+00:17:10,939 --> 00:17:13,178
+Mary Cooper: Lo siento ¿Acaso comencé
+la frase diciendo
+
+347
+00:17:13,179 --> 00:17:15,473
+Mary Cooper: "Si es del agrado de su alteza"?
+
+348
+00:17:17,305 --> 00:17:20,238
+Sheldon: No me voy a disculpar... No dije nada que
+no fuera cierto.
+
+349
+00:17:20,248 --> 00:17:21,740
+Mary Cooper: Ahora, escúchame.
+
+350
+00:17:21,750 --> 00:17:24,492
+Mary Cooper: Te he venido diciendo desde
+que tenías 4 años,
+
+351
+00:17:24,502 --> 00:17:26,644
+Mary Cooper: que está bien ser más
+listo que los demás,
+
+352
+00:17:26,645 --> 00:17:28,486
+Mary Cooper: pero no puedes ir
+por ahí alardeándolo.
+
+353
+00:17:28,496 --> 00:17:29,237
+Sheldon: ¿Por qué no?
+
+354
+00:17:29,247 --> 00:17:31,780
+Mary Cooper: ¡Porque a la gente no le gusta!
+
+355
+00:17:32,601 --> 00:17:36,424
+Mary Cooper: ¿Recuerdas cuántas patadas en el culo
+recibiste de los chicos del vecindario?
+
+356
+00:17:38,587 --> 00:17:40,338
+Mary Cooper: ¡Ahora, moviéndote!
+
+357
+00:17:40,348 --> 00:17:43,592
+Mary Cooper: Ducha, camisa, zapatos y ¡en marcha!
+
+358
+00:17:45,844 --> 00:17:47,941
+Sheldon: No habría tenido tantas
+patadas en el culo
+
+359
+00:17:47,942 --> 00:17:49,788
+Sheldon: si el estúpido rayo de la muerte
+hubiera funcionado.
+
+360
+00:17:54,603 --> 00:17:56,404
+Mary Cooper: Problema resuelto.
+
+361
+00:17:56,715 --> 00:17:57,806
+Leonard: ¿En serio?
+
+362
+00:17:57,816 --> 00:17:59,127
+Leonard: ¡Impresionante!
+
+363
+00:17:59,137 --> 00:18:02,561
+Mary Cooper: Leonard, el Señor nunca te da más de
+lo que puedes manejar.
+
+364
+00:18:02,571 --> 00:18:06,494
+Mary Cooper: Por suerte me bendijo con otros
+dos niños absolutamente tontos.
+
+365
+00:18:12,120 --> 00:18:14,392
+Mary Cooper: Discúlpeme, dr. Gablehauser
+¿Está ocupado?
+
+366
+00:18:14,402 --> 00:18:15,013
+Gablehouser: Bueno, en realidad--
+
+367
+00:18:15,023 --> 00:18:16,444
+Mary Cooper: Sólo está garabateando, Sheldon...
+
+368
+00:18:16,454 --> 00:18:17,916
+Mary Cooper: Entra.
+
+369
+00:18:21,319 --> 00:18:22,280
+Sheldon: Dr. Gablehauser.
+
+370
+00:18:22,290 --> 00:18:24,252
+Gablehouser: Dr. Cooper.
+
+371
+00:18:24,993 --> 00:18:27,546
+Mary Cooper: Vamos, bebé, se nos va la luz del día.
+
+372
+00:18:31,790 --> 00:18:36,094
+Sheldon: Como sabe, hace algunas semanas
+en nuestro primer encuentro
+
+373
+00:18:36,104 --> 00:18:38,363
+Sheldon: puede que hayamos comenzado con
+el pie izquierdo, cuando
+
+374
+00:18:38,364 --> 00:18:40,559
+Sheldon: lo llame un idiota.
+
+375
+00:18:41,109 --> 00:18:43,912
+Sheldon: Y quiero que sepa que estuve mal
+
+376
+00:18:43,922 --> 00:18:46,464
+Gablehouser: en señalarlo.
+
+377
+00:18:48,707 --> 00:18:50,979
+Gablehouser: Perdón, no fuimos presentados.
+
+378
+00:18:50,989 --> 00:18:52,180
+Gablehouser: Dr. Eric Gablehauser.
+
+379
+00:18:52,190 --> 00:18:54,162
+Mary Cooper: Mary Cooper, la mamá de Sheldon.
+
+380
+00:18:54,172 --> 00:18:55,654
+Gablehouser: No, es imposible,
+
+381
+00:18:55,664 --> 00:18:57,686
+Gablehouser: lo debe haber tenido cuando era
+una adolescente.
+
+382
+00:18:57,696 --> 00:18:58,937
+Mary Cooper: Oh, que dulce.
+
+383
+00:18:58,947 --> 00:19:01,199
+Mary Cooper: Su padre murió.
+
+384
+00:19:02,821 --> 00:19:04,993
+- Mary Cooper: ¿Recientemente?
+- Gablehouser: El tiempo suficiente.
+
+385
+00:19:05,724 --> 00:19:07,035
+Mary Cooper: Por favor.
+
+386
+00:19:08,126 --> 00:19:10,458
+Gablehouser: Sheldon, ¿no deberías estar trabajando?
+
+387
+00:19:14,523 --> 00:19:16,424
+Sheldon: Bien.
+
+388
+00:19:20,879 --> 00:19:22,621
+Leonard: Oye, ¿cómo fue todo?
+
+389
+00:19:22,631 --> 00:19:24,162
+Sheldon: Recuperé mi trabajo.
+
+390
+00:19:24,172 --> 00:19:26,244
+Leonard: ¿En serio? ¿Qué pasó?
+
+391
+00:19:26,625 --> 00:19:28,537
+Sheldon: No estoy muy seguro.
+
+392
+00:19:29,227 --> 00:19:33,201
+Sheldon: Tiene que ver con una experiencia
+humana que siempre me es esquiva.
+
+393
+00:19:33,992 --> 00:19:36,434
+Leonard: Bueno, eso lo acota bastante.
+
+394
+00:19:39,608 --> 00:19:41,369
+Mary Cooper: Estoy muy orgulloso de tí, cariño.
+
+395
+00:19:41,379 --> 00:19:44,132
+Mary Cooper: Hoy mostraste mucho valor.
+
+396
+00:19:44,142 --> 00:19:45,734
+Sheldon: Gracias, mamá.
+
+397
+00:19:49,447 --> 00:19:50,589
+Sheldon: ¿Mamá?
+
+398
+00:19:51,570 --> 00:19:55,203
+Sheldon: ¿El dr. Gablehauser va a ser mi
+nuevo papito?
+
+399
+00:19:57,846 --> 00:19:59,548
+Mary Cooper: Ya veremos.
+
+400
+00:19:59,558 --> 00:20:00,649
+Mary Cooper: Dulces sueños.
+
+401
+00:20:04,065 --> 00:20:08,558
+Sigue The Big Bang Theory en:

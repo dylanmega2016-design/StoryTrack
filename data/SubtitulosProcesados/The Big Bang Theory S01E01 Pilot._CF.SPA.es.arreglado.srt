@@ -1,0 +1,1868 @@
+1
+00:00:02,307 --> 00:00:05,337
+Sheldon: Si un fotón de dos aperturas
+es observado en un plano,...
+
+2
+00:00:05,338 --> 00:00:07,847
+Sheldon: ...no podría pasar
+por las dos aperturas.
+
+3
+00:00:07,848 --> 00:00:09,107
+Sheldon: Pero si no se observa, sí podrá.
+
+4
+00:00:09,108 --> 00:00:12,537
+Sheldon: Si se observa después de dejar el plano
+y antes de alcanzar su objetivo...
+
+5
+00:00:12,538 --> 00:00:14,337
+Sheldon: ...aún así no puede pasar
+por las dos aperturas.
+
+6
+00:00:14,338 --> 00:00:16,587
+Leonard: Estoy de acuerdo.
+¿Cuál es tu punto?
+
+7
+00:00:16,588 --> 00:00:19,067
+Sheldon: No hay ningún punto.
+Es una buena idea para una remera.
+
+8
+00:00:25,297 --> 00:00:26,327
+Leonard: Disculpe.
+
+9
+00:00:26,328 --> 00:00:28,107
+Recepcionista: Aguarde.
+
+10
+00:00:31,057 --> 00:00:32,997
+Leonard: 1 horizontal es "Egeo".
+
+11
+00:00:32,998 --> 00:00:37,147
+Leonard: 8 vertical es "Nabokov".
+26 horizontal es "MCM".
+
+12
+00:00:37,148 --> 00:00:40,337
+Leonard: 14 vertical es... mueva el dedo...
+
+13
+00:00:40,338 --> 00:00:43,387
+Leonard: ..."Phylum". Ahí tiene el 14 vertical
+que dice "Port-au-Prince".
+
+14
+00:00:44,587 --> 00:00:48,257
+Leonard: Ve, "Idea capitalista de Papa Doc",
+la respuesta es "Port-au-Prince".
+
+15
+00:00:49,337 --> 00:00:51,247
+Leonard: Haití.
+
+16
+00:00:51,847 --> 00:00:53,667
+- Recepcionista: ¿Puedo ayudarlos?
+- Leonard: Sí.
+
+17
+00:00:55,697 --> 00:00:59,797
+Leonard: ¿Este es el banco de esperma
+de alto coeficiente intelectual?
+
+18
+00:01:01,137 --> 00:01:03,957
+Recepcionista: Si están preguntando eso,
+quizás no debería estar aquí.
+
+19
+00:01:05,077 --> 00:01:06,637
+Sheldon: Creo que este es el lugar.
+
+20
+00:01:07,777 --> 00:01:09,647
+- Recepcionista: Llene estos.
+- Leonard: Gracias.
+
+21
+00:01:09,648 --> 00:01:10,807
+Leonard: Volvemos enseguida.
+
+22
+00:01:10,808 --> 00:01:14,107
+Recepcionista: Tómense su tiempo.
+Yo voy a terminar mi crucigramas.
+
+23
+00:01:15,227 --> 00:01:17,727
+Recepcionista: Espera.
+
+24
+00:01:27,747 --> 00:01:29,427
+Sheldon: Leonard, no puedo hacer esto.
+
+25
+00:01:29,807 --> 00:01:31,837
+Leonard: ¿Qué, estás bromeando?
+Eres casi profesional.
+
+26
+00:01:33,317 --> 00:01:35,837
+Sheldon: No, estamos cometiendo fraude genético.
+
+27
+00:01:35,838 --> 00:01:40,147
+Sheldon: Nada garantiza que nuestro esperma sea
+para engendrar niños de alto C.I.
+
+28
+00:01:40,148 --> 00:01:43,817
+Sheldon: Tengo una hermana que tiene el mismo ADN
+mezclado con el de unos borrachos.
+
+29
+00:01:45,027 --> 00:01:47,107
+Leonard: Sheldon, ésta fue tu idea.
+
+30
+00:01:47,108 --> 00:01:50,367
+Leonard: Es dinero extra para poner banda ancha
+T-1 en el departamento.
+
+31
+00:01:50,368 --> 00:01:53,487
+Sheldon: Lo sé, y quiero descargar más rápido.
+
+32
+00:01:54,337 --> 00:01:57,607
+Sheldon: Pero hay una pobre mujer que depositará
+sus esperanzas en mi esperma.
+
+33
+00:01:57,608 --> 00:02:01,227
+Sheldon: ¿Qué pasa si cría un hijo que no sabe
+si usar integrales o diferenciales...
+
+34
+00:02:01,228 --> 00:02:03,767
+Sheldon: ...para resolver el área
+debajo de una curva?
+
+35
+00:02:04,657 --> 00:02:06,327
+Leonard: Estoy seguro que aún así lo amaría.
+
+36
+00:02:06,328 --> 00:02:07,917
+Sheldon: Yo no lo haría.
+
+37
+00:02:09,387 --> 00:02:10,997
+Leonard: Bueno, ¿qué quieres hacer?
+
+38
+00:02:10,998 --> 00:02:13,137
+- Sheldon: Quiero irme.
+- Leonard: Está bien.
+
+39
+00:02:13,877 --> 00:02:15,517
+Sheldon: ¿Cuál es el protocolo para irse?
+
+40
+00:02:15,518 --> 00:02:18,737
+Leonard: No lo sé, nunca me rehusé
+a dar muestras de esperma antes.
+
+41
+00:02:20,167 --> 00:02:22,107
+Sheldon: Intentemos salir caminando.
+
+42
+00:02:22,587 --> 00:02:24,307
+Leonard: Está bien.
+
+43
+00:02:33,947 --> 00:02:36,237
+- Recepcionista, Sheldon, Leonard: Adiós.
+- Adiós. Fue un placer.
+
+44
+00:02:39,137 --> 00:02:40,747
+Sheldon: ¿Sigues enojado por
+lo del banco de esperma?
+
+45
+00:02:40,748 --> 00:02:42,287
+Leonard: No.
+
+46
+00:02:43,327 --> 00:02:45,787
+Sheldon: ¿Quieres oír algo interesante
+sobre las escaleras?
+
+47
+00:02:46,647 --> 00:02:48,267
+Leonard: En verdad, no.
+
+48
+00:02:48,268 --> 00:02:52,307
+Sheldon: Si la altura de un escalón fuese de dos
+milímetros más, la mayoría se caería.
+
+49
+00:02:52,308 --> 00:02:54,397
+Leonard: No me importa.
+
+50
+00:02:55,517 --> 00:02:57,507
+Leonard: Dos milím--
+Eso no suena correcto.
+
+51
+00:02:57,508 --> 00:02:59,997
+Sheldon: Es cierto. Hice una serie
+de experimentos cuando tenía 12.
+
+52
+00:02:59,998 --> 00:03:02,097
+Sheldon: Mi padre se quebró la clavícula.
+
+53
+00:03:02,867 --> 00:03:04,927
+Leonard: ¿Es por eso que te enviaron
+a un internado?
+
+54
+00:03:04,928 --> 00:03:07,907
+Sheldon: No, eso fue por mi trabajo con lásers.
+
+55
+00:03:13,757 --> 00:03:16,327
+- Leonard: ¿Nueva vecina?
+- Sheldon: Evidentemente.
+
+56
+00:03:16,328 --> 00:03:19,287
+Leonard: Una mejora significante
+respecto al anterior.
+
+57
+00:03:19,897 --> 00:03:23,977
+Sheldon: ¿Un travesti de 90 Kg.
+con enfermedad de piel? Sí, lo es.
+
+58
+00:03:25,697 --> 00:03:27,097
+- Penny: Hola.
+- Leonard: Hola.
+
+59
+00:03:27,098 --> 00:03:28,157
+- Sheldon: Hola.
+- Leonard: Hola.
+
+60
+00:03:28,158 --> 00:03:31,907
+- Sheldon: Hola.
+- Penny: ¿Hola?
+
+61
+00:03:32,577 --> 00:03:34,897
+Leonard: No te queremos interrumpir.
+Vivimos del otro lado del pasillo.
+
+62
+00:03:34,898 --> 00:03:37,067
+Penny: Qué bien.
+
+63
+00:03:37,068 --> 00:03:39,277
+Leonard: No vivimos juntos.
+
+64
+00:03:39,278 --> 00:03:43,197
+Leonard: Es decir, vivimos juntos,
+pero separados...
+
+65
+00:03:43,198 --> 00:03:45,617
+Leonard: ...en habitaciones heterosexuales.
+
+66
+00:03:45,618 --> 00:03:49,047
+Penny: Está bien. Supongo que soy
+su nueva vecina. Penny.
+
+67
+00:03:49,048 --> 00:03:50,437
+Leonard: Leonard. Sheldon.
+
+68
+00:03:50,438 --> 00:03:51,467
+- Penny: Hola.
+- Leonard: Hola.
+
+69
+00:03:51,468 --> 00:03:54,077
+Sheldon, Penny, Leonard: Hola. Hola. Hola.
+
+70
+00:03:55,697 --> 00:03:59,027
+Leonard: Bueno, bienvenida al edificio.
+
+71
+00:03:59,028 --> 00:04:01,467
+Penny: Gracias. Quizás podríamos tomar
+un café juntos, algún día.
+
+72
+00:04:01,468 --> 00:04:02,687
+- Leonard: Genial.
+- Penny: Genial.
+
+73
+00:04:02,688 --> 00:04:04,597
+- Sheldon: Genial.
+- Leonard: Genial.
+
+74
+00:04:06,417 --> 00:04:08,187
+- Leonard: Bueno, adiós.
+- Penny: Adiós.
+
+75
+00:04:08,188 --> 00:04:10,417
+- Sheldon: Adiós.
+- Leonard: Adiós.
+
+76
+00:04:12,747 --> 00:04:14,387
+Leonard: ¿No deberíamos invitarla a comer?
+
+77
+00:04:14,388 --> 00:04:17,217
+Sheldon: No, tenemos que ver la segunda temporada
+de Battlestar Galactica.
+
+78
+00:04:18,157 --> 00:04:20,217
+Leonard: Ya vimos los DVDs de esa temporada.
+
+79
+00:04:20,218 --> 00:04:22,227
+Sheldon: No con los comentarios.
+
+80
+00:04:24,187 --> 00:04:28,057
+Leonard: Deberíamos ser mejores vecinos
+e invitarla, hacerla sentir cómoda.
+
+81
+00:04:28,567 --> 00:04:31,867
+Sheldon: Nunca invitamos a Luis/Luisa.
+
+82
+00:04:32,467 --> 00:04:34,157
+Leonard: Y eso estuvo mal de nuestra parte.
+
+83
+00:04:34,158 --> 00:04:35,977
+Leonard: Tenemos que ampliar nuestro circulo.
+
+84
+00:04:35,978 --> 00:04:38,907
+Sheldon: Yo tengo un circulo muy amplio.
+
+85
+00:04:38,908 --> 00:04:41,587
+Sheldon: Tengo 212 amigos en MySpace.
+
+86
+00:04:43,107 --> 00:04:45,237
+Leonard: Sí, y nunca conociste a ninguno.
+
+87
+00:04:45,917 --> 00:04:48,067
+Sheldon: Eso es lo bueno de ello.
+
+88
+00:04:49,817 --> 00:04:51,967
+Leonard: La voy a invitar a que venga.
+
+89
+00:04:51,968 --> 00:04:54,577
+Leonard: Comer juntos y charlar.
+
+90
+00:04:54,578 --> 00:04:57,967
+Sheldon: ¿Charlar? Nosotros no charlamos.
+Al menos no sin conexión.
+
+91
+00:04:59,777 --> 00:05:02,897
+Leonard: Bueno, no es tan difícil.
+Sólo debes escuchar lo que dice...
+
+92
+00:05:02,898 --> 00:05:05,697
+Leonard: ...y responder algo apropiado.
+
+93
+00:05:07,077 --> 00:05:08,697
+Sheldon: ¿Con qué fin?
+
+94
+00:05:10,017 --> 00:05:11,827
+Leonard: Hola, otra vez.
+
+95
+00:05:11,828 --> 00:05:14,417
+- Penny: Hola.
+- Sheldon: Hola.
+
+96
+00:05:15,087 --> 00:05:18,427
+Leonard: Compramos comida india.
+
+97
+00:05:19,147 --> 00:05:20,527
+Leonard: Y...
+
+98
+00:05:20,528 --> 00:05:22,997
+Leonard: Sé que mudarse puede ser estresante...
+
+99
+00:05:22,998 --> 00:05:25,067
+Leonard: ...y descubrí que cuando
+estoy estresado...
+
+100
+00:05:25,068 --> 00:05:28,607
+Leonard: ...una buena comida y compañía
+pueden ser reconfortantes.
+
+101
+00:05:29,557 --> 00:05:32,757
+Leonard: Además, el curry es un laxante natural,
+y no es necesario que te lo diga...
+
+102
+00:05:32,758 --> 00:05:37,737
+Leonard: ...pero un colon limpio es algo menos
+de que preocuparse.
+
+103
+00:05:39,297 --> 00:05:42,307
+Sheldon: Leonard, no soy un experto, pero creo
+que en el contexto de la invitación...
+
+104
+00:05:42,308 --> 00:05:45,097
+Sheldon: ...quizás quieras evitar hablar
+de movimientos estomacales.
+
+105
+00:05:45,098 --> 00:05:47,487
+Penny: ¿Me están invitando a almorzar?
+
+106
+00:05:47,488 --> 00:05:49,517
+Leonard: Sí.
+
+107
+00:05:49,518 --> 00:05:51,607
+Penny: Qué dulce. Me encantaría.
+
+108
+00:05:51,608 --> 00:05:52,797
+Leonard: Genial.
+
+109
+00:05:52,798 --> 00:05:55,927
+Penny: Así que, ¿qué hacen para divertirse?
+
+110
+00:05:55,928 --> 00:05:58,667
+Sheldon: Bueno, hoy intentamos
+masturbarnos por dinero.
+
+111
+00:06:02,247 --> 00:06:05,737
+<i>El universo estaba caliente,
+era denso e incandescente...</i>
+
+112
+00:06:05,738 --> 00:06:09,747
+<i>...y 14 billones de años atrás
+todo comenzó... ¡Esperen!</i>
+
+113
+00:06:09,748 --> 00:06:12,537
+<i>La tierra se comenzó a enfriar
+y las ruedas a rodar...</i>
+
+114
+00:06:12,538 --> 00:06:14,927
+<i>...herramientas del Neanderthal
+para construir este mural...</i>
+
+115
+00:06:14,928 --> 00:06:17,077
+<i>- Y las pirámides.
+- Matemáticas, ciencias, historia...</i>
+
+116
+00:06:17,078 --> 00:06:19,467
+<i>...develaron el misterio
+que todo comenzó...</i>
+
+117
+00:06:19,468 --> 00:06:20,587
+<i>¡Con un Big Bang!</i>
+
+118
+00:06:25,697 --> 00:06:27,437
+Leonard: Siéntete como en casa.
+
+119
+00:06:27,438 --> 00:06:29,107
+Penny: Está bien. Gracias.
+
+120
+00:06:29,108 --> 00:06:30,887
+Leonard: Eres muy bienvenida.
+
+121
+00:06:34,597 --> 00:06:37,497
+Penny: Esto se ve bastante serio.
+Leonard, ¿tú hiciste esto?
+
+122
+00:06:37,498 --> 00:06:39,667
+Sheldon: De hecho, ése es mi trabajo.
+
+123
+00:06:41,448 --> 00:06:43,962
+Sheldon: Sí. Bueno, es un poco
+de mecánica quántica...
+
+124
+00:06:43,963 --> 00:06:46,188
+Sheldon: ...con algo de teoría Doodlig
+en los bordes.
+
+125
+00:06:46,318 --> 00:06:47,957
+Sheldon: Esa parte de ahí, es sólo una broma.
+
+126
+00:06:47,958 --> 00:06:51,047
+Sheldon: Es una broma sobre
+la Aproximación Born-Oppenheimer.
+
+127
+00:06:52,387 --> 00:06:55,937
+Penny: Así que ustedes son como esos
+genios de mentes brillantes.
+
+128
+00:06:56,877 --> 00:06:58,317
+Sheldon: Sí.
+
+129
+00:06:59,447 --> 00:07:00,867
+Penny: Es realmente impresionante.
+
+130
+00:07:00,868 --> 00:07:03,437
+Leonard: Yo tengo una pizarra. Si te gustan
+las pizarras, esta es la mía.
+
+131
+00:07:04,897 --> 00:07:06,277
+Penny: Qué genial.
+
+132
+00:07:06,278 --> 00:07:09,887
+Sheldon: Si por "genial" te refieres a la
+triste derivación del tipo de cosas...
+
+133
+00:07:09,888 --> 00:07:13,287
+Sheldon: ...que puedes encontrar
+en cualquier baño de hombres, seguro.
+
+134
+00:07:13,837 --> 00:07:15,167
+- Leonard: ¿Qué?
+- Sheldon: Vamos.
+
+135
+00:07:15,168 --> 00:07:18,527
+Sheldon: ¿Quién no ha visto esta diferencial
+escrito debajo de "Estoy enamorado"?
+
+136
+00:07:19,267 --> 00:07:21,734
+Leonard: Al menos no tuve
+que inventar 26 dimensiones...
+
+137
+00:07:21,735 --> 00:07:23,001
+Leonard: ...para resolver un planteo.
+
+138
+00:07:23,257 --> 00:07:24,927
+Sheldon: No las inventé.
+Están ahí.
+
+139
+00:07:24,928 --> 00:07:25,927
+Leonard: ¿En qué universo?
+
+140
+00:07:25,928 --> 00:07:28,197
+Sheldon: En todos. Ésa es la idea.
+
+141
+00:07:28,657 --> 00:07:30,497
+Penny: ¿Les molesta si empiezo?
+
+142
+00:07:30,498 --> 00:07:32,807
+Sheldon: Penny...
+
+143
+00:07:32,808 --> 00:07:35,027
+Sheldon: Ahí es donde yo me siento.
+
+144
+00:07:36,287 --> 00:07:38,187
+Penny: Entonces siéntate al lado mío.
+
+145
+00:07:39,167 --> 00:07:41,477
+Sheldon: No, yo me siento ahí.
+
+146
+00:07:42,287 --> 00:07:44,157
+- Penny: ¿Cuál es la diferencia?
+- Sheldon: ¿Cuál es la diferencia?
+
+147
+00:07:44,158 --> 00:07:45,887
+Leonard: Aquí vamos.
+
+148
+00:07:46,347 --> 00:07:49,327
+Sheldon: En invierno, está suficientemente cerca
+del radiador para calentarme bien...
+
+149
+00:07:49,328 --> 00:07:52,367
+Sheldon: ...y no tanto como para hacerme sudar.
+En verano...
+
+150
+00:07:52,368 --> 00:07:56,197
+Sheldon: ...hay una brisa generada
+por las ventanas de allí y allí...
+
+151
+00:07:56,198 --> 00:07:59,037
+Sheldon: ...puedo ver televisión en un ángulo
+que no es ni directo...
+
+152
+00:07:59,038 --> 00:08:00,557
+Sheldon: ...como esta conversación,...
+
+153
+00:08:00,558 --> 00:08:03,007
+Sheldon: ...ni tan de costado como para
+causarme una distorsión cervical.
+
+154
+00:08:03,008 --> 00:08:06,847
+Sheldon: Podría seguir, pero creo
+que ya se entendió.
+
+155
+00:08:09,507 --> 00:08:10,937
+Penny: ¿Quieres que me corra?
+
+156
+00:08:10,938 --> 00:08:13,437
+- Sheldon: Bueno...
+- Leonard: Sólo siéntate en otro lado.
+
+157
+00:08:15,217 --> 00:08:16,937
+Sheldon: Está bien.
+
+158
+00:08:34,437 --> 00:08:36,647
+Leonard: ¡Sheldon, siéntate!
+
+159
+00:08:41,157 --> 00:08:42,637
+Leonard: Bueno, esto es agradable.
+
+160
+00:08:42,638 --> 00:08:44,337
+Leonard: No tenemos demasiada compañía.
+
+161
+00:08:44,338 --> 00:08:47,107
+Sheldon: Eso no es cierto. Koothrappali y
+Wolowitz vienen todo el tiempo.
+
+162
+00:08:47,108 --> 00:08:48,167
+Leonard: Sí, lo sé, pero--
+
+163
+00:08:48,168 --> 00:08:50,447
+Sheldon: El jueves jugamos Klingon Boggle
+hasta la 1:00 de la madrugada.
+
+164
+00:08:50,448 --> 00:08:51,637
+Leonard: Sí, me acuerdo.
+
+165
+00:08:51,638 --> 00:08:53,127
+Sheldon: Odio que digas que no tenemos compañía.
+
+166
+00:08:53,128 --> 00:08:54,557
+- Leonard: Lo siento.
+- Sheldon: Eso lleva a complicaciones sociales.
+
+167
+00:08:54,558 --> 00:08:56,497
+Leonard: ¡Dije que lo siento!
+
+168
+00:08:57,737 --> 00:09:00,557
+Penny: Así que, ¿Klingon Boggle?
+
+169
+00:09:00,558 --> 00:09:04,437
+Leonard: Sí, es como jugar Boggle,
+pero... en Klingon.
+
+170
+00:09:07,607 --> 00:09:10,547
+Leonard: Ya hablamos demasiado.
+Cuéntanos algo sobre ti.
+
+171
+00:09:10,548 --> 00:09:13,097
+Penny: ¿Yo? Está bien.
+
+172
+00:09:13,098 --> 00:09:16,967
+Penny: Soy de Sagitario, lo que probablemente
+les diga más de lo que necesitan saber.
+
+173
+00:09:16,968 --> 00:09:20,467
+Sheldon: Sí, nos dice que crees
+en la ilusión de la mayoría...
+
+174
+00:09:20,468 --> 00:09:24,567
+Sheldon: ...de que una posición arbitraria
+del sol, el día de tu nacimiento,...
+
+175
+00:09:24,568 --> 00:09:27,437
+Sheldon: ...de alguna forma
+afecta tu personalidad.
+
+176
+00:09:29,377 --> 00:09:31,197
+Penny: ¿Que creo en qué?
+
+177
+00:09:31,198 --> 00:09:36,087
+Leonard: Sheldon trata de decir es que
+no nos imaginamos que eras de Sagitario.
+
+178
+00:09:36,088 --> 00:09:38,947
+Penny: Sí. Mucha gente piensa
+que mi signo es de agua.
+
+179
+00:09:39,547 --> 00:09:41,417
+Penny: Veamos, ¿qué más?
+
+180
+00:09:41,418 --> 00:09:43,537
+Penny: Soy vegetariana.
+Excepto por el pescado.
+
+181
+00:09:43,538 --> 00:09:46,037
+Penny: Y ocasionalmente por las chuletas.
+¡Adora los chuletas!
+
+182
+00:09:48,317 --> 00:09:51,707
+Sheldon: Bueno, eso es interesante.
+Leonard no puede procesar maíz.
+
+183
+00:09:55,737 --> 00:09:58,137
+Leonard: Bueno, ¿tienes algún trabajo?
+
+184
+00:09:58,138 --> 00:10:00,957
+Penny: Sí, soy mesera en
+la fábrica de pasteles de queso.
+
+185
+00:10:00,958 --> 00:10:03,297
+Leonard: Adoro los pasteles de queso.
+
+186
+00:10:03,298 --> 00:10:04,437
+Sheldon: Eres intolerante a la lactosa.
+
+187
+00:10:04,438 --> 00:10:06,787
+Leonard: No los como. Sólo pienso
+que es una buena idea.
+
+188
+00:10:08,017 --> 00:10:10,437
+Penny: De todas formas,
+estoy escribiendo una obra.
+
+189
+00:10:10,438 --> 00:10:13,697
+Penny: Es acerca de una chica sensible que
+viene a L.A. desde Lincoln, Nebraska...
+
+190
+00:10:13,698 --> 00:10:17,137
+Penny: ...para ser actriz pero termina siendo
+mesera en la fabrica de pasteles.
+
+191
+00:10:18,757 --> 00:10:20,677
+Leonard: Entonces está basada en tu vida.
+
+192
+00:10:20,678 --> 00:10:22,587
+Penny: No, yo soy de Omaha.
+
+193
+00:10:26,087 --> 00:10:28,217
+Leonard: Bueno, si fuese una película,
+yo la iría a ver.
+
+194
+00:10:28,218 --> 00:10:30,127
+Penny: Irías, ¿verdad?
+
+195
+00:10:30,128 --> 00:10:32,917
+Penny: Muy bien, veamos... ¿qué más?
+
+196
+00:10:32,918 --> 00:10:35,147
+Penny: Supongo que eso es todo.
+
+197
+00:10:35,148 --> 00:10:37,427
+Penny: Ésa es la historia de Penny.
+
+198
+00:10:37,877 --> 00:10:39,787
+Leonard: Bueno, suena grandiosa.
+
+199
+00:10:40,877 --> 00:10:42,427
+Penny: Así fue.
+
+200
+00:10:42,428 --> 00:10:45,487
+Penny: ¡Hasta que me enamoré de un idiota!
+
+201
+00:10:49,107 --> 00:10:50,697
+Sheldon: ¿Qué está sucediendo?
+
+202
+00:10:52,847 --> 00:10:55,207
+Penny: Dios, viví con él durante cuatro años.
+
+203
+00:10:55,208 --> 00:10:58,237
+Penny: Cuatro años. Eso es casi
+lo que dura la secundaria.
+
+204
+00:10:58,238 --> 00:11:00,607
+Sheldon: ¿Tardaste cuatro años
+en terminar la secundaria?
+
+205
+00:11:02,947 --> 00:11:06,027
+Penny: No puedo creer que confié en él.
+
+206
+00:11:10,717 --> 00:11:13,257
+Leonard: ¿Debería decir algo?
+Siento que debería decir algo.
+
+207
+00:11:13,258 --> 00:11:15,257
+Sheldon: ¿Tú? No, lo vas a empeorar.
+
+208
+00:11:15,258 --> 00:11:17,477
+Penny: ¿Quieren saber qué es lo más patético?
+
+209
+00:11:17,478 --> 00:11:20,727
+Penny: Que aunque odio sus mentiras,
+sus engaños...
+
+210
+00:11:21,247 --> 00:11:23,587
+Penny: ...todavía lo amo.
+
+211
+00:11:23,588 --> 00:11:24,977
+Penny: ¿No es eso loco?
+
+212
+00:11:24,978 --> 00:11:26,737
+Sheldon: Sí.
+
+213
+00:11:28,327 --> 00:11:30,097
+Leonard: No, no es loco.
+
+214
+00:11:30,098 --> 00:11:33,327
+Leonard: Es una paradoja.
+
+215
+00:11:33,328 --> 00:11:35,827
+Leonard: Las paradojas son partes
+de la naturaleza.
+
+216
+00:11:35,828 --> 00:11:39,647
+Leonard: Piensa en la luz. Si citas a Huygens,
+la luz es una onda,...
+
+217
+00:11:39,648 --> 00:11:41,587
+Leonard: Confirmado por la dualidad
+onda-electrón.
+
+218
+00:11:41,588 --> 00:11:45,076
+Leonard: Pero después llega Albert Einstein
+y descubre que la luz...
+
+219
+00:11:45,077 --> 00:11:47,468
+Leonard: ...también se comporta como partículas.
+
+220
+00:11:50,057 --> 00:11:52,127
+Leonard: Bueno, no lo empeoré.
+
+221
+00:11:54,007 --> 00:11:56,397
+Penny: Lo siento mucho.
+Soy un desastre.
+
+222
+00:11:56,398 --> 00:12:00,347
+Penny: Encima, estoy asquerosa por la mudanza
+y mi estúpida ducha no funciona.
+
+223
+00:12:00,348 --> 00:12:02,387
+Leonard: Nuestra ducha funciona.
+
+224
+00:12:03,277 --> 00:12:05,247
+Penny: ¿En verdad? ¿Seria muy extraño
+si usara su ducha?
+
+225
+00:12:05,248 --> 00:12:06,047
+Sheldon: Sí.
+
+226
+00:12:06,048 --> 00:12:07,027
+- Leonard: No.
+- Sheldon: ¿No?
+
+227
+00:12:07,028 --> 00:12:08,967
+- Leonard: No.
+- Sheldon: No.
+
+228
+00:12:09,567 --> 00:12:10,967
+Leonard: Está derecho por el pasillo.
+
+229
+00:12:10,968 --> 00:12:14,447
+Penny: Gracias. Ustedes son muy dulces.
+
+230
+00:12:20,597 --> 00:12:23,287
+Sheldon: Bueno, este es un progreso interesante.
+
+231
+00:12:26,137 --> 00:12:27,267
+Leonard: ¿Qué tanto?
+
+232
+00:12:27,268 --> 00:12:31,427
+Sheldon: Pasó bastante tiempo desde que una mujer
+se desnudó en nuestro apartamento.
+
+233
+00:12:32,078 --> 00:12:33,843
+Leonard: No es cierto. ¿Recuerdas
+el día de acción de gracias...
+
+234
+00:12:33,844 --> 00:12:37,588
+Leonard: ...que mi abuela con Alzheimer
+tuvo ese episodio?
+
+235
+00:12:38,437 --> 00:12:42,117
+Sheldon: Retomo el punto. Pasó bastante tiempo
+desde que una mujer se desnudo...
+
+236
+00:12:42,118 --> 00:12:44,517
+Sheldon: ...y después no quisiéramos
+arrancarnos los ojos.
+
+237
+00:12:46,007 --> 00:12:48,667
+Leonard: La peor parte fue verla cortar ese pavo.
+
+238
+00:12:49,747 --> 00:12:52,907
+Sheldon: Entonces, ¿qué es exactamente
+lo que quieres lograr con ella?
+
+239
+00:12:53,697 --> 00:12:55,007
+Leonard: ¿Disculpa?
+
+240
+00:12:55,008 --> 00:12:57,207
+Sheldon: Esa mujer no va a tener sexo contigo.
+
+241
+00:12:57,208 --> 00:12:59,767
+Leonard: Bueno, no estoy tratando
+de tener sexo con ella.
+
+242
+00:12:59,768 --> 00:13:01,987
+Sheldon: Qué bien.
+Así no te vas a desilusionar.
+
+243
+00:13:03,227 --> 00:13:05,217
+Leonard: ¿Que te hace pensar que ella
+no va a querer tener sexo conmigo?
+
+244
+00:13:05,218 --> 00:13:07,747
+Leonard: Yo soy un macho y ella es una hembra.
+
+245
+00:13:07,748 --> 00:13:10,617
+Sheldon: Sí, pero no de la misma especie.
+
+246
+00:13:11,097 --> 00:13:13,147
+Leonard: No voy a empezar a especular.
+
+247
+00:13:13,148 --> 00:13:15,167
+Leonard: Yo sólo trato de ser un buen vecino.
+
+248
+00:13:15,168 --> 00:13:17,287
+Sheldon: Claro que sí.
+
+249
+00:13:17,288 --> 00:13:22,157
+Leonard: No estoy diciendo que si se diera
+una relación carnal, no participaría.
+
+250
+00:13:24,257 --> 00:13:26,217
+Leonard: Aunque sea brevemente.
+
+251
+00:13:27,057 --> 00:13:29,297
+Sheldon: ¿Crees que hay posibilidad
+de que eso pase...
+
+252
+00:13:29,298 --> 00:13:32,657
+Sheldon: ...cuando descubra tu shampoo
+"No más lágrimas" de Skywwalker?
+
+253
+00:13:34,067 --> 00:13:36,047
+Leonard: Es el shampoo de Darth Vader.
+
+254
+00:13:37,557 --> 00:13:39,707
+Leonard: Skywalker es el acondicionador.
+
+255
+00:13:42,138 --> 00:13:43,117
+Howard: Espera a ver esto.
+
+256
+00:13:43,118 --> 00:13:44,807
+Raj: Es fantástico, increíble.
+
+257
+00:13:44,808 --> 00:13:46,777
+Leonard: ¿Ver qué?
+
+258
+00:13:47,157 --> 00:13:51,297
+Howard: Es una clase de Stephen Hawking
+en MIT de 1974.
+
+259
+00:13:51,297 --> 00:13:52,487
+Leonard: Éste no es un buen momento.
+
+260
+00:13:52,487 --> 00:13:56,367
+Howard: <i>Es antes que se convirtiera en
+una escalofriante voz de computadora.</i>
+
+261
+00:13:59,077 --> 00:14:00,457
+Leonard: Eso es genial.
+Chicos, tienen que irse.
+
+262
+00:14:00,458 --> 00:14:01,277
+Raj: ¿Por qué?
+
+263
+00:14:01,278 --> 00:14:02,357
+Leonard: Es que este no es un buen momento.
+
+264
+00:14:02,358 --> 00:14:04,567
+Sheldon: Leonard tiene una dama aquí.
+
+265
+00:14:04,568 --> 00:14:07,227
+Howard: Sí, claro. ¿Tu abuela está
+de nuevo en la ciudad?
+
+266
+00:14:09,327 --> 00:14:11,397
+Leonard: No. Y ella no es una dama.
+
+267
+00:14:11,398 --> 00:14:13,227
+Leonard: Sólo es una nueva vecina.
+
+268
+00:14:13,228 --> 00:14:16,037
+Howard: Espera un momento,
+¿realmente hay una mujer aquí?
+
+269
+00:14:16,038 --> 00:14:16,797
+Leonard: Sí.
+
+270
+00:14:16,798 --> 00:14:19,617
+Howard: ¿Y nos quieres afuera porque
+estás anticipando el coito?
+
+271
+00:14:20,377 --> 00:14:22,097
+Leonard: No estoy anticipando el coito.
+
+272
+00:14:22,098 --> 00:14:23,367
+Howard: Entonces, ¿está disponible
+para el coito?
+
+273
+00:14:23,368 --> 00:14:25,867
+Leonard: ¿Podrías dejar de decir coito?
+
+274
+00:14:25,868 --> 00:14:28,577
+Sheldon: Técnicamente eso seria
+"coitus interruptus".
+
+275
+00:14:29,418 --> 00:14:32,557
+Penny: ¿Hay algún truco para cambiar
+de la tina a la ducha--?
+
+276
+00:14:32,558 --> 00:14:35,737
+Penny: Hola, disculpen. Hola.
+
+277
+00:14:37,247 --> 00:14:40,157
+Howard: <i>Enchantè, mademoiselle.</i>
+
+278
+00:14:41,087 --> 00:14:44,237
+Howard: Howard Wolowitz.
+Departamento Caltech de Física Aplicada.
+
+279
+00:14:44,238 --> 00:14:46,497
+Howard: Quizás estés familiarizada
+con mi trabajo.
+
+280
+00:14:46,498 --> 00:14:51,387
+Howard: Fotos de alta resolución de la luna
+en órbita más grande que Júpiter.
+
+281
+00:14:52,697 --> 00:14:55,527
+Penny: Penny. Trabajo en la
+fabrica de tortas de queso.
+
+282
+00:14:55,528 --> 00:14:57,567
+Leonard: Sígueme. Te mostraré
+el truco de la ducha.
+
+283
+00:14:58,087 --> 00:14:59,757
+Howard: <i>Bonne douche.</i>
+
+284
+00:14:59,758 --> 00:15:01,267
+Penny: ¿Disculpa?
+
+285
+00:15:01,268 --> 00:15:03,287
+Howard: Es francés para "Buena ducha".
+
+286
+00:15:03,288 --> 00:15:06,107
+Howard: Es una oración que puedo expresar
+en seis idiomas.
+
+287
+00:15:06,717 --> 00:15:09,507
+Leonard: Guárdalo para tu blog, Howard.
+
+288
+00:15:16,767 --> 00:15:19,267
+Leonard: Ya está, ahí tienes.
+A veces se pega. Disculpa.
+
+289
+00:15:19,268 --> 00:15:20,057
+Penny: Está bien, gracias.
+
+290
+00:15:20,058 --> 00:15:22,987
+Leonard: De nada. Vas a entrar a--
+Bueno, yo me...
+
+291
+00:15:23,817 --> 00:15:26,317
+- Penny: Leonard...
+- Leonard: Esos productos son de Sheldon.
+
+292
+00:15:26,318 --> 00:15:27,747
+Penny: Está bien.
+
+293
+00:15:27,748 --> 00:15:30,357
+Penny: ¿Te puedo pedir un favor?
+
+294
+00:15:30,358 --> 00:15:31,977
+Leonard: ¿Un favor?
+
+295
+00:15:31,978 --> 00:15:34,877
+Leonard: Seguro, puedes pedirme un favor.
+Yo te haría un favor.
+
+296
+00:15:36,027 --> 00:15:37,627
+Penny: Está bien si dices que no.
+
+297
+00:15:37,628 --> 00:15:39,887
+Leonard: Probablemente diré que sí.
+
+298
+00:15:40,457 --> 00:15:43,717
+Penny: Es el tipo de cosa que no le pides
+a alguien que acabas de conocer.
+
+299
+00:15:52,039 --> 00:15:54,959
+Sheldon: Creo que deberíamos analizar
+la cadena de casualidades aquí.
+
+300
+00:15:54,960 --> 00:15:55,789
+Leonard: ¿Debemos hacerlo?
+
+301
+00:15:55,790 --> 00:15:58,659
+Sheldon: Evento A: Una hermosa mujer se desnuda
+en nuestra ducha.
+
+302
+00:15:58,660 --> 00:16:02,379
+Sheldon: Evento B: Conducimos media ciudad
+para recuperar el televisor...
+
+303
+00:16:02,380 --> 00:16:04,249
+Sheldon: ...que su ex-novio tiene.
+
+304
+00:16:04,250 --> 00:16:06,875
+Sheldon: Pregunta: ¿En qué plano
+de existencia hay un vinculo...
+
+305
+00:16:06,876 --> 00:16:09,421
+Sheldon: ...extra-racional
+entre estos dos eventos?
+
+306
+00:16:10,859 --> 00:16:13,349
+Leonard: Me pidió que le hiciera
+un favor, Sheldon.
+
+307
+00:16:13,350 --> 00:16:16,059
+Sheldon: Sí, bueno, esa pueda ser la causa
+próxima de nuestra aventura...
+
+308
+00:16:16,060 --> 00:16:17,573
+Sheldon: ...pero ambos sabemos
+que esto existe...
+
+309
+00:16:17,674 --> 00:16:20,516
+Sheldon: ...en contradicción
+al alto nivel de causa distal.
+
+310
+00:16:20,660 --> 00:16:23,639
+- Leonard: ¿Qué es...?
+- Sheldon: Estás pensado con tu pene.
+
+311
+00:16:24,309 --> 00:16:26,079
+Leonard: Eso es biológicamente imposible.
+
+312
+00:16:26,080 --> 00:16:27,429
+Leonard: Y no tenías que venir.
+
+313
+00:16:27,430 --> 00:16:30,862
+Sheldon: Sí, claro. Me pude haber quedado
+a ver como Wolowitz enamora a Penny...
+
+314
+00:16:30,863 --> 00:16:32,526
+Sheldon: ...en ruso, árabe y farsi.
+
+315
+00:16:33,529 --> 00:16:35,419
+Sheldon: ¿Por qué no puede conseguirse
+su propia televisión?
+
+316
+00:16:35,420 --> 00:16:37,329
+Leonard: Vamos, sabes como
+son las separaciones.
+
+317
+00:16:37,330 --> 00:16:39,749
+Sheldon: No, no lo sé.
+Y tú tampoco.
+
+318
+00:16:39,750 --> 00:16:42,319
+Leonard: Yo me separé de Joyce Kim.
+
+319
+00:16:42,320 --> 00:16:45,909
+Sheldon: No te separaste de Joyce Kim.
+Ella se fue a Korea del Norte
+
+320
+00:16:45,910 --> 00:16:48,459
+Leonard: A enmendar su corazón roto.
+
+321
+00:16:51,059 --> 00:16:53,879
+Leonard: Esta situación es mucho
+menos complicada.
+
+322
+00:16:53,880 --> 00:16:56,369
+Leonard: Hay algo así como una disputa
+entre Penny y su ex-novio...
+
+323
+00:16:56,370 --> 00:16:58,220
+Leonard: ...quien tiene la custodia
+de la televisión.
+
+324
+00:16:58,255 --> 00:17:00,559
+Leonard: Ella sólo quería evitar
+tener una escena con él.
+
+325
+00:17:00,560 --> 00:17:02,319
+Sheldon: ¿Así que nosotros tendremos la escena?
+
+326
+00:17:02,320 --> 00:17:04,919
+Leonard: No, Sheldon. No habrá ninguna escena.
+
+327
+00:17:04,920 --> 00:17:06,849
+Leonard: Nosotros somos dos y él es uno.
+
+328
+00:17:06,850 --> 00:17:09,309
+Sheldon: Leonard, nosotros no podemos
+ni cargar el televisor.
+
+329
+00:17:11,559 --> 00:17:14,669
+Penny: Así que, ¿ustedes trabajan con Leonard
+y Sheldon en la universidad?
+
+330
+00:17:19,889 --> 00:17:22,919
+Penny: Disculpa, ¿hablas ingles?
+
+331
+00:17:22,920 --> 00:17:25,709
+Howard: Él habla ingles.
+Pero no habla con mujeres.
+
+332
+00:17:26,619 --> 00:17:28,419
+Penny: ¿Sí? ¿Por qué?
+
+333
+00:17:28,420 --> 00:17:30,449
+Howard: Es algo así como un nerd.
+
+334
+00:17:32,829 --> 00:17:34,829
+Howard: ¿Una caja de jugo?
+
+335
+00:17:39,119 --> 00:17:40,639
+Leonard: Yo me encargo de la charla.
+
+336
+00:17:40,640 --> 00:17:43,579
+<i>- Kurt: ¿Sí?
+- Leonard: Hola, soy Leonard, él es Sheldon.</i>
+
+337
+00:17:43,580 --> 00:17:45,209
+- Sheldon: Hola
+- Leonard: ¿Qué te acabo de--?
+
+338
+00:17:46,989 --> 00:17:49,529
+Leonard: Vinimos a buscar el televisor de Penny.
+
+339
+00:17:49,530 --> 00:17:51,949
+<i>- Kurt: Piérdanse.
+- Sheldon: Bueno, gracias por su tiempo.</i>
+
+340
+00:17:52,469 --> 00:17:54,189
+Leonard: No nos vamos a rendir así.
+
+341
+00:17:54,190 --> 00:17:55,659
+Sheldon: Leonard, el televisor
+está en el edificio.
+
+342
+00:17:55,660 --> 00:17:58,659
+Sheldon: Nos han denegado el acceso al edificio.
+Por lo tanto, estamos acabados.
+
+343
+00:17:58,660 --> 00:18:00,089
+Leonard: Disculpa.
+
+344
+00:18:00,090 --> 00:18:01,705
+Leonard: Si yo me hubiese rendido
+en el primer pequeño problema...
+
+345
+00:18:01,706 --> 00:18:03,866
+Leonard: ...nunca habría sido capaz
+de identificar las huellas...
+
+346
+00:18:03,867 --> 00:18:06,135
+Leonard: ...de la teoría de la cadena
+posterior al Big Bang.
+
+347
+00:18:07,829 --> 00:18:10,379
+Sheldon: Mis disculpas. ¿Cuál es tu plan?
+
+348
+00:18:23,989 --> 00:18:27,059
+Sheldon: Es un privilegio
+ver tu mente trabajando.
+
+349
+00:18:27,809 --> 00:18:30,729
+Leonard: Vamos, tenemos un coeficiente
+combinado de 360.
+
+350
+00:18:30,730 --> 00:18:33,769
+Leonard: Deberíamos ser capaces
+de hacer esto.
+
+351
+00:18:37,649 --> 00:18:39,189
+Sheldon: ¿Cuál crees que es
+su coeficiente combinado?
+
+352
+00:18:39,190 --> 00:18:41,199
+Leonard: ¡Sólo sostén la puerta!
+
+353
+00:18:43,049 --> 00:18:44,759
+Leonard: Aquí estamos.
+
+354
+00:18:45,579 --> 00:18:46,919
+Leonard: Yo seré el que hable.
+
+355
+00:18:46,920 --> 00:18:49,399
+Sheldon: Bien pensado.
+Yo seré la fuerza.
+
+356
+00:18:56,829 --> 00:18:57,919
+Kurt: ¿Sí?
+
+357
+00:18:57,920 --> 00:19:00,069
+Leonard: Soy Leonard, él es Sheldon.
+
+358
+00:19:00,070 --> 00:19:02,519
+Sheldon: Los del timbre.
+
+359
+00:19:03,129 --> 00:19:04,909
+Kurt: ¿Cómo diablos entraron
+en el edificio?
+
+360
+00:19:04,910 --> 00:19:08,609
+Leonard: Bueno, somos científicos.
+
+361
+00:19:10,039 --> 00:19:12,529
+Sheldon: Cuéntale de tu coeficiente.
+
+362
+00:19:24,549 --> 00:19:26,399
+- Sheldon: Leonard...
+- Leonard: ¿Qué?
+
+363
+00:19:26,400 --> 00:19:27,599
+Sheldon: Mi mamá me compró
+esos pantalones.
+
+364
+00:19:27,600 --> 00:19:29,829
+Leonard: Lo siento
+
+365
+00:19:29,830 --> 00:19:31,789
+Sheldon: Tendrás que llamarla.
+
+366
+00:19:34,529 --> 00:19:37,639
+Leonard: Sheldon, lo siento tanto.
+Yo te arrastré a esto.
+
+367
+00:19:37,640 --> 00:19:41,719
+Sheldon: Está bien. No fueron mis primeros
+pantalones, ni serán los últimos.
+
+368
+00:19:42,239 --> 00:19:43,829
+Leonard: Y tenías razón sobre mis motivos.
+
+369
+00:19:43,830 --> 00:19:46,932
+Leonard: Tenia esperanzas de establecer
+una relación con Penny...
+
+370
+00:19:46,933 --> 00:19:49,487
+Leonard: ...que pueda terminar en sexo.
+
+371
+00:19:50,669 --> 00:19:52,539
+Sheldon: Bueno, a mí ya me dejaste
+en ropa interior.
+
+372
+00:19:54,629 --> 00:19:56,379
+Leonard: De cualquier forma, aprendí mi lección.
+
+373
+00:19:56,380 --> 00:19:58,329
+Leonard: Está fuera de mis posibilidades.
+He terminado con ella.
+
+374
+00:19:58,330 --> 00:20:02,739
+Leonard: Haré mi trabajo, un día ganaré
+el premio Nobel y después moriré solo.
+
+375
+00:20:02,740 --> 00:20:05,789
+Sheldon: No pienses así.
+No morirás solo.
+
+376
+00:20:05,790 --> 00:20:08,459
+Leonard: Gracias Sheldon, eres un buen amigo.
+
+377
+00:20:10,049 --> 00:20:12,619
+Sheldon: Y definitivamente no ganarás un Nobel.
+
+378
+00:20:13,519 --> 00:20:17,399
+Howard: Este es uno de mis lugares para
+descansar después de una búsqueda.
+
+379
+00:20:17,400 --> 00:20:19,409
+Howard: Hacen buenas ventas.
+
+380
+00:20:19,410 --> 00:20:20,649
+Penny: Qué tigre genial.
+
+381
+00:20:20,650 --> 00:20:23,079
+Howard: Sí, lo tengo desde nivel 10.
+
+382
+00:20:23,849 --> 00:20:26,039
+Howard: Su nombre es Botones.
+
+383
+00:20:26,040 --> 00:20:29,398
+Howard: Si tuvieras tu propio personaje
+en el juego podríamos salir.
+
+384
+00:20:29,399 --> 00:20:31,270
+Howard: Quizás ir de aventuras.
+
+385
+00:20:31,709 --> 00:20:33,829
+Penny: Suena interesante
+
+386
+00:20:33,830 --> 00:20:35,099
+Howard: Así que, ¿lo pensarás?
+
+387
+00:20:35,100 --> 00:20:38,079
+Penny: No creo que vaya a dejar
+de pensar en ello.
+
+388
+00:20:39,719 --> 00:20:41,579
+Raj: Suave.
+
+389
+00:20:43,520 --> 00:20:46,479
+- Leonard: Llegamos.
+- Penny: Dios mío, ¿qué pasó?
+
+390
+00:20:46,480 --> 00:20:51,479
+Leonard: Bueno, tu ex-novio te manda saludos.
+Y creo que el resto se explica solo.
+
+391
+00:20:52,140 --> 00:20:53,739
+Penny: Lo siento tanto.
+
+392
+00:20:53,740 --> 00:20:57,019
+Penny: Realmente pensé que si iban ustedes
+en lugar de mí, no sería tan maleducado.
+
+393
+00:20:57,020 --> 00:20:59,069
+Leonard: No, fue una buena hipótesis.
+
+394
+00:20:59,070 --> 00:21:02,079
+Sheldon: ¿Fue una buena...?
+¿Qué pasa con ustedes?
+
+395
+00:21:02,919 --> 00:21:06,109
+Penny: En verdad, muchas gracias
+por ir e intentar.
+
+396
+00:21:06,110 --> 00:21:08,919
+Penny: Son geniales.
+
+397
+00:21:09,569 --> 00:21:11,409
+Penny: En serio
+
+398
+00:21:11,410 --> 00:21:15,109
+Penny: Por qué no se ponen algo de ropa,
+busco mi bolso y los invito a cenar, ¿sí?
+
+399
+00:21:15,110 --> 00:21:16,729
+- Leonard: ¿En serio? Genial.
+- Sheldon: Gracias.
+
+400
+00:21:22,849 --> 00:21:25,049
+Sheldon: ¿No terminaste con ella o sí?
+
+401
+00:21:26,279 --> 00:21:29,019
+Leonard: Nuestros hijos serán inteligentes
+y hermosos.
+
+402
+00:21:31,239 --> 00:21:33,899
+Sheldon: Sin mencionar imaginarios.
+
+403
+00:21:39,448 --> 00:21:41,618
+- Leonard: ¿Quieres comer comida tailandesa?
+- Penny: Seguro.
+
+404
+00:21:41,619 --> 00:21:43,688
+Sheldon: No podemos comer comida tailandesa.
+Almorzamos comida india.
+
+405
+00:21:43,689 --> 00:21:46,178
+- Penny: ¿Y?
+- Sheldon: Ambas tienen curry.
+
+406
+00:21:46,179 --> 00:21:49,148
+- Penny: ¿Y?
+- Sheldon: Sería gastronómicamente redundante.
+
+407
+00:21:49,149 --> 00:21:52,228
+Sheldon: Veo que tendremos que
+deletrear todo para esta chica.
+
+408
+00:21:53,428 --> 00:21:55,548
+Penny: ¿Alguna idea, Raj?
+
+409
+00:21:56,998 --> 00:21:59,488
+Howard: Gira a la izquierda en la calle Lago
+y dirígete a Colorado.
+
+410
+00:21:59,489 --> 00:22:02,308
+Howard: Conozco un hermoso
+sushi bar que tiene karaoke.
+
+411
+00:22:02,309 --> 00:22:04,338
+Penny: Suena divertido.
+
+412
+00:22:17,278 --> 00:22:19,198
+Sheldon: No sé cuales son
+tus probabilidades como un todo...
+
+413
+00:22:19,199 --> 00:22:21,388
+Sheldon: ...pero a lo que respecta a
+la población de este auto...
+
+414
+00:22:21,389 --> 00:22:23,458
+Sheldon: ...eres un auténtico McPapá.

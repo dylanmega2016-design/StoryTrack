@@ -18,50 +18,19 @@ Para estructurar la información se creó la función "leer.subtitulos()", la cu
 identifica cada bloque de subtítulos y extrae las variables necesarias para
 construir la base de datos.
 
-```{r}
-leer.subtitulos <- function(ruta.archivo) {
-  lineas <- readLines (ruta.archivo, encoding = "UTF-8")
-  separadores <- which(lineas== "")
-  bordes <- c(0, separadores, length(lineas)+1) 
-  subtitulos <- data.frame() #Se crea subtitulos como un data.frame vacio
-  nombre.archivo <- basename(ruta.archivo)
-  temporada <- regmatches(nombre.archivo, regexpr("S[0-9]{2}", nombre.archivo))
-  episodio <- regmatches(nombre.archivo, regexpr("E[0-9]{2}", nombre.archivo))
-  temporada <- as.integer(substr(temporada, 2, 3)) #Se extrae el dato númerico
-  episodio <- as.integer(substr(episodio, 2, 3)) #Igual que el anterior
-  serie <- sub(" S[0-9]{2}E[0-9]{2}.*", "", nombre.archivo)
-  for (i in 1: (length(bordes)-1)){ #Se encarga de recorrer bloque por bloque extrayendo las variables requeridas
-    bloque.actual <- lineas[(bordes[i]+1):(bordes[i+1]-1)] #Todos los bloques mantienen el mismo formato
-    numero.bloque <- as.integer(bloque.actual[1])
-    tiempo <- bloque.actual[2]
-    tiempos <- strsplit(tiempo, " --> ")[[1]]
-    inicio.sub <- tiempos[1]
-    fin.sub <- tiempos[2]
-    texto.sub <- paste(bloque.actual[3:length(bloque.actual)], collapse = " ") #Paste une los textos separados 
-    fila.sub <- data.frame( #Se almacenan los datos en una variable 
-      serie = serie,
-      temporada = temporada,
-      episodio = episodio,
-      bloque = numero.bloque,
-      inicio = inicio.sub,
-      fin = fin.sub,
-      texto = texto.sub,
-      archivo = nombre.archivo
-    )
-    subtitulos <- rbind(subtitulos, fila.sub) #Usamos rbind para añadir las filas resultantes al dataframe original
-  }
-  subtitulos
-}
-```
-
          
 ## Consolidación de los episodios 
 
 Los archivos ".srt" disponibles se identificaron automáticamente y se procesaron con la función anterior. Posteriormente, las tablas correspondientes a cada episodio se unieron en una sola base de datos.
+```{r}
+#| include: false
+
+source(here::here("cod", "01_leer.subtitulos.R"))
+```
 
 
 ```{r}
-archivos.srt <-  list.files(path = here::here("data", "SubtitulosOriginales"), pattern = "\\.srt$", full.names = TRUE)
+archivos.srt <-  list.files(path = here::here("data", "SubtitulosProcesados"), pattern = "\\.srt$", full.names = TRUE)
 subtitulos.consolidados <- data.frame()
 for (ruta in archivos.srt) {
   datos.archivo <- leer.subtitulos(ruta)
