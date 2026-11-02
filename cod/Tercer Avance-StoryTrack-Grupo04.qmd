@@ -1,0 +1,61 @@
+---
+title: "Título del proyecto"
+subtitle: "Informe de resultados — Avance 3"
+author: "Grupo 04"
+date: "2026-11-06"
+lang: es
+
+format:
+  pdf:
+    documentclass: article
+    papersize: letter
+    fontsize: 12pt
+    geometry:
+      - top=2.5cm
+      - bottom=2.5cm
+      - left=2.5cm
+      - right=2.5cm
+    number-sections: true
+    toc: false
+    colorlinks: true
+
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+
+## Introducción
+
+Las series de televisión pueden contar con numerosas temporadas y episodios, lo que dificulta recordar todos los acontecimientos importantes de la historia. Esto ocurre especialmente cuando una persona deja de ver una serie durante un timepo y, al retomarla, no recuerda con claridad lo sucedido en episodios anteriores. 
+
+Ante esta situación surge **Story Track**, un proyecto que busca desarrollar una herramienta que permite a los usuarios llevar un seguimiento de las series que ven, consultar su progreso y acceder a resúmenes de los episodios anteriores. Su finalidad es facilitar que las personas puedan retomar una serie sin necesidad de volver a ver capítulos completos para recordar los acontecimientos más relevantes. 
+
+Para desarrollar el proyecto se utiliza el lenguaje de programación R junto con herramientas de inteligencia artificial. Mediante R, se extrae y organiza la información de los archivos de subtítulos en formato .srt, mientras que la inteligencia artificial se utiliza para analizar y resumir el contenido de los diálogos. Esto permitirá generar resúmenes organizados por episodio, que el usuario podrá consultar según su avance en la serie. 
+
+De esta manera, StoryTrack busca ofrecer una solución práctica para dar seguimiento a las series de televisión, combinando el procesamiento de datos y la inteligencia artificial para facilitar el acceso a información sobre los episodios y sus acontecimientos principales. 
+
+## Objetivo general
+
+Desarrollar una herramienta que facilite el segumiento de series de televisión, permitiendo al usuario consultar su progreso y recordar los acontecimientos más importantes de la historia mediante resúmenes generados con inteligencia artificial. 
+
+# Metodología
+
+[PENDIENTE: Descripción del procedimiento.]
+
+# Resultados
+
+[PENDIENTE: Análisis, gráficos y tablas.]
+
+# Bibliografía
+
+[PENDIENTE: Referencias APA 7.]
+
+# Anexos
+
+[PENDIENTE: Material complementario y enlace al repositorio.]
+
+
+
+
