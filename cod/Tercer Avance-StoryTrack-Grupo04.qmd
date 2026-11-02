@@ -40,9 +40,23 @@ De esta manera, StoryTrack busca ofrecer una solución práctica para dar seguim
 
 Desarrollar una herramienta que facilite el segumiento de series de televisión, permitiendo al usuario consultar su progreso y recordar los acontecimientos más importantes de la historia mediante resúmenes generados con inteligencia artificial. 
 
-# Metodología
+## Metodología
 
-[PENDIENTE: Descripción del procedimiento.]
+#Obtención y procesamiento de los subtítulos
+
+Para el desarrollo de StoryTrack se utilizaron únicamente los subtítulos de la serie *The Big Bang Theory*, con el propósito de trabajar con una base de datos más sencilla y delimitar el alcance del proyecto. Esto permite concentrarse en las funciones principales de la herramienta. Se utilizaron archivos de subtítulos en formato .srt, los cuales contienen los diálogos de los episodios junto con sus respectivos tiempos de aparición. 
+
+El procesamiento se realizó mediante el lenguaje de programación R. Para ello, se creó la función la función leer.subtitulos (), encargada de leer los archivos, identificar los bloques de subtítulos y extraer la información necesaria para construir una base de datos estructurada.
+
+De cada bloque se obtuvieron ocho variables: nombre de la serie, temporada, episodio, número de bloque, tiempo de inicio, tiempo de finalización, texto y nombre del archivo original. 
+
+# Consolidación y limpieza de los datos 
+
+Una vez estructurados los subtítulos, se utilizó la función list.files () para identificar los archivos .srt disponibles. Posteriormente, se procesó cada archivo y se combinaron los resultados mediante rbind(), obteniendo una única base de datos con la información de los episodios seleccionados. 
+
+Debido a que la forma en que los datos fueron construidos, no existen valores faltantes, campos vacíos ni registros duplicados, ya que estos son subtítulos. 
+
+PENDIENTE ENVIARLO A IA
 
 # Resultados
 
