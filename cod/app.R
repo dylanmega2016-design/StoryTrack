@@ -388,8 +388,7 @@ ui <- fluidPage(
     class = "sg-catalogo",
     div(
       class = "sg-cat-head",
-      h2(paste(length(catalogo), "series")),
-      div(class = "sg-orden", tags$span("Orden: "), "Alfabético")
+      h2(paste(length(catalogo), "series"))
     ),
     uiOutput("catalogo")
   ),
@@ -467,11 +466,6 @@ ui <- fluidPage(
         uiOutput("respuesta")
       )
     )
-  ),
-
-  tags$footer(
-    class = "sg-footer",
-    div("Versión de prueba: los textos son de ejemplo hasta conectar SpoilerGuard y la IA.")
   )
 )
 
