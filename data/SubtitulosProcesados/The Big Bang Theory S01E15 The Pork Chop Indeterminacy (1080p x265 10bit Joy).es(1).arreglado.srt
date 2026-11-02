@@ -90,8 +90,8 @@ examinar mis calzoncillos.
 
 22
 00:00:57,080 --> 00:00:58,450
-Leonard: Howard.
-Howard: Lo se, soy asqueroso.
+- Leonard: Howard.
+- Howard: Lo se, soy asqueroso.
 
 23
 00:00:58,450 --> 00:01:00,340
@@ -103,7 +103,7 @@ Howard: Oh, miren, lo hice otra vez.
 
 25
 00:01:03,070 --> 00:01:04,150
-Girl: Eso debería bastar.
+Chica: Eso debería bastar.
 
 26
 00:01:04,250 --> 00:01:05,990
@@ -115,12 +115,12 @@ Sheldon: Hola.
 
 28
 00:01:13,820 --> 00:01:20,750
-Leonard: Oh, hola, amigo...
-Sheldon: "Amiiiiiigo"...?
+- Leonard: Oh, hola, amigo...
+- "Amiiiiiigo"...?
 
 29
 00:01:20,750 --> 00:01:22,180
-Howard: Lamento llegar tarde.
+Sheldon: Lamento llegar tarde.
 
 30
 00:01:22,210 --> 00:01:23,600
@@ -141,7 +141,7 @@ Sheldon: No esperaba que vinieras.
 
 34
 00:01:30,660 --> 00:01:32,040
-Howard: nadie lo esperaba
+Sheldon: nadie lo esperaba
 
 35
 00:01:32,090 --> 00:01:33,740
@@ -167,15 +167,15 @@ Leonard y Rajesh,
 
 40
 00:01:43,000 --> 00:01:44,600
-Sheldon: y ya conoces a Howard.
+Missy: y ya conoces a Howard.
 
 41
 00:01:44,620 --> 00:01:45,700
-Missy: Es un placer conocerte.
+Leonard: Es un placer conocerte.
 
 42
 00:01:45,720 --> 00:01:47,940
-Leonard: Tu tambien, tambien tu.Si.
+Howard: Tu tambien, tambien tu.Si.
 
 43
 00:01:50,440 --> 00:01:52,340
@@ -232,7 +232,7 @@ Howard: o como los franceses dicen, "tre drole"
 
 55
 00:02:22,650 --> 00:02:24,420
-Missy: bien, veamos si he entendido esto
+Howard: bien, veamos si he entendido esto
 
 56
 00:02:24,520 --> 00:02:28,920
@@ -244,7 +244,7 @@ Sheldon: Rajesh.
 
 58
 00:02:58,510 --> 00:03:04,790
-Wikisubtitulos se enorgullece en presentar:
+Leonard: Wikisubtitulos se enorgullece en presentar:
 
 59
 00:03:06,160 --> 00:03:12,420
@@ -254,7 +254,7 @@ The Shiksa Indeterminacy
 
 60
 00:03:14,330 --> 00:03:19,430
-Correcciones de Fercho
+Leonard: Correcciones de Fercho
 
 61
 00:03:21,050 --> 00:03:23,220
@@ -309,7 +309,7 @@ Sheldon: y estoy teniendo movimientos digestivos regulares.
 
 73
 00:03:52,860 --> 00:03:55,000
-Sheldon: Disfruta de la boda, Adiós.
+Leonard, Howard: Disfruta de la boda, Adiós.
 
 74
 00:03:57,620 --> 00:03:58,880
@@ -321,7 +321,7 @@ Leonard: Por qué no te quedas con nosotros esta noche?
 
 76
 00:04:00,570 --> 00:04:02,300
-Missy: Oh, no lo creo.
+Leonard: Oh, no lo creo.
 
 77
 00:04:02,340 --> 00:04:04,110
@@ -397,33 +397,33 @@ Missy: y Sheldon convierte mi horno miniatura
 
 94
 00:04:45,300 --> 00:04:47,750
-Leonard: en un horno industrial
+Missy: en un horno industrial
 
 95
 00:04:48,360 --> 00:04:49,790
-Sheldon: clásico
+Missy: clásico
 
 96
 00:04:51,060 --> 00:04:53,660
-Sheldon: Necesitaba un lugar para fundir sustratos
+Missy: Necesitaba un lugar para fundir sustratos
 semiconductores de cerámica
 
 97
 00:04:53,700 --> 00:04:55,450
-Sheldon: Para circuitos caseros.
+Leonard: Para circuitos caseros.
 
 98
 00:04:56,150 --> 00:04:58,170
-Missy: Estaba tratando de construir algún tipo
+Sheldon: Estaba tratando de construir algún tipo
 de robot armado
 
 99
 00:04:58,200 --> 00:04:59,680
-Missy: para mantenerme fuera de su habitación.
+Sheldon: para mantenerme fuera de su habitación.
 
 100
 00:05:00,000 --> 00:05:03,410
-Sheldon: Era necesario por su insistencia
+Missy: Era necesario por su insistencia
 para entrar a mi habitación
 
 101
@@ -436,11 +436,11 @@ Missy: hay una gran llamarada.
 
 103
 00:05:07,080 --> 00:05:09,900
-Missy: Lo siguiente que recuerdo es que no tengo cejas
+Sheldon: Lo siguiente que recuerdo es que no tengo cejas
 
 104
 00:05:10,800 --> 00:05:13,050
-Missy: no tus cejas.
+Sheldon: no tus cejas.
 
 105
 00:05:13,890 --> 00:05:16,230
@@ -452,20 +452,20 @@ Missy: con cejas dibujadas por mi madre
 
 107
 00:05:19,150 --> 00:05:20,620
-Sheldon: Eso fue lo que fue?
+Howard: Eso fue lo que fue?
 
 108
 00:05:20,680 --> 00:05:22,400
-Sheldon: Yo solo asumí que el
+Missy: Yo solo asumí que el
 curriculum de segundo grado
 
 109
 00:05:22,430 --> 00:05:24,290
-Sheldon: te había vuelto inquisitivo.
+Missy: te había vuelto inquisitivo.
 
 110
 00:05:27,020 --> 00:05:31,090
-Penny: Hey, Leonard, dejaste tu ropa interior
+Sheldon: Hey, Leonard, dejaste tu ropa interior
 en el lavadora de abajo
 
 111
@@ -489,45 +489,45 @@ equipo de pesca submarina
 
 115
 00:05:52,530 --> 00:05:54,080
-Leonard: Hago pesca submarina.
+Missy: Hago pesca submarina.
 
 116
 00:05:57,680 --> 00:06:00,430
-Leonard: Cuando no cazo con ballesta,
+Penny: Cuando no cazo con ballesta,
 hago pesca submarina.
 
 117
 00:06:02,700 --> 00:06:05,320
-Leonard: Oh, Penny, esta es la hermana
+Howard: Oh, Penny, esta es la hermana
 gemela de Sheldon, Missy.
 
 118
 00:06:05,330 --> 00:06:07,240
-Leonard: Missy, esta es nuestra vecina, Penny.
-Missy: Hola.
+- Sheldon: Missy, esta es nuestra vecina, Penny.
+- Howard: Hola.
 
 119
 00:06:07,240 --> 00:06:08,800
-Penny: Ustedes dos no se
+Raj: Ustedes dos no se
 parecen mucho.
 
 120
 00:06:08,830 --> 00:06:10,960
-Howard: Puedo dar un Aleluia?
+Raj: Puedo dar un Aleluia?
 
 121
 00:06:12,390 --> 00:06:14,210
-Sheldon: los gemelos fraternos, vienen
+Raj: los gemelos fraternos, vienen
 de 2 óvulos separados
 
 122
 00:06:14,240 --> 00:06:16,290
-Sheldon: No son más parecidos
+Penny: No son más parecidos
 que otros hermanos
 
 123
 00:06:16,310 --> 00:06:18,260
-Howard: Aleluia!
+Raj: Aleluia!
 
 124
 00:06:19,240 --> 00:06:20,320
@@ -544,7 +544,7 @@ Raj: para superar la timidez patológica
 
 127
 00:06:25,230 --> 00:06:27,010
-Penny: Ho, bien por vos, Raj.
+Missy: Ho, bien por vos, Raj.
 
 128
 00:06:27,040 --> 00:06:28,350
@@ -556,12 +556,12 @@ Raj: Hola, Missy
 
 130
 00:06:39,860 --> 00:06:42,320
-Raj: Ellos mencionar que puede
+Howard: Ellos mencionar que puede
 haber efectos secundarios.
 
 131
 00:06:44,310 --> 00:06:46,850
-Raj: y..., Missy, alguna vez has
+Howard: y..., Missy, alguna vez has
 conocido un hombre?
 
 132
@@ -571,22 +571,22 @@ de India?
 
 133
 00:06:51,100 --> 00:06:52,930
-Missy: bueno..., conozco al Dr.
+Raj: bueno..., conozco al Dr.
 Patel de la iglesia.
 
 134
 00:06:52,930 --> 00:06:55,330
-Raj: Ha, si, Patel----
+Howard: Ha, si, Patel----
 Buen Hombre.
 
 135
 00:06:55,760 --> 00:06:58,440
-Howard: Te gustan las motos?
+Raj: Te gustan las motos?
 Porque yo tengo una Chopera
 
 136
 00:06:59,490 --> 00:07:00,260
-Raj: una chopera?
+Missy: una chopera?
 
 137
 00:07:00,300 --> 00:07:03,120
@@ -595,38 +595,38 @@ con una canastita adelante.
 
 138
 00:07:04,550 --> 00:07:07,040
-Howard: Igual tenes que usar
+Penny: Igual tenes que usar
  un casco.
 
 139
 00:07:08,610 --> 00:07:10,230
-Raj: Alguna vez has oido
+Leonard: Alguna vez has oido
 hablar del Kama Sutra?
 
 140
 00:07:10,640 --> 00:07:13,550
-Missy: El libro de sexo.
-Raj: El libro de sexo indú.
+Penny: -El libro de sexo.
+-El libro de sexo indú.
 
 141
 00:07:13,550 --> 00:07:15,410
-Raj: En otras palabras, si
+Leonard: En otras palabras, si
 te preguntabas
 
 142
 00:07:15,440 --> 00:07:18,830
-Raj: quien escribió el libro
+Leonard: quien escribió el libro
 del amor. Fuimos nosotros.
 
 143
 00:07:20,820 --> 00:07:23,440
-Penny: La hermana de Sheldon es muy linda
-Leonard: No estaba mirando!
+Penny: -La hermana de Sheldon es muy linda
+-No estaba mirando!
 
 144
 00:07:25,830 --> 00:07:28,570
-Penny: No he dicho que lo estuvieras
-Penny: Solo he dicho que era muy linda
+Sheldon: -No he dicho que lo estuvieras
+-Solo he dicho que era muy linda
 
 145
 00:07:28,820 --> 00:07:37,620
@@ -634,29 +634,29 @@ Leonard: Oh,quizas, si te gustan las mujeres altas y que son... perfectas
 
 146
 00:07:39,800 --> 00:07:42,110
-Penny: Sheldon, porque estas
+Missy: Sheldon, porque estas
 ignorando a tu hermana?
 
 147
 00:07:42,140 --> 00:07:45,540
-Sheldon: No estoy ignorando a mi hermana.
+Leonard: No estoy ignorando a mi hermana.
 Estoy ignorando a todos ustedes-
 
 148
 00:07:46,680 --> 00:07:47,860
-Leonard: Traje snaks!
+Missy: Traje snaks!
 
 149
 00:07:48,130 --> 00:07:52,040
-Missy: ¡Oh!, mis pepinillos y...
+Leonard: ¡Oh!, mis pepinillos y...
 
 150
 00:07:52,060 --> 00:07:53,990
-Leonard: Salsa de cebolla. Es salsa de cebolla.
+Raj: Salsa de cebolla. Es salsa de cebolla.
 
 151
 00:07:56,650 --> 00:07:58,960
-Leonard: No somos muy divertidos.
+Missy: No somos muy divertidos.
 
 152
 00:08:00,590 --> 00:08:03,720
@@ -664,24 +664,24 @@ Raj: Missy. Te gustan los pijamas?
 
 153
 00:08:04,030 --> 00:08:04,690
-Missy: Eso creo.
+Howard: Eso creo.
 
 154
 00:08:04,720 --> 00:08:06,930
-Raj: bueno..., los indúes los inventamos.
+Howard: bueno..., los indúes los inventamos.
 
 155
 00:08:07,750 --> 00:08:09,080
-Raj: De nada.
+Penny: De nada.
 
 156
 00:08:10,580 --> 00:08:13,200
-Howard: si, bueno, mi gente invento 
+Penny: si, bueno, mi gente invento 
 la circunsición.
 
 157
 00:08:17,980 --> 00:08:20,150
-Howard: de nada...
+Missy: de nada...
 
 158
 00:08:21,350 --> 00:08:23,020
@@ -689,27 +689,27 @@ Penny: Missy, me voy a ir a hacer la manicura
 
 159
 00:08:23,050 --> 00:08:25,120
-Penny: Quieres venir?
-Penny: Dios, sí
+Missy: -Quieres venir?
+-Dios, sí
 
 160
 00:08:25,710 --> 00:08:28,210
-Missy: Gracias
-Missy: por nada.
+Howard: -Gracias
+-por nada.
 
 161
 00:08:29,150 --> 00:08:29,930
-Penny: Chau, muchachos.
+Leonard: Chau, muchachos.
 
 162
 00:08:29,960 --> 00:08:31,660
-Howard: Chau Missy.
-Leonard: Chau Missy, nos vemos-
+Penny: -Chau Missy.
+-Chau Missy, nos vemos-
 
 163
 00:08:31,660 --> 00:08:35,300
-Penny: Adios, Leonard.
-Leonard: Ah si, no he, chau Penny.
+Leonard: -Adios, Leonard.
+-Ah si, no he, chau Penny.
 
 164
 00:08:36,870 --> 00:08:38,220
@@ -738,12 +738,12 @@ Leonard: en que universo tengo a Penny?
 
 170
 00:08:49,040 --> 00:08:51,400
-Howard: Entonces puedo tener a Penny?
-Leonard: Demonios, no!
+Howard: -Entonces puedo tener a Penny?
+-Demonios, no!
 
 171
 00:08:52,420 --> 00:08:55,290
-Sheldon: Perdonad. Puedo decir algo?
+Leonard: Perdonad. Puedo decir algo?
 
 172
 00:08:56,390 --> 00:08:57,970
@@ -755,8 +755,8 @@ Sheldon: Está bien con pepperoni?
 
 174
 00:09:01,900 --> 00:09:05,230
-Leonard: Sheldon, puedo hablar con vos en privado?
-Sheldon: Eso creo.
+Leonard: -Sheldon, puedo hablar con vos en privado?
+-Eso creo.
 
 175
 00:09:05,590 --> 00:09:07,950
@@ -780,29 +780,29 @@ Inventamos los pijamas.
 
 179
 00:09:18,100 --> 00:09:20,540
-Raj: hey, mirame! No tengo prepucio.
+Howard: hey, mirame! No tengo prepucio.
 
 180
 00:09:27,950 --> 00:09:29,060
-Leonard: Sheldon...
+Raj: Sheldon...
 
 181
 00:09:31,560 --> 00:09:33,070
-Leonard: estas al tanto de que tu hermana
+Raj: estas al tanto de que tu hermana
 
 182
 00:09:33,070 --> 00:09:35,260
-Leonard: Es una increiblemente
+Raj: Es una increiblemente
 atractiva mujer?
 
 183
 00:09:37,660 --> 00:09:39,630
-Sheldon: Ciertamente tiene simetría
+Leonard: Ciertamente tiene simetría
 y una baja concentración de grasa.
 
 184
 00:09:39,650 --> 00:09:41,790
-Sheldon: cosa que en la cultura occidental significa deseable
+Leonard: cosa que en la cultura occidental significa deseable
 
 185
 00:09:42,020 --> 00:09:44,440
@@ -821,8 +821,8 @@ sugiere abundancia
 
 188
 00:09:50,110 --> 00:09:51,940
-Leonard: Es facinante, pero....
-Sheldon: No dije que fuese facinante.
+Leonard: -Es facinante, pero....
+-No dije que fuese facinante.
 
 189
 00:09:51,940 --> 00:09:53,590
@@ -830,7 +830,7 @@ Sheldon: Dije que era digno de mención
 
 190
 00:09:54,560 --> 00:09:57,020
-Leonard: bien pero.....anotado.
+Sheldon: bien pero.....anotado.
 
 191
 00:09:57,400 --> 00:10:00,610
@@ -842,11 +842,11 @@ Leonard: estan seduciendo a tu hermana
 
 193
 00:10:03,200 --> 00:10:04,630
-Sheldon: oh, es.....
+Leonard: oh, es.....
 
 194
 00:10:06,030 --> 00:10:08,210
-Sheldon: oh, bien.
+Leonard: oh, bien.
 
 195
 00:10:08,400 --> 00:10:10,950
@@ -860,7 +860,7 @@ llegado muy lejos
 
 197
 00:10:13,060 --> 00:10:15,040
-Sheldon: Si hubieras empezado por ahí...
+Leonard: Si hubieras empezado por ahí...
 
 198
 00:10:15,640 --> 00:10:16,630
@@ -878,20 +878,20 @@ que es tu tesis.
 
 201
 00:10:20,080 --> 00:10:21,370
-Leonard: como sea.
+Sheldon: como sea.
 
 202
 00:10:22,960 --> 00:10:26,090
-Leonard: Tenes que hacer algo con eso.
-Sheldon: Porque?
+Leonard: -Tenes que hacer algo con eso.
+-Porque?
 
 203
 00:10:26,090 --> 00:10:28,030
-Leonard: Porque es tu hermana.
+Sheldon: Porque es tu hermana.
 
 204
 00:10:28,910 --> 00:10:30,470
-Sheldon: No entiendo
+Leonard: No entiendo
 
 205
 00:10:30,870 --> 00:10:33,400
@@ -915,7 +915,7 @@ asegurarte que
 
 209
 00:10:44,820 --> 00:10:47,330
-Leonard: Missy elija un compañero sustentable
+Sheldon: Missy elija un compañero sustentable
 
 210
 00:10:48,740 --> 00:10:50,780
@@ -923,7 +923,7 @@ Sheldon: No había considerado eso.
 
 211
 00:10:51,410 --> 00:10:52,790
-Sheldon: Compartimos el mismo DNA.
+Leonard: Compartimos el mismo DNA.
 
 212
 00:10:53,350 --> 00:10:55,660
@@ -1007,8 +1007,8 @@ Leonard: Tienes que respetar sus deseos.
 
 230
 00:11:53,060 --> 00:11:55,500
-Sheldon: Tú también estás fuera, por cierto.
-Leonard: ¿Qué?
+- Sheldon: Tú también estás fuera, por cierto.
+- Leonard: ¿Qué?
 
 231
 00:11:55,500 --> 00:11:56,700
@@ -1140,11 +1140,11 @@ sin tirarte un pedo..
 
 259
 00:13:30,850 --> 00:13:33,080
-Sheldon: y podrás dormir con mi hermana.
+Missy: y podrás dormir con mi hermana.
 
 260
 00:13:34,320 --> 00:13:35,900
-Missy: Oh, ¿en serio?
+Sheldon: Oh, ¿en serio?
 
 261
 00:13:42,670 --> 00:13:46,370
@@ -1195,8 +1195,8 @@ Sheldon: que tienes un gran potencial en tu DNA
 
 271
 00:14:17,550 --> 00:14:19,830
-Missy: ¿De qué demonios estás hablando?
-Sheldon: Déjame explicarte.
+- Missy: ¿De qué demonios estás hablando?
+- Sheldon: Déjame explicarte.
 
 272
 00:14:20,140 --> 00:14:23,660
@@ -1213,7 +1213,7 @@ Missy: que quieres decir con "mediocre stock"?
 
 275
 00:14:31,530 --> 00:14:32,890
-Sheldon: Esa serías tú.
+Missy: Esa serías tú.
 
 276
 00:14:34,120 --> 00:14:37,550
@@ -1230,8 +1230,8 @@ Sheldon: y menos propenso a pecar, un Sheldon 2.0
 
 279
 00:14:45,120 --> 00:14:47,840
-Missy: ¿"Sheldon 2.0"?
-Sheldon: Exactamente.
+- Missy: ¿"Sheldon 2.0"?
+- Sheldon: Exactamente.
 
 280
 00:14:47,840 --> 00:14:50,320
@@ -1253,8 +1253,8 @@ concepción se reduce
 
 284
 00:14:55,550 --> 00:14:58,070
-Missy: Debes estar tomandome el pelo.
-Sheldon: No del todo.
+- Missy: Debes estar tomandome el pelo.
+- Sheldon: No del todo.
 
 285
 00:14:58,070 --> 00:15:01,550
@@ -1318,7 +1318,7 @@ Sheldon: Escúchame.
 
 298
 00:15:39,920 --> 00:15:41,260
-Si quieres empezar a
+Missy: Si quieres empezar a
 actuar como un hermano
 
 299
@@ -1344,7 +1344,7 @@ Missy: y vueltas como lo hacíamos cuando éramos pequeños.
 
 304
 00:15:51,260 --> 00:15:52,530
-Missy: ¿Recuerdas?
+Sheldon: ¿Recuerdas?
 
 305
 00:15:56,480 --> 00:15:57,970
@@ -1352,11 +1352,11 @@ Sheldon: Tengo una propuesta alternativa.
 
 306
 00:15:57,990 --> 00:15:59,160
-Missy: vamos.
+Sheldon: vamos.
 
 307
 00:15:59,200 --> 00:16:00,730
-Sheldon: Tienes que donar ovulos.
+Missy: Tienes que donar ovulos.
 
 308
 00:16:00,770 --> 00:16:02,630
@@ -1391,7 +1391,7 @@ Howard: Mira, tenemos que aclarar las cosas
 
 315
 00:16:26,430 --> 00:16:27,340
-Leonard: Estoy de acuerdo.
+Howard: Estoy de acuerdo.
 
 316
 00:16:27,510 --> 00:16:29,020
@@ -1414,7 +1414,7 @@ llamar a su abuela.
 
 320
 00:16:34,300 --> 00:16:35,550
-Raj: Que aparentemente esta muy enferma.
+Howard: Que aparentemente esta muy enferma.
 
 321
 00:16:35,570 --> 00:16:37,620
@@ -1427,16 +1427,16 @@ Howard: Ho, pobre y triste bastardo.
 
 323
 00:16:41,860 --> 00:16:42,780
-Raj: No empieces conmigo, viejo
+Howard: No empieces conmigo, viejo
 
 324
 00:16:42,800 --> 00:16:44,100
-Howard: Querés ir de nuevo? vamos.
+Leonard: Querés ir de nuevo? vamos.
 
 325
 00:16:44,100 --> 00:16:45,980
-Leonard: Sentate
-Howard: OK
+Howard: -Sentate
+-OK
 
 326
 00:16:47,230 --> 00:16:49,770
@@ -1457,7 +1457,7 @@ Leonard: Querés más?
 
 330
 00:16:59,100 --> 00:17:01,540
-Leonard: Y está abajo!
+Howard: Y está abajo!
 
 331
 00:17:04,820 --> 00:17:05,940
@@ -1482,8 +1482,8 @@ las buenas noticias a Missy
 
 336
 00:17:27,760 --> 00:17:29,220
-Penny: Hey, Leonard
-Leonard: Oh, hola Penny. Cómo andás?
+Penny: -Hey, Leonard
+-Oh, hola Penny. Cómo andás?
 
 337
 00:17:29,220 --> 00:17:31,150
@@ -1492,12 +1492,12 @@ que estabas saliendo...
 
 338
 00:17:31,170 --> 00:17:32,120
-Leonard: todavía salen?
+Penny: todavía salen?
 
 339
 00:17:32,160 --> 00:17:33,940
-Penny: bastante, por?
-Leonard: Nada, solo me pongo al corriente
+Leonard: -bastante, por?
+-Nada, solo me pongo al corriente
 
 340
 00:17:33,940 --> 00:17:36,770
@@ -1526,8 +1526,8 @@ Pero no, gracias.
 
 346
 00:17:51,820 --> 00:17:54,000
-Leonard: ¿Tienes otros planes o...?
-Missy: No.
+- Leonard: ¿Tienes otros planes o...?
+- Missy: No.
 
 347
 00:17:57,970 --> 00:18:02,320
@@ -1568,8 +1568,8 @@ Howard: El sorprendente Howard.
 
 356
 00:18:35,570 --> 00:18:38,490
-Howard: ¿Te gusta la magía?
-Missy: No. La verdad, no.
+- Howard: ¿Te gusta la magía?
+- Missy: No. La verdad, no.
 
 357
 00:18:39,590 --> 00:18:42,300
@@ -1686,16 +1686,16 @@ Sheldon: Soy un fisico teórico.
 
 383
 00:20:59,250 --> 00:21:02,780
-Missy: ¿Cuál es la diferencia?
-Sheldon: ¿Cuál es la diferencia?!
+Missy: -¿Cuál es la diferencia?
+-¿Cuál es la diferencia?!
 
 384
 00:21:03,480 --> 00:21:04,650
-Missy: Adiós, shelly.
+Sheldon: Adiós, shelly.
 
 385
 00:21:04,700 --> 00:21:08,470
-Sheldon: por Dios! porque simplemente no les dices
+Missy: por Dios! porque simplemente no les dices
 
 386
 00:21:08,510 --> 00:21:11,830
@@ -1708,4 +1708,4 @@ Que humillante
 
 388
 00:21:17,900 --> 00:21:19,120
-Correcciones FErcho
+Sheldon: Correcciones FErcho

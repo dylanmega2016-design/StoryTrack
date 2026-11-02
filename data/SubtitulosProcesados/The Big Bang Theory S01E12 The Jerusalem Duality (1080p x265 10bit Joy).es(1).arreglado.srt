@@ -1,1681 +1,1681 @@
 1
 00:00:05,092 --> 00:00:07,104
-Este es el problema con
+Sheldon: Este es el problema con
 la tele transportación.
 
 2
 00:00:10,511 --> 00:00:12,554
-Dime.
+Leonard: Dime.
 
 3
 00:00:12,741 --> 00:00:15,136
-Asumiendo que un dispositivo
+Sheldon: Asumiendo que un dispositivo
 se pudiera inventar.
 
 4
 00:00:15,138 --> 00:00:18,813
-Que identificara el estado de la
+Sheldon: Que identificara el estado de la
 materia de un sujeto en un lugar.
 
 5
 00:00:18,848 --> 00:00:21,944
-Y transmitiera ese
+Sheldon: Y transmitiera ese
 patrón a otro lugar.
 
 6
 00:00:21,945 --> 00:00:23,914
-No estarías transportando
+Sheldon: No estarías transportando
 al individuo.
 
 7
 00:00:23,915 --> 00:00:26,614
-Lo estarías destruyendo
+Sheldon: Lo estarías destruyendo
 en un lugar.
 
 8
 00:00:26,615 --> 00:00:28,712
-Y recreándolo en otro.
+Leonard: Y recreándolo en otro.
 
 9
 00:00:30,488 --> 00:00:31,429
-Que me dices de eso.
+Sheldon: Que me dices de eso.
 
 10
 00:00:32,900 --> 00:00:35,397
-Nunca usaría un
+Leonard: Nunca usaría un
 tele transportador.
 
 11
 00:00:35,398 --> 00:00:40,143
-Por que el Sheldon original sería
+Sheldon: Por que el Sheldon original sería
 desintegrado para crear un nuevo Sheldon.
 
 12
 00:00:40,878 --> 00:00:44,756
-¿El nuevo Sheldon sería
+Leonard: ¿El nuevo Sheldon sería
 una versión mejorada?
 
 13
 00:00:45,687 --> 00:00:48,428
-No, sería exactamente el mismo.
+Sheldon: No, sería exactamente el mismo.
 
 14
 00:00:48,530 --> 00:00:50,158
-Es un problema.
+Sheldon: Es un problema.
 
 15
 00:00:50,684 --> 00:00:52,559
-Entonces, tú también lo ves.
+Sheldon: Entonces, tú también lo ves.
 
 16
 00:00:52,892 --> 00:00:55,141
-Doctor Hofstadter, Doctor Cooper.
+Dr. Gablehouser: Doctor Hofstadter, Doctor Cooper.
 
 17
 00:00:55,142 --> 00:00:56,783
-- Doctor Gablehauser.
-- Doctor Gablehauser.
+- Dr. Gablehouser: Doctor Gablehauser.
+- Leonard, Sheldon, Howard y Raj: Doctor Gablehauser.
 
 18
 00:00:56,784 --> 00:00:59,019
-Señores, quiero presentarles
+Dr. Gablehouser: Señores, quiero presentarles
 al señor Dennis Kim.
 
 19
 00:00:59,020 --> 00:01:02,281
-Dennis es un candidato
+Dr. Gablehouser: Dennis es un candidato
 excelente para un doctorado.
 
 20
 00:01:02,282 --> 00:01:04,248
-Y esperamos que haga
+Dr. Gablehouser: Y esperamos que haga
 su trabajo de grado aquí.
 
 21
 00:01:04,249 --> 00:01:05,912
-Doctorado, impresionante.
+Leonard: Doctorado, impresionante.
 
 22
 00:01:05,913 --> 00:01:08,243
-Y sólo tiene 15 años.
+Leonard: Y sólo tiene 15 años.
 
 23
 00:01:08,244 --> 00:01:11,808
-No está mal, yo empecé a los 14 años.
+Dr. Gablehouser: No está mal, yo empecé a los 14 años.
 
 24
 00:01:11,809 --> 00:01:16,311
-Bueno, perdí un año escapando
+Sheldon: Bueno, perdí un año escapando
 de Corea del Norte con mi familia.
 
 25
 00:01:17,678 --> 00:01:19,595
-Niño prodigio.
+Sheldon: Niño prodigio.
 
 26
 00:01:20,986 --> 00:01:23,651
-Quería que le mostraran los alrededores.
+Dennis Kim: Quería que le mostraran los alrededores.
 
 27
 00:01:23,652 --> 00:01:26,860
-Que viera por que tenemos los
+Dennis Kim: Que viera por que tenemos los
 mejores laboratorios de física del país
 
 28
 00:01:26,861 --> 00:01:28,155
-Ya se que no.
+Leonard: Ya se que no.
 
 29
 00:01:28,156 --> 00:01:30,249
-No tienen una red de computadoras
+Dr. Gablehouser: No tienen una red de computadoras
 científicas abierta.
 
 30
 00:01:30,250 --> 00:01:31,633
-O electro láser de campo.
+Dr. Gablehouser: O electro láser de campo.
 
 31
 00:01:31,634 --> 00:01:34,470
-Y la investigación sobre la teoría
+Dennis Kim: Y la investigación sobre la teoría
 de cuerdas es una calle sin salida.
 
 32
 00:01:34,471 --> 00:01:38,279
-Disculpa, es mi investigación,
+Dennis Kim: Disculpa, es mi investigación,
 y no es una calle sin salida.
 
 33
 00:01:38,280 --> 00:01:41,404
-Es obvio que no lo ves,
+Sheldon: Es obvio que no lo ves,
 pero créeme lo verás.
 
 34
 00:01:43,999 --> 00:01:45,887
-Dennis, lo discutimos.
+Dennis Kim: Dennis, lo discutimos.
 
 35
 00:01:45,888 --> 00:01:48,646
-Estamos actualizando
+Dennis Kim: Estamos actualizando
 nuestros equipos.
 
 36
 00:01:48,647 --> 00:01:50,645
-Y son bienvenidas tus observaciones
+Dr. Gablehouser: Y son bienvenidas tus observaciones
 en nuestras investigaciones.
 
 37
 00:01:50,646 --> 00:01:54,197
-Y no nos fijaremos si
+Dr. Gablehouser: Y no nos fijaremos si
 quieres usar el 20%.
 
 38
 00:01:54,297 --> 00:01:57,296
-Del dinero que contrabandeo
+Dr. Gablehouser: Del dinero que contrabandeo
 tu padre desde Pyongyang.
 
 39
 00:01:58,414 --> 00:02:00,397
-Lo queremos aquí, muchachos.
+Dr. Gablehouser: Lo queremos aquí, muchachos.
 
 40
 00:02:00,432 --> 00:02:02,438
-- Hagan que suceda.
-- Si señor.
+- Leonard: Hagan que suceda.
+- Sheldon: Si señor.
 
 41
 00:02:02,439 --> 00:02:04,643
-- Cuente con nosotros.
+- Sheldon: Cuente con nosotros.
 
 42
 00:02:04,678 --> 00:02:06,239
-¿Que diablos quieres decir
+Sheldon: ¿Que diablos quieres decir
 con calle sin salida?
 
 43
 00:02:06,749 --> 00:02:12,744
-Que el falso vacío de la teoría de cuerdas
+Dennis Kim: Que el falso vacío de la teoría de cuerdas
 sería grande como la potencia 500 de 10.
 
 44
 00:02:12,745 --> 00:02:15,504
-Además... Uh, leche chocolatada.
+Dennis Kim: Además... Uh, leche chocolatada.
 
 45
 00:02:17,864 --> 00:02:20,286
-Siento un disturbio en la fuerza.
+Sheldon: Siento un disturbio en la fuerza.
 
 46
 00:02:21,279 --> 00:02:24,353
-Un mal presentimiento
+Leonard: Un mal presentimiento
 tengo de esto, mmmm.
 
 47
 00:02:27,735 --> 00:02:28,735
-Capitulo 12: The Jerusalem Duality
+Leonard: Capitulo 12: The Jerusalem Duality
 
 48
 00:02:48,334 --> 00:02:50,450
-Dennis, ¿Hace cuanto
+Leonard: Dennis, ¿Hace cuanto
 estás en América?
 
 49
 00:02:50,516 --> 00:02:51,451
-Un año y medio.
+Dennis Kim: Un año y medio.
 
 50
 00:02:51,452 --> 00:02:54,267
-- En serio, hablas muy bien ingles.
-- Tu también.
+- Leonard: En serio, hablas muy bien ingles.
+- Dennis Kim: Tu también.
 
 51
 00:02:55,779 --> 00:02:59,167
-Excepto por tu tendencia a terminar
+Dennis Kim: Excepto por tu tendencia a terminar
 frases con preposiciones.
 
 52
 00:03:00,148 --> 00:03:01,929
-¿A que te refieres con?
+Leonard: ¿A que te refieres con?
 
 53
 00:03:03,770 --> 00:03:04,765
-A eso.
+Dennis Kim: A eso.
 
 54
 00:03:05,960 --> 00:03:07,337
-No está equivocado.
+Sheldon: No está equivocado.
 
 55
 00:03:08,461 --> 00:03:10,882
-Bien, está es mi oficina.
+Sheldon: Bien, está es mi oficina.
 
 56
 00:03:10,883 --> 00:03:13,077
-- Es parte del tour.
-- No, Adiós.
+- Dennis Kim: Es parte del tour.
+- Sheldon: No, Adiós.
 
 57
 00:03:14,440 --> 00:03:16,872
-Vamos, no le hemos
+Leonard: Vamos, no le hemos
 mostrado nada.
 
 58
 00:03:16,873 --> 00:03:17,671
-Esta bien...
+Sheldon: Esta bien...
 
 59
 00:03:17,672 --> 00:03:21,450
-Este es mi escritorio, mis
+Sheldon: Este es mi escritorio, mis
 libros y esa es mi puerta...
 
 60
 00:03:21,451 --> 00:03:23,511
-Por favor ciérrala
+Sheldon: Por favor ciérrala
 por fuera, Adiós.
 
 61
 00:03:25,315 --> 00:03:27,767
-Parece que estás trabajando en
+Dennis Kim: Parece que estás trabajando en
 correcciones de giros cuánticos.
 
 62
 00:03:27,768 --> 00:03:29,758
-Buena observación, Adiós.
+Sheldon: Buena observación, Adiós.
 
 63
 00:03:30,497 --> 00:03:32,414
-¿Ves donde te equivocaste?
+Dennis Kim: ¿Ves donde te equivocaste?
 
 64
 00:03:33,174 --> 00:03:35,584
-- ¿Leonard?
-- ¿Si?
+- Sheldon: ¿Leonard?
+- Leonard: ¿Si?
 
 65
 00:03:36,523 --> 00:03:37,920
-Sácalo de aquí.
+Sheldon: Sácalo de aquí.
 
 66
 00:03:38,454 --> 00:03:40,801
-Vamos Dennis, te mostraré
+Leonard: Vamos Dennis, te mostraré
 el centro recreacional.
 
 67
 00:03:40,802 --> 00:03:41,861
-Tienen máquinas de
+Leonard: Tienen máquinas de
 ejercicio nuevas.
 
 68
 00:03:41,862 --> 00:03:43,590
-¿Parezco como alguien
+Dennis Kim: ¿Parezco como alguien
 que levanta pesos?
 
 69
 00:03:44,481 --> 00:03:46,077
-No pesados.
+Leonard: No pesados.
 
 70
 00:03:47,367 --> 00:03:51,456
-No has considerado la variable
+Dennis Kim: No has considerado la variable
 Lawrence a tu investigación.
 
 71
 00:03:52,153 --> 00:03:53,714
-¿Crees que no la he considerado?
+Dennis Kim: ¿Crees que no la he considerado?
 
 72
 00:03:53,749 --> 00:03:55,741
-¿En realidad crees que
+Sheldon: ¿En realidad crees que
 no la he considerado?
 
 73
 00:03:55,835 --> 00:03:57,259
-¿Lo consideraste?
+Sheldon: ¿Lo consideraste?
 
 74
 00:03:58,474 --> 00:04:01,173
-- Sácalo de aquí, Leonard.
-- Vamos Dennis.
+- Dennis Kim: Sácalo de aquí, Leonard.
+- Sheldon: Vamos Dennis.
 
 75
 00:04:01,174 --> 00:04:02,952
-Te mostraré el
+Sheldon: Te mostraré el
 laboratorio de radiación.
 
 76
 00:04:04,188 --> 00:04:06,477
-¡Vaya! ¿Ganaste un
+Dennis Kim: ¡Vaya! ¿Ganaste un
 premio Stevenson?
 
 77
 00:04:06,562 --> 00:04:10,851
-Si, soy el más joven
+Leonard: Si, soy el más joven
 que lo ha ganado.
 
 78
 00:04:10,942 --> 00:04:12,030
-¿En serio?
+Leonard: ¿En serio?
 
 79
 00:04:12,316 --> 00:04:14,532
-- ¿A que edad?
-- 14 años y medio.
+- Leonard: ¿A que edad?
+- Penny: 14 años y medio.
 
 80
 00:04:14,788 --> 00:04:17,222
-Eras el más joven en ganarlo.
+Penny: Eras el más joven en ganarlo.
 
 81
 00:04:20,632 --> 00:04:23,387
-¿Es como mirarse en un
+Penny: ¿Es como mirarse en un
 pequeño odioso espejo, no?
 
 82
 00:04:27,992 --> 00:04:30,307
-Esto está delicioso ¿Cierto?
+Howard: Esto está delicioso ¿Cierto?
 
 83
 00:04:34,092 --> 00:04:36,685
-¿Aún no puedes hablar conmigo
+Howard: ¿Aún no puedes hablar conmigo
 a menos que estés borracho?
 
 84
 00:04:38,421 --> 00:04:41,668
-Oh cariño, estás tan dañado.
+Penny: Oh cariño, estás tan dañado.
 
 85
 00:04:43,582 --> 00:04:45,356
-Oye, yo también
+Sheldon: Oye, yo también
 estoy dañado.
 
 86
 00:04:46,308 --> 00:04:48,035
-¿Que tal un abrazo para Howie?
+Leonard: ¿Que tal un abrazo para Howie?
 
 87
 00:04:48,895 --> 00:04:51,465
-Seguro, Raj abraza a Howard.
+Sheldon: Seguro, Raj abraza a Howard.
 
 88
 00:04:56,262 --> 00:04:58,160
-¿Algo que quieras compartir?
+Sheldon: ¿Algo que quieras compartir?
 
 89
 00:04:58,792 --> 00:05:01,217
-¿Quizás una historia
+Sheldon: ¿Quizás una historia
 de humillación?
 
 90
 00:05:01,682 --> 00:05:03,603
-15 años de edad.
+Howard: 15 años de edad.
 
 91
 00:05:03,614 --> 00:05:07,101
-Dennis Kim, tiene 15 años
+Sheldon: Dennis Kim, tiene 15 años
 y ya corrigió mi trabajo.
 
 92
 00:05:07,711 --> 00:05:10,096
-Hoy pasé de ser Wolfgang
+Howard: Hoy pasé de ser Wolfgang
 Amadeus Mozart a...
 
 93
 00:05:10,097 --> 00:05:14,197
-- Tú sabes, ese otro tipo.
-- ¿Antonio Salieri?
+- Howard: Tú sabes, ese otro tipo.
+- Leonard: ¿Antonio Salieri?
 
 94
 00:05:15,028 --> 00:05:17,846
-Oh Dios, ahora tú eres
+Leonard: Oh Dios, ahora tú eres
 más inteligente que yo.
 
 95
 00:05:18,779 --> 00:05:22,871
-No tienes tantos amigos como
+Sheldon: No tienes tantos amigos como
 para que estés insultándolos.
 
 96
 00:05:23,992 --> 00:05:26,277
-Come Sheldon, te sentirás mejor.
+Sheldon: Come Sheldon, te sentirás mejor.
 
 97
 00:05:26,278 --> 00:05:27,735
-Para que desperdiciar comida.
+Sheldon: Para que desperdiciar comida.
 
 98
 00:05:27,770 --> 00:05:30,579
-En Texas cuando las vacas
+Penny: En Texas cuando las vacas
 se secan no las alimentan.
 
 99
 00:05:30,580 --> 00:05:33,161
-Sólo le disparan entre los ojos.
+Leonard: Sólo le disparan entre los ojos.
 
 100
 00:05:33,843 --> 00:05:36,966
-Estoy confundida.
+Leonard: Estoy confundida.
 ¿Sheldon dejó de dar leche?
 
 101
 00:05:38,686 --> 00:05:40,287
-No dejes que te afecte.
+Sheldon: No dejes que te afecte.
 
 102
 00:05:40,373 --> 00:05:44,146
-Sabias que algún día llegaría
+Sheldon: Sabias que algún día llegaría
 alguien más joven e inteligente.
 
 103
 00:05:44,147 --> 00:05:46,987
-Pero asumí que habría
+Penny: Pero asumí que habría
 muerto hace cientos de años.
 
 104
 00:05:46,988 --> 00:05:50,313
-Y que sería un cyborg.
+Penny: Y que sería un cyborg.
 
 105
 00:05:51,919 --> 00:05:55,301
-Tienes algo de competencia.
+Sheldon: Tienes algo de competencia.
 ¿No veo cual es el problema?
 
 106
 00:05:55,302 --> 00:05:58,646
-Por supuesto, nunca
+Penny: Por supuesto, nunca
 has destacado en nada.
 
 107
 00:06:00,300 --> 00:06:04,024
-No entiendo, ¿Como
+Howard: No entiendo, ¿Como
 se hicieron amigos?
 
 108
 00:06:05,055 --> 00:06:06,687
-Nos agrada Leonard.
+Leonard: Nos agrada Leonard.
 
 109
 00:06:08,951 --> 00:06:11,055
-¿Que harás Sheldon?
+Leonard: ¿Que harás Sheldon?
 ¿Rendirte?
 
 110
 00:06:11,345 --> 00:06:14,733
-Si, es lo que hace una
+Sheldon: Si, es lo que hace una
 persona racional cuando...
 
 111
 00:06:14,734 --> 00:06:16,687
-el trabajo de su vida
+Sheldon: el trabajo de su vida
 es desacreditado por un
 
 112
 00:06:16,688 --> 00:06:18,902
-Niño púber de jardín de infantes.
+Sheldon: Niño púber de jardín de infantes.
 
 113
 00:06:19,358 --> 00:06:21,868
-Cesa su inútil esfuerzo.
+Sheldon: Cesa su inútil esfuerzo.
 
 114
 00:06:21,869 --> 00:06:23,918
-Dona su cuerpo para
+Penny: Dona su cuerpo para
 experimentos.
 
 115
 00:06:24,238 --> 00:06:25,935
-Y espera morir.
+Penny: Y espera morir.
 
 116
 00:06:27,518 --> 00:06:32,579
-Estoy confundida. ¿Está esperando o
+Penny: Estoy confundida. ¿Está esperando o
 hay que dispararle entre los ojos?
 
 117
 00:06:35,357 --> 00:06:37,104
-- Ey.
-- Ey.
+- Sheldon: Ey.
+- Leonard: Ey.
 
 118
 00:06:37,408 --> 00:06:39,025
-Decidí que estás
+Sheldon: Decidí que estás
 en lo correcto.
 
 119
 00:06:39,026 --> 00:06:40,671
-Mi carrera no ha terminado.
+Sheldon: Mi carrera no ha terminado.
 
 120
 00:06:40,672 --> 00:06:43,170
-- Bien.
-- Desde que llegó Dennis Kim.
+- Leonard: Bien.
+- Sheldon: Desde que llegó Dennis Kim.
 
 121
 00:06:43,171 --> 00:06:44,773
-Y volvió mi
+Sheldon: Y volvió mi
 investigación inservible.
 
 122
 00:06:44,774 --> 00:06:47,127
-Necesito algo más en
+Sheldon: Necesito algo más en
 que enfocarme.
 
 123
 00:06:47,128 --> 00:06:49,188
-- Genial.
-- Así que decidí.
+- Leonard: Genial.
+- Sheldon: Así que decidí.
 
 124
 00:06:49,223 --> 00:06:51,123
-Voy a colaborar contigo.
+Sheldon: Voy a colaborar contigo.
 
 125
 00:06:54,155 --> 00:06:55,248
-Genial.
+Leonard: Genial.
 
 126
 00:06:55,837 --> 00:06:58,074
-¿Que es lo que haces tú?
+Sheldon: ¿Que es lo que haces tú?
 
 127
 00:06:59,150 --> 00:07:02,774
-Se que hablas siempre de eso,
+Sheldon: Se que hablas siempre de eso,
 pero nunca presto atención.
 
 128
 00:07:03,665 --> 00:07:08,587
-Bien, ahora diseño un experimento
+Leonard: Bien, ahora diseño un experimento
 sobre la radiación a nivel del mar.
 
 129
 00:07:08,588 --> 00:07:09,646
-Pero en realidad no necesito ayuda.
+Leonard: Pero en realidad no necesito ayuda.
 
 130
 00:07:09,647 --> 00:07:11,081
-Oh, de verdad si lo necesitas.
+Sheldon: Oh, de verdad si lo necesitas.
 
 131
 00:07:12,641 --> 00:07:14,460
-¿Que es eso en el esquema?
+Sheldon: ¿Que es eso en el esquema?
 
 132
 00:07:14,461 --> 00:07:16,026
-- ¿Un equipo láser?
-- ¡Si!
+- Sheldon: ¿Un equipo láser?
+- Leonard: ¡Si!
 
 133
 00:07:16,027 --> 00:07:17,755
-No... mmmmm...
+Sheldon: No... mmmmm...
 
 134
 00:07:19,895 --> 00:07:23,850
-¿Qué pasa si usas láser de
+Sheldon: ¿Qué pasa si usas láser de
 Argón en vez de Neón-Helio?
 
 135
 00:07:23,885 --> 00:07:26,196
-- Explotaría.
-- ¿Estás seguro?
+- Leonard: Explotaría.
+- Sheldon: ¿Estás seguro?
 
 136
 00:07:26,442 --> 00:07:27,529
-Bastante seguro.
+Leonard: Bastante seguro.
 
 137
 00:07:27,530 --> 00:07:29,468
-Bastante seguro no
+Sheldon: Bastante seguro no
 es muy científico.
 
 138
 00:07:29,469 --> 00:07:32,657
-¿Así trabajas siempre, con
+Sheldon: ¿Así trabajas siempre, con
 suposiciones y corazonadas?
 
 139
 00:07:33,652 --> 00:07:34,364
-Está bien.
+Sheldon: Está bien.
 
 140
 00:07:35,045 --> 00:07:38,482
-Sheldon, entiendo que estás
+Leonard: Sheldon, entiendo que estás
 pasando por una crisis.
 
 141
 00:07:38,483 --> 00:07:42,614
-Estás buscando otra área
+Leonard: Estás buscando otra área
 donde te sientas útil y productivo.
 
 142
 00:07:42,649 --> 00:07:44,989
-Pero necesito decirte algo y
+Leonard: Pero necesito decirte algo y
 que me escuches con atención
 
 143
 00:07:45,024 --> 00:07:45,939
-Está bien.
+Sheldon: Está bien.
 
 144
 00:07:45,940 --> 00:07:48,234
-¡VETE!
+Leonard: ¡VETE!
 
 145
 00:07:50,393 --> 00:07:52,392
-Si te preocupa compartir
+Sheldon: Si te preocupa compartir
 el crédito conmigo.
 
 146
 00:07:52,393 --> 00:07:54,299
-Tu nombre puede ir prime...
+Sheldon: Tu nombre puede ir prime...
 Me voy.
 
 147
 00:07:59,430 --> 00:08:03,523
-Es una bolsa de papel mamá,
+Sheldon: Es una bolsa de papel mamá,
 la estoy mirando ahora.
 
 148
 00:08:04,686 --> 00:08:08,301
-Por que inventaría algo así,
+Howard: Por que inventaría algo así,
 no hay un pastel adentro.
 
 149
 00:08:11,335 --> 00:08:14,964
-¿Como dos pasteles mañana
+Howard: ¿Como dos pasteles mañana
 me ayudarán hoy?
 
 150
 00:08:17,111 --> 00:08:20,324
-Entonces, está es ingeniería.
+Howard: Entonces, está es ingeniería.
 
 151
 00:08:20,325 --> 00:08:21,883
-Te llamaré más tarde.
+Howard: Te llamaré más tarde.
 
 152
 00:08:22,151 --> 00:08:25,609
-Ingeniería... Donde los
+Howard: Ingeniería... Donde los
 trabajadores semi calificados.
 
 153
 00:08:25,610 --> 00:08:28,426
-Llevan a cabo el trabajo
+Howard: Llevan a cabo el trabajo
 de los que piensan y sueñan.
 
 154
 00:08:29,514 --> 00:08:31,599
-Hola, "Oompa Loompas" de la ciencia.
+Sheldon: Hola, "Oompa Loompas" de la ciencia.
 
 155
 00:08:33,971 --> 00:08:36,144
-Sheldon. ¿Qué haces aquí?
+Sheldon: Sheldon. ¿Qué haces aquí?
 
 156
 00:08:36,145 --> 00:08:38,294
-Sólo pase a saludar.
+Howard: Sólo pase a saludar.
 
 157
 00:08:38,635 --> 00:08:41,666
-He estado aquí por 3 años
+Sheldon: He estado aquí por 3 años
 y nunca has pasado a saludar.
 
 158
 00:08:41,667 --> 00:08:43,915
-Es que antes tenía
+Sheldon: Es que antes tenía
 mejores cosas que hacer.
 
 159
 00:08:44,945 --> 00:08:46,953
-Entonces, ¿Qué estamos
+Sheldon: Entonces, ¿Qué estamos
 haciendo hoy?
 
 160
 00:08:47,291 --> 00:08:49,903
-Una pequeña estructura de
+Howard: Una pequeña estructura de
 soporte para un experimento
 
 161
 00:08:49,904 --> 00:08:53,349
-Europeo que ira en el
+Howard: Europeo que ira en el
 transbordador espacial.
 
 162
 00:08:53,350 --> 00:08:54,384
-¿En serio?
+Sheldon: ¿En serio?
 
 163
 00:08:54,457 --> 00:08:55,289
-¿Como funciona?
+Sheldon: ¿Como funciona?
 
 164
 00:08:55,386 --> 00:08:57,943
-Cuando este listo, esto ira
+Howard: Cuando este listo, esto ira
 conectado a la bahía.
 
 165
 00:08:57,944 --> 00:09:00,176
-Y los equipos y sensores
+Howard: Y los equipos y sensores
 se apoyarán en él.
 
 166
 00:09:01,526 --> 00:09:03,062
-¡Aja!
+Howard: ¡Aja!
 
 167
 00:09:03,249 --> 00:09:04,821
-Entonces es una repisa.
+Sheldon: Entonces es una repisa.
 
 168
 00:09:08,706 --> 00:09:12,887
-No entiendes, durante su
+Sheldon: No entiendes, durante su
 aceleración necesita estar.
 
 169
 00:09:12,888 --> 00:09:15,651
-Perfectamente nivelada
+Sheldon: Perfectamente nivelada
 para que... si, es una repisa.
 
 170
 00:09:15,791 --> 00:09:17,874
-Note que usaste titanio.
+Howard: Note que usaste titanio.
 
 171
 00:09:17,875 --> 00:09:20,189
-Consideraste usar
+Howard: Consideraste usar
 nanotubos de carbono.
 
 172
 00:09:20,190 --> 00:09:22,782
-Son más livianos, baratos
+Howard: Son más livianos, baratos
 y tienen el doble de dureza.
 
 173
 00:09:22,822 --> 00:09:24,146
-Sheldon.
+Sheldon: Sheldon.
 
 174
 00:09:24,147 --> 00:09:26,204
-Hay un diploma en
+Sheldon: Hay un diploma en
 mi oficina que dice.
 
 175
 00:09:26,205 --> 00:09:28,851
-que tengo un Master
+Sheldon: que tengo un Master
 en ingeniería.
 
 176
 00:09:28,852 --> 00:09:30,369
-Y también una
+Howard: Y también una
 nota de tu madre.
 
 177
 00:09:30,370 --> 00:09:32,238
-Que dice: Te amo "bubula".
+Sheldon: Que dice: Te amo "bubula".
 
 178
 00:09:34,542 --> 00:09:36,729
-Pero ninguno de los dos
+Sheldon: Pero ninguno de los dos
 es un argumento.
 
 179
 00:09:36,730 --> 00:09:38,589
-válido para titanio
+Sheldon: válido para titanio
 sobre nanotubos.
 
 180
 00:09:38,851 --> 00:09:40,383
-- ¿Sheldon?
-- Si.
+- Howard: ¿Sheldon?
+- Sheldon: Si.
 
 181
 00:09:40,384 --> 00:09:43,031
-¡VETE!
+Howard: ¡VETE!
 
 182
 00:09:43,242 --> 00:09:45,118
-¿Leonard te dijo
+Sheldon: ¿Leonard te dijo
 que dijeras eso?
 
 183
 00:09:45,635 --> 00:09:47,307
-No, lo pensé solito.
+Howard: No, lo pensé solito.
 
 184
 00:09:48,678 --> 00:09:51,768
-Ah, no puede ser coincidencia.
+Sheldon: Ah, no puede ser coincidencia.
 
 185
 00:09:52,561 --> 00:09:55,933
-Debe ser una causal en
+Sheldon: Debe ser una causal en
 común que no estoy viendo.
 
 186
 00:09:58,217 --> 00:10:00,291
-¡VETE!
+Raj: ¡VETE!
 
 187
 00:10:08,784 --> 00:10:11,739
-Curiosa curiosidad.
+Sheldon: Curiosa curiosidad.
 
 188
 00:10:14,095 --> 00:10:15,041
-¿Está aquí?
+Howard: ¿Está aquí?
 
 189
 00:10:15,042 --> 00:10:17,593
-Yo no estaría
+Leonard: Yo no estaría
 si el estuviera.
 
 190
 00:10:17,926 --> 00:10:19,201
-¿Sabes lo que hizo?
+Raj: ¿Sabes lo que hizo?
 
 191
 00:10:19,202 --> 00:10:21,583
-No estuvo ni 10
+Raj: No estuvo ni 10
 minutos y solo decidió
 
 192
 00:10:21,584 --> 00:10:24,599
-diseñar un software
+Raj: diseñar un software
 para reemplazarme.
 
 193
 00:10:25,876 --> 00:10:27,248
-¿Es siquiera posible?
+Leonard: ¿Es siquiera posible?
 
 194
 00:10:27,249 --> 00:10:28,900
-Aunque no me guste, si.
+Raj: Aunque no me guste, si.
 
 195
 00:10:31,244 --> 00:10:33,110
-Algo se tiene que hacer
+Howard: Algo se tiene que hacer
 sobre esto Leonard.
 
 196
 00:10:33,111 --> 00:10:34,297
-¿Como qué?
+Howard: ¿Como qué?
 
 197
 00:10:34,298 --> 00:10:36,889
-Nunca aceptará el
+Leonard: Nunca aceptará el
 que exista un niño.
 
 198
 00:10:36,890 --> 00:10:39,314
-de 15 años con más logros
+Leonard: de 15 años con más logros
 y más inteligente que él.
 
 199
 00:10:39,709 --> 00:10:41,782
-¿Y si algo le sucediera
+Leonard: ¿Y si algo le sucediera
 a este niño?
 
 200
 00:10:41,783 --> 00:10:43,771
-¿Y no fuera más una
+Raj: ¿Y no fuera más una
 amenaza para Sheldon?
 
 201
 00:10:45,185 --> 00:10:47,260
-Nuestros problemas
+Raj: Nuestros problemas
 se resolverían.
 
 202
 00:10:48,024 --> 00:10:51,296
-Alto, ¿Estamos hablando
+Howard: Alto, ¿Estamos hablando
 de asesinar a Dennis Kim?
 
 203
 00:10:52,493 --> 00:10:54,073
-No digo que no...
+Leonard: No digo que no...
 
 204
 00:10:55,098 --> 00:10:58,055
-No tenemos que ir tan lejos.
+Leonard: No tenemos que ir tan lejos.
 Hay otras formas.
 
 205
 00:10:58,202 --> 00:11:00,720
-No podemos reenviarlo
+Leonard: No podemos reenviarlo
 a Corea del Norte.
 
 206
 00:11:00,721 --> 00:11:02,344
-Sabe como volver.
+Howard: Sabe como volver.
 
 207
 00:11:04,066 --> 00:11:07,889
-Lo único que necesitamos
+Howard: Lo único que necesitamos
 es que Kim pierda su objetivo.
 
 208
 00:11:07,890 --> 00:11:11,146
-No resultará, sólo está
+Raj: No resultará, sólo está
 interesado en física.
 
 209
 00:11:11,282 --> 00:11:12,890
-- ¿Qué tal biología?
-- ¿Qué?
+- Raj: ¿Qué tal biología?
+- Howard: ¿Qué?
 
 210
 00:11:12,892 --> 00:11:15,642
-Tu sabes... Bioooloogía...
+Howard: Tu sabes... Bioooloogía...
 
 211
 00:11:15,852 --> 00:11:19,474
-Lo único que puede descarrilar
+Howard: Lo único que puede descarrilar
 una mente brillante.
 
 212
 00:11:19,475 --> 00:11:20,774
-Howard, tiene 15 años.
+Leonard: Howard, tiene 15 años.
 
 213
 00:11:20,775 --> 00:11:23,508
-Yo tenía 15 años cuando
+Howard: Yo tenía 15 años cuando
 conocí a Denisse Palmeri.
 
 214
 00:11:23,509 --> 00:11:26,835
-Y mis calificaciones
+Leonard: Y mis calificaciones
 bajaron de 5.0 a 1.8.
 
 215
 00:11:27,980 --> 00:11:29,159
-¿Fuiste a la cama con ella?
+Howard: ¿Fuiste a la cama con ella?
 
 216
 00:11:29,237 --> 00:11:32,353
-No... sólo perdí harto tiempo.
+Raj: No... sólo perdí harto tiempo.
 
 217
 00:11:32,354 --> 00:11:34,270
-Pensando como habría
+Howard: Pensando como habría
 sido en realidad.
 
 218
 00:11:35,278 --> 00:11:37,158
-Bien, están todos aquí.
+Howard: Bien, están todos aquí.
 
 219
 00:11:37,159 --> 00:11:39,578
-Miren, decidí que si ustedes dejan.
+Sheldon: Miren, decidí que si ustedes dejan.
 
 220
 00:11:39,579 --> 00:11:41,671
-Todo lo que están
+Sheldon: Todo lo que están
 haciendo y se me unen.
 
 221
 00:11:41,672 --> 00:11:43,593
-Podemos lograr fusión en frío
+Sheldon: Podemos lograr fusión en frío
 en menos de una década.
 
 222
 00:11:43,594 --> 00:11:44,794
-12 años máximo.
+Sheldon: 12 años máximo.
 
 223
 00:11:48,299 --> 00:11:49,708
-¿vete?
+Penny: ¿vete?
 
 224
 00:11:53,483 --> 00:11:55,303
-¿Seré yo?
+Penny: ¿Seré yo?
 
 225
 00:11:58,554 --> 00:11:59,861
-Hola muchachos.
+Penny: Hola muchachos.
 ¿Que pasa?
 
 226
 00:11:59,862 --> 00:12:01,569
-Necesitamos una chica
+Howard: Necesitamos una chica
 asiática candente de 15 años.
 
 227
 00:12:01,570 --> 00:12:03,306
-Que esté interesada en
+Howard: Que esté interesada en
 muchachos inteligentes.
 
 228
 00:12:04,182 --> 00:12:05,162
-¡¿Qué?!
+Penny: ¡¿Qué?!
 
 229
 00:12:05,163 --> 00:12:08,878
-Howard, eso es racista.
+Leonard: Howard, eso es racista.
 Cualquiera de 15 años servirá.
 
 230
 00:12:15,107 --> 00:12:17,230
-Es posible que nos
+Leonard: Es posible que nos
 haya entendido mal.
 
 231
 00:12:24,302 --> 00:12:25,310
-¿Doctor Cooper?
+Leonard: ¿Doctor Cooper?
 
 232
 00:12:25,311 --> 00:12:27,643
-- ¿Interrumpimos?
-- No, por favor, pasen.
+- Leonard: ¿Interrumpimos?
+- Raj: No, por favor, pasen.
 
 233
 00:12:27,644 --> 00:12:30,278
-Creo que apreciara
+Dr. Gablehouser: Creo que apreciara
 esto, es excitante.
 
 234
 00:12:30,279 --> 00:12:32,537
-- ¿En que trabajas?
-- En algo extraordinario.
+- Dr. Gablehouser: ¿En que trabajas?
+- Sheldon: En algo extraordinario.
 
 235
 00:12:32,538 --> 00:12:35,613
-Como mi prospecto al premio
+Sheldon: Como mi prospecto al premio
 Nóbel de física desapareció.
 
 236
 00:12:35,614 --> 00:12:37,160
-Muchas gracias.
+Dr. Gablehouser: Muchas gracias.
 
 237
 00:12:37,195 --> 00:12:39,602
-Decidí reenfocar mis
+Dr. Gablehouser: Decidí reenfocar mis
 esfuerzos y usar.
 
 238
 00:12:39,603 --> 00:12:42,116
-Mis habilidades con la gente
+Sheldon: Mis habilidades con la gente
 y ganar el Nóbel de la Paz.
 
 239
 00:12:42,117 --> 00:12:45,023
-Miren, resolveré la
+Sheldon: Miren, resolveré la
 crisis de medio oriente.
 
 240
 00:12:45,024 --> 00:12:48,880
-Construyendo una réplica de Jerusalem
+Sheldon: Construyendo una réplica de Jerusalem
 en medio del desierto de México.
 
 241
 00:12:50,493 --> 00:12:51,692
-¿Con que fin?
+Dr. Gablehouser: ¿Con que fin?
 
 242
 00:12:51,693 --> 00:12:53,478
-Es como en esa
+Sheldon: Es como en esa
 película de béisbol.
 
 243
 00:12:53,479 --> 00:12:55,775
-Constrúyelo y ellos vendrán.
+Dr. Gablehouser: Constrúyelo y ellos vendrán.
 
 244
 00:12:56,760 --> 00:12:57,984
-¿Quienes vendrán?
+Sheldon: ¿Quienes vendrán?
 
 245
 00:12:57,985 --> 00:12:59,426
-Los judíos.
+Sheldon: Los judíos.
 
 246
 00:12:59,902 --> 00:13:01,553
-¿Y si no van?
+Dr. Gablehouser: ¿Y si no van?
 
 247
 00:13:01,556 --> 00:13:03,378
-Lo hacemos agradable,
+Dr. Gablehouser: Lo hacemos agradable,
 como una opción.
 
 248
 00:13:04,942 --> 00:13:07,370
-Bien. Hablando de opciones.
+Sheldon: Bien. Hablando de opciones.
 
 249
 00:13:07,371 --> 00:13:09,433
-Tendremos una fiesta
+Dr. Gablehouser: Tendremos una fiesta
 de bienvenida esta tarde.
 
 250
 00:13:09,434 --> 00:13:12,369
-para el señor Kim que accedió
+Dr. Gablehouser: para el señor Kim que accedió
 ingresar a esta Universidad.
 
 251
 00:13:12,370 --> 00:13:16,084
-Por supuesto, la "Oráculo" nos
+Dr. Gablehouser: Por supuesto, la "Oráculo" nos
 dijo que el pequeño "Neo".
 
 252
 00:13:16,085 --> 00:13:16,980
-Era el elegido.
+Sheldon: Era el elegido.
 
 253
 00:13:19,081 --> 00:13:21,365
-Puedes ver la "Matrix", ¿Cierto?
+Sheldon: Puedes ver la "Matrix", ¿Cierto?
 
 254
 00:13:21,366 --> 00:13:27,423
-Está bien... Veo que estás muy
+Sheldon: Está bien... Veo que estás muy
 ocupado con... vamos Dennis.
 
 255
 00:13:28,807 --> 00:13:32,272
-Tendrás que disculpar al Doctor
+Sheldon: Tendrás que disculpar al Doctor
 Cooper, el ha estado bajo...
 
 256
 00:13:32,974 --> 00:13:34,136
-...Está loco.
+Sheldon: ...Está loco.
 
 257
 00:13:35,300 --> 00:13:41,124
-<i>Ay ay ay ay... hava nagila</i>
+Sheldon: <i>Ay ay ay ay... hava nagila</i>
 
 258
 00:13:41,159 --> 00:13:44,812
-<i>Vienes y ganas el premio...</i>
+Profesor Goldfarb: <i>Vienes y ganas el premio...</i>
 
 259
 00:13:46,529 --> 00:13:49,133
-Realmente no entiendo su
+Sheldon: Realmente no entiendo su
 objeción Profesor Goldfarb.
 
 260
 00:13:49,134 --> 00:13:53,445
-Por que el desierto de sonora no puede
+Profesor Goldfarb: Por que el desierto de sonora no puede
 ser una excelente tierra prometida.
 
 261
 00:13:53,490 --> 00:13:55,160
-¡Vete!
+Sheldon: ¡Vete!
 
 262
 00:13:56,758 --> 00:13:59,154
-Podemos llamarle:
+Sheldon: Podemos llamarle:
 "Nueva Jerusalem".
 
 263
 00:14:00,195 --> 00:14:01,552
-Por favor, vete.
+Dr. Gablehouser: Por favor, vete.
 
 264
 00:14:02,606 --> 00:14:04,480
-Le dijo el faraón a Moisés.
+Dr. Gablehouser: Le dijo el faraón a Moisés.
 
 265
 00:14:06,007 --> 00:14:08,229
-¿Qué hacen todas
+Leonard: ¿Qué hacen todas
 estas jóvenes acá?
 
 266
 00:14:08,230 --> 00:14:10,096
-Es día de llevar a
+Dr. Gablehouser: Es día de llevar a
 tu hija al trabajo.
 
 267
 00:14:10,633 --> 00:14:12,488
-¿En serio? No lo sabía.
+Dr. Gablehouser: ¿En serio? No lo sabía.
 
 268
 00:14:12,489 --> 00:14:17,577
-Oh si, se envió un email oficial a
+Raj: Oh si, se envió un email oficial a
 todos los funcionarios que en sus fichas
 
 269
 00:14:17,578 --> 00:14:20,622
-indicaban que tenían hijas
+Raj: indicaban que tenían hijas
 de edades entre 14 y 16 años.
 
 270
 00:14:21,471 --> 00:14:23,595
-- Suave.
-- Gracias.
+- Dr. Gablehouser: Suave.
+- Howard: Gracias.
 
 271
 00:14:25,458 --> 00:14:27,470
-Ahí está el hombre del momento.
+Raj: Ahí está el hombre del momento.
 
 272
 00:14:28,676 --> 00:14:31,648
-Bien, ahora tenemos un
+Dr. Gablehouser: Bien, ahora tenemos un
 genio socialmente torpe.
 
 273
 00:14:31,649 --> 00:14:34,055
-Y un salón lleno de chicas
+Leonard: Y un salón lleno de chicas
 atractivas de la edad correcta.
 
 274
 00:14:34,056 --> 00:14:35,755
-Ahora sólo tenemos
+Howard: Ahora sólo tenemos
 que juntarlo con alguna.
 
 275
 00:14:44,140 --> 00:14:46,355
-Alguien más ve la
+Howard: Alguien más ve la
 falla de este plan.
 
 276
 00:14:48,021 --> 00:14:49,683
-Necesitamos un
+Leonard: Necesitamos un
 catalizador social.
 
 277
 00:14:49,684 --> 00:14:50,684
-¿Cómo que?
+Leonard: ¿Cómo que?
 
 278
 00:14:50,685 --> 00:14:53,185
-No podemos emborrachar
+Raj: No podemos emborrachar
 a una chica de 15 años.
 
 279
 00:14:53,186 --> 00:14:55,902
-- O podemos...
-- ¡No podemos!
+- Raj: O podemos...
+- Leonard: ¡No podemos!
 
 280
 00:14:56,680 --> 00:14:59,683
-No es que no podamos,
+Leonard: No es que no podamos,
 es que no debemos.
 
 281
 00:15:00,029 --> 00:15:02,175
-Howard, tu eres judío.
+Howard: Howard, tu eres judío.
 
 282
 00:15:02,683 --> 00:15:04,588
-¿Si hubiera otro muro
+Leonard: ¿Si hubiera otro muro
 de los lamentos?
 
 283
 00:15:04,589 --> 00:15:06,312
-Igual al que hay en Jerusalem.
+Howard: Igual al que hay en Jerusalem.
 
 284
 00:15:06,313 --> 00:15:09,016
-Pero cerca de un puesto de tacos,
+Sheldon: Pero cerca de un puesto de tacos,
 y una farmacia de descuentos.
 
 285
 00:15:09,017 --> 00:15:10,866
-¿Aun podrías rezar en él?
+Sheldon: ¿Aun podrías rezar en él?
 
 286
 00:15:12,185 --> 00:15:15,136
-Está bien,
+Sheldon: Está bien,
 definitivamente soy yo.
 
 287
 00:15:17,323 --> 00:15:19,204
-No dejemos esto al azar.
+Leonard: No dejemos esto al azar.
 
 288
 00:15:19,205 --> 00:15:22,023
-Elijamos una chica y veamos
+Leonard: Elijamos una chica y veamos
 como la juntamos con Dennis.
 
 289
 00:15:23,485 --> 00:15:24,442
-¿Qué tal esa?
+Raj: ¿Qué tal esa?
 
 290
 00:15:25,282 --> 00:15:28,239
-No. Conozco su tipo.
+Raj: No. Conozco su tipo.
 Porrista, consejo estudiantil.
 
 291
 00:15:28,240 --> 00:15:31,272
-Sale sólo con atletas, no mira a
+Howard: Sale sólo con atletas, no mira a
 nadie del grupo de los dotados.
 
 292
 00:15:31,273 --> 00:15:33,859
-Y después de dos años de
+Howard: Y después de dos años de
 suplicar acepta salir contigo.
 
 293
 00:15:33,860 --> 00:15:36,126
-Para descubrir que es una trampa.
+Howard: Para descubrir que es una trampa.
 Y estás en el asiento trasero del
 
 294
 00:15:36,127 --> 00:15:38,950
-auto de tu mamá con los pantalones
+Howard: auto de tu mamá con los pantalones
 abajo y todo el equipo de fútbol riendo.
 
 295
 00:15:41,528 --> 00:15:42,900
-¿Estás llorando?
+Raj: ¿Estás llorando?
 
 296
 00:15:42,901 --> 00:15:44,998
-No. Tengo alergias.
+Raj: No. Tengo alergias.
 
 297
 00:15:47,882 --> 00:15:49,020
-¿Qué tal ella?
+Howard: ¿Qué tal ella?
 
 298
 00:15:50,535 --> 00:15:53,790
-Seguro, si quieres pasar
+Raj: Seguro, si quieres pasar
 años haciendo sus tareas.
 
 299
 00:15:53,791 --> 00:15:56,655
-Mientras ella bebe
+Leonard: Mientras ella bebe
 "white russian" con un estúpido
 
 300
 00:15:56,656 --> 00:15:59,633
-Y tu eres el que le sostiene
+Leonard: Y tu eres el que le sostiene
 la cabeza mientras vomita.
 
 301
 00:15:59,634 --> 00:16:01,745
-Y te dice que ojala hubieran
+Leonard: Y te dice que ojala hubieran
 mas muchachos como tu.
 
 302
 00:16:01,746 --> 00:16:04,749
-Y al final se va con ese tipo,
+Leonard: Y al final se va con ese tipo,
 y la dejas de ver un tiempo.
 
 303
 00:16:04,750 --> 00:16:07,590
-Y viajas un fin de semana para
+Raj: Y viajas un fin de semana para
 visitarla y actúa como si no te conociera.
 
 304
 00:16:11,167 --> 00:16:12,841
-Bien, entonces ella tampoco.
+Howard: Bien, entonces ella tampoco.
 
 305
 00:16:14,426 --> 00:16:15,469
-¿Y que me dices de ella?
+Howard: ¿Y que me dices de ella?
 
 306
 00:16:15,970 --> 00:16:19,870
-Interesante. Bonita, un poco
+Leonard: Interesante. Bonita, un poco
 gordita, probable baja autoestima.
 
 307
 00:16:19,871 --> 00:16:21,460
-Creo que esa es nuestra chica.
+Raj: Creo que esa es nuestra chica.
 
 308
 00:16:21,495 --> 00:16:22,904
-Uno de nosotros tiene
+Raj: Uno de nosotros tiene
 que ir a hablarle.
 
 309
 00:16:22,905 --> 00:16:24,806
-Yo no puedo hablarle
+Leonard: Yo no puedo hablarle
 anda tú.
 
 310
 00:16:24,807 --> 00:16:27,197
-No puedo ir y sólo hablarle.
+Leonard: No puedo ir y sólo hablarle.
 
 311
 00:16:27,232 --> 00:16:28,557
-Howard, háblale tú.
+Howard: Howard, háblale tú.
 
 312
 00:16:29,167 --> 00:16:32,659
-No sé, no querrá saber del
+Howard: No sé, no querrá saber del
 chico cuando vea esto.
 
 313
 00:16:35,133 --> 00:16:36,861
-Si estuviéramos en India,
+Raj: Si estuviéramos en India,
 esto sería fácil.
 
 314
 00:16:36,862 --> 00:16:39,979
-5 minutos con el padre, 20
+Raj: 5 minutos con el padre, 20
 cabras sobre la mesa y listo.
 
 315
 00:16:40,346 --> 00:16:42,124
-No estamos en India.
+Leonard: No estamos en India.
 
 316
 00:16:42,125 --> 00:16:44,319
-Entonces por que no lo
+Raj: Entonces por que no lo
 hacemos a tu manera.
 
 317
 00:16:44,320 --> 00:16:46,857
-Arreglamos para que
+Raj: Arreglamos para que
 esta chica cruce el salón.
 
 318
 00:16:46,858 --> 00:16:49,233
-Para que luego abandoné a
+Raj: Para que luego abandoné a
 Dennis y se vaya con otro hombre.
 
 319
 00:16:51,247 --> 00:16:53,585
-- Eso fue innecesario.
-- Tu comenzaste amigo.
+- Leonard: Eso fue innecesario.
+- Raj: Tu comenzaste amigo.
 
 320
 00:16:55,383 --> 00:16:57,915
-Me prestan atención por favor.
+Dr. Gablehouser: Me prestan atención por favor.
 
 321
 00:16:58,244 --> 00:17:01,561
-Es una ocasión extraordinaria.
+Dr. Gablehouser: Es una ocasión extraordinaria.
 
 322
 00:17:01,562 --> 00:17:05,327
-Afortunadamente coincidió con
+Dr. Gablehouser: Afortunadamente coincidió con
 el día de traer a sus hijas al trabajo.
 
 323
 00:17:06,504 --> 00:17:09,294
-Es para darle la
+Dr. Gablehouser: Es para darle la
 bienvenida a Dennis Kim.
 
 324
 00:17:09,295 --> 00:17:12,897
-- A nuestra pequeña familia.
-- Bienvenido Dennis Kim.
+- Sheldon: A nuestra pequeña familia.
+- Dr. Gablehouser: Bienvenido Dennis Kim.
 
 325
 00:17:13,625 --> 00:17:18,378
-El señor Kim no solo fue el
+Dr. Gablehouser: El señor Kim no solo fue el
 orador en la Universidad de Stanford.
 
 326
 00:17:18,379 --> 00:17:23,209
-También es el ganador más joven
+Dr. Gablehouser: También es el ganador más joven
 del prestigioso premio Stevenson.
 
 327
 00:17:23,210 --> 00:17:25,353
-El más joven hasta que
+Sheldon: El más joven hasta que
 los cyborg se levanten.
 
 328
 00:17:26,662 --> 00:17:28,680
-Ahora sin más que agregar.
+Dr. Gablehouser: Ahora sin más que agregar.
 
 329
 00:17:28,681 --> 00:17:30,966
-Les presento al hombre del momento.
+Dr. Gablehouser: Les presento al hombre del momento.
 
 330
 00:17:30,967 --> 00:17:33,219
-El señor Dennis Kim.
+Dr. Gablehouser: El señor Dennis Kim.
 
 331
 00:17:35,514 --> 00:17:36,423
-¿Dennis?
+Dennis Kim: ¿Dennis?
 
 332
 00:17:37,300 --> 00:17:38,698
-¡¿Dennis?!
+Dennis Kim: ¡¿Dennis?!
 
 333
 00:17:38,824 --> 00:17:39,699
-¡¿QUÉ?!
+Dr. Gablehouser: ¡¿QUÉ?!
 
 334
 00:17:41,219 --> 00:17:44,379
-¿Quieres contarnos algo
+Dr. Gablehouser: ¿Quieres contarnos algo
 de tu nueva investigación?
 
 335
 00:17:44,380 --> 00:17:46,602
-No gracias, iré al centro
+Dennis Kim: No gracias, iré al centro
 comercial con Emma.
 
 336
 00:17:52,715 --> 00:17:54,197
-El chico consiguió una chica.
+Dennis Kim: El chico consiguió una chica.
 
 337
 00:17:55,558 --> 00:17:57,079
-Increíble.
+Dr. Gablehouser: Increíble.
 
 338
 00:17:57,511 --> 00:17:59,938
-¿Alguien vio como lo hizo?
+Leonard: ¿Alguien vio como lo hizo?
 
 339
 00:18:01,601 --> 00:18:03,439
-No se preocupe, yo lo cubro.
+Raj: No se preocupe, yo lo cubro.
 
 340
 00:18:03,440 --> 00:18:07,616
-Damas y caballeros...
+Howard: Damas y caballeros...
 Y sus hijas.
 
 341
 00:18:07,617 --> 00:18:11,234
-Mientras que el señor Kim,
+Sheldon: Mientras que el señor Kim,
 victima de su juventud e inocencia.
 
 342
 00:18:11,235 --> 00:18:14,379
-Ha caído presa de la inexplicable
+Sheldon: Ha caído presa de la inexplicable
 necesidad de contacto humano.
 
 343
 00:18:14,380 --> 00:18:18,309
-Déjenme asegurarles que mi
+Sheldon: Déjenme asegurarles que mi
 investigación seguirá sin interrupción.
 
 344
 00:18:18,310 --> 00:18:20,164
-Y que las relaciones sociales.
+Sheldon: Y que las relaciones sociales.
 
 345
 00:18:20,165 --> 00:18:22,563
-Seguirán siendo horribles y
+Howard: Seguirán siendo horribles y
 repulsivas para mi.
 
 346
 00:18:23,763 --> 00:18:24,953
-Gracias.
+Leonard: Gracias.
 
 347
 00:18:27,940 --> 00:18:30,326
-- Volvió.
-- Si, misión cumplida.
+- Leonard: Volvió.
+- Raj: Si, misión cumplida.
 
 348
 00:18:30,327 --> 00:18:31,416
-Olvida la misión.
+Raj: Olvida la misión.
 
 349
 00:18:31,417 --> 00:18:34,079
-¿Cómo ese pequeño
+Raj: ¿Cómo ese pequeño
 consiguió una chica?
 
 350
 00:18:34,080 --> 00:18:36,728
-Los tiempos han cambiado.
+Howard: Los tiempos han cambiado.
 
 351
 00:18:36,729 --> 00:18:38,898
-Ahora inteligente es lo atractivo.
+Howard: Ahora inteligente es lo atractivo.
 
 352
 00:18:39,703 --> 00:18:42,405
-¿Y por que nos vamos solos todas
+Leonard: ¿Y por que nos vamos solos todas
 las noches si somos inteligentes?
 
 353
 00:18:42,881 --> 00:18:44,399
-Tal vez somos muy inteligentes.
+Raj: Tal vez somos muy inteligentes.
 
 354
 00:18:44,868 --> 00:18:46,847
-Tan inteligentes que desconcertamos.
+Raj: Tan inteligentes que desconcertamos.
 
 355
 00:18:47,946 --> 00:18:49,655
-Si, quedémonos con eso.
+Howard: Si, quedémonos con eso.
 
 356
 00:18:52,809 --> 00:18:53,804
-Increíble.
+Howard: Increíble.
 
 357
 00:18:53,805 --> 00:18:57,069
-Construyo componentes para
+Howard: Construyo componentes para
 la estación espacial internacional.
 
 358
 00:18:57,070 --> 00:18:59,600
-Y me dan una multa por lanzar
+Howard: Y me dan una multa por lanzar
 unos cohetes de juguete en el parque.
 
 359
 00:18:59,682 --> 00:19:02,066
-No creo que la multa
+Leonard: No creo que la multa
 sea por los cohetes.
 
 360
 00:19:02,067 --> 00:19:03,746
-Más bien fue por decirle
+Leonard: Más bien fue por decirle
 a la oficial de policía.
 
 361
 00:19:03,747 --> 00:19:07,112
-Que tenía que registrarte por que
+Raj: Que tenía que registrarte por que
 tenias otro cohete en el pantalón.
 
 362
 00:19:07,500 --> 00:19:08,561
-¿Miren eso?
+Howard: ¿Miren eso?
 
 363
 00:19:10,730 --> 00:19:12,051
-Es Dennis Kim.
+Howard: Es Dennis Kim.
 
 364
 00:19:13,446 --> 00:19:15,356
-Casi no lo reconozco.
+Raj: Casi no lo reconozco.
 
 365
 00:19:15,990 --> 00:19:18,121
-Me siento medio mal
+Raj: Me siento medio mal
 por lo que le hicimos.
 
 366
 00:19:22,239 --> 00:19:24,718
-Si, en realidad le
+Leonard: Si, en realidad le
 arruinamos la vida.
 
 367
 00:19:26,133 --> 00:19:28,020
-Que se friegue, era débil.
+Sheldon: Que se friegue, era débil.
