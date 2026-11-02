@@ -61,7 +61,7 @@ Los archivos ".srt" disponibles se identificaron automáticamente y se procesaro
 
 
 ```{r}
-archivos.srt <-  list.files(path =  "data/SubtitulosOriginales", pattern = "\\.srt$", full.names = TRUE)
+archivos.srt <-  list.files(path = here::here("data", "SubtitulosOriginales"), pattern = "\\.srt$", full.names = TRUE)
 subtitulos.consolidados <- data.frame()
 for (ruta in archivos.srt) {
   datos.archivo <- leer.subtitulos(ruta)
@@ -100,20 +100,16 @@ La base final contiene ocho variables:
 A continuación se presentan las primeras 10 observaciones de la base de datos
 consolidada.
 ```{r}
-#| echo: false
-
 tabla.final <- head(subtitulos.consolidados, 10)
 
-knitr::kable(
+tinytable::tt(
   tabla.final,
-  format = "latex",
-  booktabs = TRUE,
   caption = "Primeras 10 filas de la base de subtítulos consolidada",
-  align = c("l", "c", "c", "c", "c", "c", "l", "l")
+  theme = "striped",
+  escape = TRUE,
+  width = 0.95
 ) |>
-  kableExtra::kable_styling(
-    latex_options = c("striped", "scale_down", "hold_position"),
-    font_size = 8
+  tinytable::style_tt(
+    fontsize = 0.8
   )
-
 ```
