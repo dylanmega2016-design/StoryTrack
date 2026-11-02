@@ -466,11 +466,6 @@ ui <- fluidPage(
         uiOutput("respuesta")
       )
     )
-  ),
-
-  tags$footer(
-    class = "sg-footer",
-    div("Versión de prueba: los textos son de ejemplo hasta conectar SpoilerGuard y la IA.")
   )
 )
 
