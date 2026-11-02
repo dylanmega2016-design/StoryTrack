@@ -256,7 +256,6 @@ The Shiksa Indeterminacy
 00:03:14,330 --> 00:03:19,430
 Correcciones de Fercho
 
-
 61
 00:03:21,050 --> 00:03:23,220
 Entonces, Missy, ¿qué te trae
@@ -1708,10 +1707,5 @@ Cientifico de la NASA
 Que humillante
 
 388
-00:21:16,630 --> 00:21:17,900
-Traducido por http://wikisubtitles.net
-
-389
 00:21:17,900 --> 00:21:19,120
 Correcciones FErcho
-
