@@ -1,0 +1,1558 @@
+1
+00:00:28,382 --> 00:00:29,435
+Sheldon: Jaque mate.
+
+2
+00:00:31,026 --> 00:00:32,291
+- Leonard: ¿De nuevo?
+- Sheldon: Obviamente,
+
+3
+00:00:32,411 --> 00:00:35,172
+Sheldon: no estas preparado para el
+ajedrez tridimensional.
+
+4
+00:00:35,292 --> 00:00:38,331
+Sheldon: Tal vez la tierra de los caramelos
+tridimensional estaría más a tu altura.
+
+5
+00:00:38,948 --> 00:00:40,166
+Leonard: Solo acomoda el tablero.
+
+6
+00:00:40,459 --> 00:00:43,650
+Sheldon: Debe ser humillante apestar
+en tantos niveles diferentes.
+
+7
+00:00:50,514 --> 00:00:51,427
+Penny: Hey chicos.
+
+8
+00:00:51,638 --> 00:00:53,888
+- Leonard: ¿Tienen mi correo?
+- Leonard: Sí, justo aquí.
+
+9
+00:00:54,323 --> 00:00:57,468
+- Penny: ¿Cómo estuvo Nebraska?
+- Penny: Bueno, mejor que Dakota del Norte.
+
+10
+00:01:03,390 --> 00:01:05,872
+Leonard: Supongo que esa broma solo
+es graciosa en Nebraska.
+
+11
+00:01:06,395 --> 00:01:08,880
+Penny: De los datos expuestos, realmente
+no puedes llegar a esa conclusión.
+
+12
+00:01:09,000 --> 00:01:12,657
+Penny: Lo único que puedes decir con absoluta
+certeza es que no es graciosa aquí.
+
+13
+00:01:18,962 --> 00:01:20,456
+Sheldon: Es bueno estar de vuelta.
+
+14
+00:01:21,799 --> 00:01:23,868
+- Leonard: ¿Cómo está tu familia?
+- Penny: Fue el peor de los viajes.
+
+15
+00:01:23,988 --> 00:01:25,670
+Penny: Todos se enfermaron el fin de semana.
+
+16
+00:01:25,790 --> 00:01:27,279
+- Sheldon: ¿Enfermos?
+- Leonard: Aquí vamos.
+
+17
+00:01:30,326 --> 00:01:31,634
+Sheldon: ¿Qué clase de enfermedad?
+
+18
+00:01:31,877 --> 00:01:33,011
+Sheldon: Gripe, creo.
+
+19
+00:01:33,225 --> 00:01:35,469
+Penny: No necesito que creas,
+necesito que sepas.
+
+20
+00:01:35,589 --> 00:01:38,118
+Sheldon: ¿Cuándo aparecieron por
+primera vez los síntomas?
+
+21
+00:01:38,238 --> 00:01:39,309
+Sheldon: Tal vez el viernes.
+
+22
+00:01:39,520 --> 00:01:41,603
+Penny: Viernes.
+¿En la mañana o en la tarde?
+
+23
+00:01:42,594 --> 00:01:43,688
+Sheldon: Yo, yo no...
+
+24
+00:01:43,899 --> 00:01:46,274
+Sheldon: Piensa mujer, ¿Quién sopló
+su nariz y cuándo?
+
+25
+00:01:47,102 --> 00:01:48,142
+Sheldon: Sheldon relájate.
+
+26
+00:01:48,262 --> 00:01:50,820
+Penny: No tiene ningún síntoma.
+Estoy seguro de que no es contagiosa.
+
+27
+00:01:51,031 --> 00:01:52,252
+Penny: Por favor.
+
+28
+00:01:54,276 --> 00:01:56,456
+Sheldon: Si la influenza fuera solo contagiosa
+después de que los síntomas aparecen,
+
+29
+00:01:56,576 --> 00:01:58,494
+Sheldon: habría muerto hace miles de años.
+
+30
+00:01:58,673 --> 00:02:00,885
+Sheldon: En algún lado entre el uso de las
+herramientas y las pinturas rupestres,
+
+31
+00:02:01,005 --> 00:02:04,292
+Sheldon: el homo habilis hubiera averiguado como
+matar al tipo con la nariz moqueante.
+
+32
+00:02:05,527 --> 00:02:08,418
+Leonard: Penny, tendrás que disculpar a Sheldon.
+Está un poco Misofobico.
+
+33
+00:02:08,538 --> 00:02:09,976
+Leonard: Está bien, lo entiendo.
+
+34
+00:02:10,096 --> 00:02:12,793
+Sheldon: Gracias por tu consideración,
+ahora por favor márchate.
+
+35
+00:02:13,706 --> 00:02:16,262
+Leonard: Mejor vete antes de que te
+comience a rociar con Lysol.
+
+36
+00:02:17,545 --> 00:02:19,673
+Penny: Bien, bueno gracias por
+recoger mi correo.
+
+37
+00:02:19,793 --> 00:02:21,458
+Leonard: No hay problema, bienvenida a casa.
+
+38
+00:02:28,663 --> 00:02:29,575
+Sheldon: ¡¿Qué?!
+
+39
+00:02:31,308 --> 00:02:34,475
+Leonard: <i>Todo nuestro universo estaba
+en un caliente y denso estado...</i>
+
+40
+00:02:34,510 --> 00:02:36,711
+Sheldon: <i>entonces hace cerca de
+14 billones de años...</i>
+
+41
+00:02:36,712 --> 00:02:38,412
+Leonard: <i>la expansión comenzó... ¡espera!</i>
+
+42
+00:02:38,555 --> 00:02:40,998
+Sheldon: <i>¡La tierra comenzó a enfriarse, los
+autótrofos comenzaron a babear...</i>
+
+43
+00:02:41,018 --> 00:02:42,489
+Sheldon: <i>los neandertales
+desarrollaron herramientas</i>
+
+44
+00:02:42,568 --> 00:02:43,250
+Sheldon: <i>construimos el muro...</i>
+
+45
+00:02:43,305 --> 00:02:44,274
+Leonard: <i>construimos las pirámides</i>
+
+46
+00:02:44,348 --> 00:02:47,272
+Sheldon: <i>matemáticas, ciencia, historia,
+desenredando el misterio...</i>
+
+47
+00:02:47,308 --> 00:02:49,496
+Sheldon: <i>que comenzó todo con un Big Bang!</i>
+
+48
+00:02:49,497 --> 00:02:50,997
+The Big Bang Theory - 1x11
+"The Pancake Batter Anomaly"
+
+49
+00:02:50,998 --> 00:02:53,498
+Sheldon: Subtitulo de Asia-Team.tv
+Modificado por ckry
+
+50
+00:03:02,209 --> 00:03:03,995
+Leonard: ¿Qué demonios haces?
+
+51
+00:03:04,155 --> 00:03:07,021
+Sheldon: Estoy preparando platos de petri,
+para cultivos de garganta.
+
+52
+00:03:08,518 --> 00:03:09,572
+Sheldon: ¿Con gelatina de lima?
+
+53
+00:03:09,885 --> 00:03:11,217
+Sheldon: Necesito un medio de crecimiento,
+
+54
+00:03:11,337 --> 00:03:13,862
+Sheldon: y alguien desapareció el
+yogurt de albaricoque.
+
+55
+00:03:15,577 --> 00:03:17,103
+Leonard: Aquí, frota mi garganta.
+
+56
+00:03:19,877 --> 00:03:20,947
+Leonard: No lo creo.
+
+57
+00:03:21,067 --> 00:03:23,123
+Sheldon: Si voy a continuar con esto,
+
+58
+00:03:23,243 --> 00:03:25,911
+Sheldon: necesito averiguar que
+crece en mi garganta.
+
+59
+00:03:27,728 --> 00:03:29,423
+Sheldon: Sheldon, no estas enfermo.
+
+60
+00:03:30,114 --> 00:03:32,489
+Leonard: Esto lo es, pero tú no lo estas.
+
+61
+00:03:33,772 --> 00:03:37,517
+Sheldon: No tenemos idea de que patógeno tifoide
+introdujo a nuestro medio ambiente.
+
+62
+00:03:38,127 --> 00:03:39,769
+Leonard: Por nunca haber estado en Nebraska,
+
+63
+00:03:39,889 --> 00:03:42,997
+Sheldon: estoy ciertamente seguro de que
+no tengo anticuerpos para ello.
+
+64
+00:03:46,237 --> 00:03:48,620
+Leonard: Sheldon, ¿No crees que
+estas exagerando?
+
+65
+00:03:48,740 --> 00:03:50,593
+Sheldon: Cuando este yaciendo
+comatoso en un hospital
+
+66
+00:03:50,594 --> 00:03:52,323
+Sheldon: confiando mentes
+inferiores para curarme,
+
+67
+00:03:52,558 --> 00:03:54,659
+Sheldon: esos cultivos de gelatina y
+mis notas acompañantes
+
+68
+00:03:54,858 --> 00:03:56,918
+Sheldon: les darán la oportunidad para pelear.
+
+69
+00:04:01,362 --> 00:04:03,501
+- Leonard: Voy a regresar a la cama.
+- Sheldon: Espera.
+
+70
+00:04:04,291 --> 00:04:06,129
+- Sheldon: Pon eso en el baño.
+- Leonard: ¿Para qué?
+
+71
+00:04:06,340 --> 00:04:08,365
+Leonard: Necesito medir mi fluido,
+consumo y deshecho
+
+72
+00:04:08,485 --> 00:04:10,883
+Leonard: para asegurarme de que mis
+riñones no se están apagando.
+
+73
+00:04:12,764 --> 00:04:14,757
+Sheldon: ¡Mezclo masa para panques en esto!
+
+74
+00:04:16,536 --> 00:04:19,245
+Leonard: No, ese tazon de medición
+siempre ha sido para orina.
+
+75
+00:04:20,992 --> 00:04:23,678
+Sheldon: Tuviste tiempo para poner una
+etiqueta en todo lo del departamento
+
+76
+00:04:23,798 --> 00:04:25,148
+Sheldon: incluyendo la maquina de etiquetas,
+
+77
+00:04:25,446 --> 00:04:28,901
+Sheldon: ¿Pero no tuviste diez segundos para
+hacer una que dijera "tazon de orina"?
+
+78
+00:04:30,659 --> 00:04:32,605
+Leonard: Está justo aquí en el fondo.
+
+79
+00:04:39,867 --> 00:04:43,283
+Sheldon: Supongo que le debo una disculpa a
+la compañía de masa para panques.
+
+80
+00:04:59,927 --> 00:05:01,232
+Leonard: Querido Dios.
+
+81
+00:05:06,070 --> 00:05:07,315
+Sheldon: ¡Leonard, estoy enfermo!
+¡Leonard, estoy enfermo!
+
+82
+00:05:14,440 --> 00:05:15,768
+Sheldon: ¡Leonard, estoy enfermo!
+
+83
+00:05:28,976 --> 00:05:32,970
+Sheldon: Leonard, mi colcha se cayó, y mis fosas
+nasales me duelen cuando me doblo.
+
+84
+00:05:52,981 --> 00:05:55,322
+Sheldon: <i>- ¡Hey!
+- ¿Leonard, dónde estas?</i>
+
+85
+00:05:55,605 --> 00:05:56,743
+Sheldon: En el trabajo.
+
+86
+00:05:58,264 --> 00:05:59,827
+Sheldon: ¿A las 6:30 de la mañana?
+
+87
+00:06:00,940 --> 00:06:01,472
+Leonard: Sí.
+
+88
+00:06:02,469 --> 00:06:03,455
+Sheldon: ¿En domingo?
+
+89
+00:06:04,823 --> 00:06:05,651
+Sheldon: Sí.
+
+90
+00:06:06,235 --> 00:06:08,335
+- Leonard: ¿Por qué?
+- Sheldon: Me pidieron que viniera.
+
+91
+00:06:08,496 --> 00:06:10,170
+Leonard: No escuche el teléfono.
+
+92
+00:06:10,950 --> 00:06:12,263
+Sheldon: Me mandaron un mensaje de texto.
+
+93
+00:06:13,797 --> 00:06:17,202
+Leonard: Bueno, como predije,
+estoy enfermo.
+
+94
+00:06:17,478 --> 00:06:20,951
+Sheldon: Mi fiebre ha estado creciendo
+exponencialmente desde las 2:00 am.
+
+95
+00:06:21,071 --> 00:06:23,976
+Sheldon: y estoy produciendo mucosa
+a una taza alarmante.
+
+96
+00:06:26,595 --> 00:06:27,908
+Leonard: ¿En serio?
+
+97
+00:06:28,028 --> 00:06:29,440
+Sheldon: <i>No, no solo eso,</i>
+
+98
+00:06:29,601 --> 00:06:32,482
+Sheldon: se ha inclinado de clara
+a verde lechosa.
+
+99
+00:06:33,537 --> 00:06:34,486
+Leonard: <i>Muy bien,</i>
+
+100
+00:06:34,646 --> 00:06:36,822
+Leonard: descansa un poco y
+toma muchos fluidos.
+
+101
+00:06:37,130 --> 00:06:41,119
+Sheldon: ¿Qué más tomaría, gases,
+sólidos, plasma ionizado?
+
+102
+00:06:42,416 --> 00:06:43,746
+Sheldon: Toma lo que quieras.
+
+103
+00:06:43,906 --> 00:06:46,206
+- Leonard: Quiero sopa.
+- Sheldon: Entonces prepara sopa.
+
+104
+00:06:46,366 --> 00:06:47,666
+Sheldon: No tenemos sopa.
+
+105
+00:06:47,826 --> 00:06:49,409
+Leonard: Estoy trabajando Sheldon.
+
+106
+00:06:53,178 --> 00:06:54,465
+Sheldon: ¿Es eso un perro?
+
+107
+00:06:56,644 --> 00:06:57,760
+Leonard: ¿En el laboratorio?
+
+108
+00:07:00,214 --> 00:07:03,206
+Sheldon: Están entrenando perros
+para operar la centrifuga
+
+109
+00:07:03,498 --> 00:07:05,359
+Sheldon: para cuando necesiten perros para...
+
+110
+00:07:06,030 --> 00:07:07,637
+Sheldon: operar la centrifuga
+
+111
+00:07:08,148 --> 00:07:10,272
+Sheldon: para científicos ciegos.
+Me tengo que ir.
+
+112
+00:07:13,915 --> 00:07:16,364
+Leonard: <i>¡Howard, el teléfono!</i>
+
+113
+00:07:18,874 --> 00:07:22,345
+Sheldon: ¡Sé que es el teléfono Ma,
+escucho el teléfono!
+
+114
+00:07:22,465 --> 00:07:25,823
+Leonard: <i>¡¿Bueno, ¿Quién llama a
+esta impía hora?!</i>
+
+115
+00:07:26,136 --> 00:07:27,579
+Leonard: ¡No lo sé!
+
+116
+00:07:28,148 --> 00:07:32,113
+Sheldon: <i>¡Bueno, pregúntales porque
+llaman a esta impía hora!</i>
+
+117
+00:07:32,233 --> 00:07:35,422
+Sheldon: ¡¿Cómo puedo preguntarles
+si te estoy hablando a ti?!
+
+118
+00:07:39,308 --> 00:07:40,135
+Leonard: Hola.
+
+119
+00:07:41,672 --> 00:07:43,472
+Sheldon: Soy Leonard.
+Código verde lechoso.
+
+120
+00:07:43,632 --> 00:07:45,358
+Sheldon: Querido señor, no el verde lechoso.
+
+121
+00:07:46,343 --> 00:07:47,935
+Leonard: Afirmativo, con fiebre.
+
+122
+00:07:48,096 --> 00:07:50,046
+Sheldon: <i>¡¿Quién esta al teléfono?!</i>
+
+123
+00:07:50,359 --> 00:07:51,494
+Leonard: ¡Es Leonard!
+
+124
+00:07:51,614 --> 00:07:53,399
+Sheldon: <i>¡¿Por qué llama?!</i>
+
+125
+00:07:53,560 --> 00:07:54,868
+Leonard: ¡Sheldon esta enfermo!
+
+126
+00:07:55,169 --> 00:07:56,969
+Sheldon: <i>¡¿Estuviste jugando con él?!</i>
+
+127
+00:07:59,363 --> 00:08:02,217
+Leonard: ¡Por favor mamá!
+¡Tengo 26 años!
+
+128
+00:08:02,337 --> 00:08:04,808
+Leonard: <i>¡Disculpa, Sr. Maduro!</i>
+
+129
+00:08:06,280 --> 00:08:07,999
+Madre de Howard: <i>¿Qué quieres de desayuno?</i>
+
+130
+00:08:08,119 --> 00:08:10,123
+Howard: ¡Leche chocolatada y
+Eggos, por favor!
+
+131
+00:08:11,889 --> 00:08:14,104
+- Howard: Escúchame--
+- Madre de Howard: Espera, tengo otra llamada.
+
+132
+00:08:14,224 --> 00:08:15,327
+Madre de Howard: <I>No, ¡no!
+
+133
+00:08:15,981 --> 00:08:16,841
+Howard: Hola.
+
+134
+00:08:17,583 --> 00:08:18,966
+Howard: Howard, estoy enfermo.
+
+135
+00:08:24,721 --> 00:08:28,142
+Madre de Howard: <i>¡Howard esta durmiendo
+soy su madre!</i>
+
+136
+00:08:29,837 --> 00:08:33,064
+Madre de Howard: <i>¿Por qué llamas a esta
+impía hora?</i>
+
+137
+00:08:34,700 --> 00:08:35,997
+Madre de Howard: Necesito sopa.
+
+138
+00:08:36,712 --> 00:08:38,934
+Howard: <i>¡Entonces llama a tu
+propia madre!</i>
+
+139
+00:08:40,960 --> 00:08:42,114
+Howard: Era Sheldon.
+
+140
+00:08:42,275 --> 00:08:44,408
+- Howard: Traté de detenerte.
+- Leonard: Es mi culpa.
+
+141
+00:08:44,568 --> 00:08:48,487
+Leonard: Olvidé el protocolo que pusimos después
+de la gran infección de oídos de 2006.
+
+142
+00:08:49,476 --> 00:08:50,583
+Howard: Llama a Koothrappali.
+
+143
+00:08:50,703 --> 00:08:54,168
+Leonard: Necesitamos hallar un lugar para
+echarnos las siguientes 18 a 24 horas.
+
+144
+00:08:54,329 --> 00:08:55,374
+Madre de Howard: Espera.
+
+145
+00:08:55,494 --> 00:08:57,379
+Madre de Howard: ¡Ma, ¿pueden venir mis amigos?!
+
+146
+00:08:57,792 --> 00:09:00,646
+Howard: <i>¡Acaban de aspirar la alfombra!</i>
+
+147
+00:09:02,288 --> 00:09:03,602
+Madre de Howard: Eso es una negación.
+
+148
+00:09:04,481 --> 00:09:07,014
+Howard: Pero hoy hay un maratón del
+Planeta de los Simios en NuArt.
+
+149
+00:09:07,884 --> 00:09:10,454
+Madre de Howard: Cinco películas, 2 horas cada una...
+
+150
+00:09:11,414 --> 00:09:12,777
+Madre de Howard: es un comienzo.
+
+151
+00:09:16,106 --> 00:09:18,198
+Howard: Chico vagabundo y loco en la mesa 18.
+
+152
+00:09:24,513 --> 00:09:25,908
+Leonard: No, solamente loco.
+
+153
+00:09:27,875 --> 00:09:30,120
+Howard: Sheldon, ¿qué estas haciendo aquí?
+
+154
+00:09:30,747 --> 00:09:33,536
+Leonard: Estoy enfermo.
+Muchas gracias.
+
+155
+00:09:34,053 --> 00:09:36,210
+Howard: ¿Cómo te pudiste contagiar de mí?
+Yo no estoy enferma.
+
+156
+00:09:36,370 --> 00:09:37,692
+Sheldon: Eres una portadora.
+
+157
+00:09:37,812 --> 00:09:39,848
+Howard: Toda esta gente de aquí esta perdida.
+
+158
+00:09:39,968 --> 00:09:41,475
+Sheldon: ¡Están perdidos!
+
+159
+00:09:44,001 --> 00:09:45,928
+Howard: Sheldon, ¿qué quieres?
+
+160
+00:09:46,361 --> 00:09:47,594
+Howard: Quiero sopa.
+
+161
+00:09:52,382 --> 00:09:53,732
+Leonard: ¿Por qué no...?
+
+162
+00:09:56,128 --> 00:09:57,898
+Howard: ¿Por qué no comiste sopa en tu casa?
+
+163
+00:09:58,507 --> 00:10:00,972
+Howard: Penny, tengo un CI de 187.
+
+164
+00:10:01,248 --> 00:10:03,404
+Leonard: ¿No imaginas que si
+hubiera una forma...
+
+165
+00:10:03,524 --> 00:10:05,989
+Leonard: de tener sopa en casa
+no la hubiera pensado?
+
+166
+00:10:06,968 --> 00:10:08,409
+Howard: Puedes pedir sopa a domicilio.
+
+167
+00:10:12,836 --> 00:10:14,164
+Madre de Howard: No pensé en eso.
+
+168
+00:10:16,372 --> 00:10:18,784
+Madre de Howard: Claramente, el delirio febril
+esta empezando.
+
+169
+00:10:18,919 --> 00:10:20,296
+Howard: Por favor, tráeme sopa...
+
+170
+00:10:20,416 --> 00:10:22,990
+Howard: mientras todavía comprendo
+para qué es una cuchara.
+
+171
+00:10:23,557 --> 00:10:25,217
+Madre de Howard: ¿Qué tipo de sopa quieres?
+
+172
+00:10:25,377 --> 00:10:28,236
+Howard: Bueno, mi madre solía
+hacerme una de guisantes
+
+173
+00:10:28,356 --> 00:10:32,082
+Howard: con pequeñas rebanadas de
+salchicha y crutón casero.
+
+174
+00:10:32,586 --> 00:10:34,892
+Leonard: Tenemos pollo, tortilla y
+de papas con puerros.
+
+175
+00:10:35,846 --> 00:10:38,473
+Howard: ¿Podría comer uno de esos con
+pequeñas rebanadas de salchichas...
+
+176
+00:10:38,593 --> 00:10:39,940
+- Howard: y crutón casero?
+- Madre de Howard: No.
+
+177
+00:10:42,134 --> 00:10:43,561
+Madre de Howard: Entonces sorpréndeme.
+
+178
+00:10:53,697 --> 00:10:56,608
+Howard: ¿Lo llamarían verde
+musgo o verde bosque?
+
+179
+00:11:11,261 --> 00:11:13,371
+Howard: Mira esto.
+Todos vinieron de chimpancé.
+
+180
+00:11:14,593 --> 00:11:16,894
+Leonard: Me gustaría señalar que
+yo voté por el orangután...
+
+181
+00:11:17,054 --> 00:11:18,634
+Leonard: pero ustedes me callaron.
+
+182
+00:11:23,624 --> 00:11:25,402
+- Mesera: Hola Penny.
+- Penny: Hola, ¿dónde estas?
+
+183
+00:11:25,903 --> 00:11:28,028
+Penny: Estoy... en el trabajo.
+
+184
+00:11:29,316 --> 00:11:30,491
+Sheldon: Suenas raro.
+
+185
+00:11:30,652 --> 00:11:33,756
+Penny: Mira. Estoy... Estoy en
+un traje de radiación.
+
+186
+00:11:34,804 --> 00:11:36,643
+- Penny: ¿Qué sucede?
+- Sheldon: Yo también estoy en el trabajo...
+
+187
+00:11:36,763 --> 00:11:39,856
+Sheldon: y nunca adivinarás quién esta
+aquí infectando toda mi estación.
+
+188
+00:11:39,976 --> 00:11:41,794
+Sheldon: Sheldon esta en la
+"Fábrica de tortas".
+
+189
+00:11:42,809 --> 00:11:45,232
+- Penny: Solo dile que valla a casa.
+- Sheldon: No se irá.
+
+190
+00:11:45,352 --> 00:11:49,165
+Penny: Dice tener miedo de desmayarse en el
+autobús y que alguien robe sus órganos.
+
+191
+00:11:50,491 --> 00:11:52,923
+Sheldon: Esta paranóico y estableció un nido.
+
+192
+00:11:54,007 --> 00:11:55,557
+Sheldon: ¿Puedes venir por él, por favor?
+
+193
+00:11:56,878 --> 00:11:58,644
+Penny: Sí, con mucho gusto.
+
+194
+00:12:01,355 --> 00:12:04,117
+Sheldon: ¡Oh, Dios mío! Hay una brecha
+en la unidad de radiación.
+
+195
+00:12:04,237 --> 00:12:06,490
+Sheldon: ¡La ciudad entera esta
+en peligro! ¡Oh, Dios mío!
+
+196
+00:12:06,610 --> 00:12:09,154
+Penny: El recipiente de contención se esta
+derritiendo. Me tengo que ir, ¡Adiós!
+
+197
+00:12:15,427 --> 00:12:16,984
+Sheldon: Realmente me siento culpable.
+
+198
+00:12:17,489 --> 00:12:18,946
+Sheldon: Hiciste lo que tenias que hacer.
+
+199
+00:12:19,066 --> 00:12:21,779
+Penny: ¡Quita tu apestosa
+pata de mis palomitas...
+
+200
+00:12:21,899 --> 00:12:23,861
+Penny: maldito simio!
+
+201
+00:12:29,519 --> 00:12:31,319
+Sheldon: Gracias por traerme a casa.
+
+202
+00:12:31,608 --> 00:12:33,823
+Penny: Esta bien, realmente no
+necesitaba trabajar hoy.
+
+203
+00:12:33,943 --> 00:12:36,976
+Sheldon: No es como si tuviera una
+renta o pagos de un auto o algo.
+
+204
+00:12:37,096 --> 00:12:38,192
+Penny: Bien, bien.
+
+205
+00:12:40,264 --> 00:12:42,185
+Sheldon: Esta bien, si te sientes mejor.
+
+206
+00:12:42,345 --> 00:12:44,730
+Sheldon: ¡Espera! ¿A dónde vas?
+
+207
+00:12:46,450 --> 00:12:48,850
+Sheldon: A casa... a escribir algunos
+cheques malos.
+
+208
+00:12:50,352 --> 00:12:52,019
+Howard: ¿Me vas a dejar?
+
+209
+00:12:52,408 --> 00:12:55,323
+Raj: Sheldon, eres un hombre maduro.
+¿Nunca habías estado enfermo antes?
+
+210
+00:12:55,785 --> 00:12:58,104
+Leonard: Claro, pero no por mi mismo.
+
+211
+00:12:59,151 --> 00:13:00,529
+Penny: ¿De veras? ¿Nunca?
+
+212
+00:13:00,987 --> 00:13:03,112
+Leonard: Bueno, una vez, cuando tenia 15...
+
+213
+00:13:03,232 --> 00:13:06,251
+Leonard: pasando el verano en el
+Instituto Heidelberg en Alemania.
+
+214
+00:13:06,780 --> 00:13:07,919
+Penny: ¿Estudiando en el extranjero?
+
+215
+00:13:08,247 --> 00:13:10,088
+Leonard: No. Como profesor invitado.
+
+216
+00:13:12,169 --> 00:13:15,163
+Leonard: No importa. La cocina local estaba
+un poco más basada en salchichas...
+
+217
+00:13:15,283 --> 00:13:18,787
+Penny: de la que acostumbro y el resultado
+fue un ataque relámpago interno...
+
+218
+00:13:18,907 --> 00:13:22,123
+Penny: con mi intestino grueso haciendo
+la parte de Checoslovaquia.
+
+219
+00:13:23,257 --> 00:13:25,936
+Leonard: ¿Y no había nadie ahí para cuidarte?
+
+220
+00:13:26,097 --> 00:13:29,156
+Penny: Mi mamá tuvo que volar de vuelta
+a Texas para ayudar a mi papá...
+
+221
+00:13:29,276 --> 00:13:32,726
+Penny: porque la casa se había resbalado
+de los bloques de hormigón otra vez.
+
+222
+00:13:33,784 --> 00:13:35,949
+- Penny: ¿Otra vez?
+- Leonard: Era temporada de tornados.
+
+223
+00:13:36,274 --> 00:13:38,074
+Penny: Y era una casa de aluminio.
+
+224
+00:13:39,903 --> 00:13:43,485
+Leonard: La sirvienta de la casa de la
+facultad no hablaba nada de inglés...
+
+225
+00:13:43,782 --> 00:13:46,088
+Leonard: y cuando finalmente me las arreglé para
+convencerla de que estaba enfermo...
+
+226
+00:13:46,208 --> 00:13:48,892
+Leonard: ella dijo: "Mochtest du
+eine Darmspfilung?"
+
+227
+00:13:50,121 --> 00:13:51,422
+Raj: ¿Qué significa eso?
+
+228
+00:13:51,542 --> 00:13:53,666
+Howard: Basado en lo que pasó después,
+asumo que quiere decir:
+
+229
+00:13:53,786 --> 00:13:55,300
+Howard: ¿Quieres un enema?
+
+230
+00:13:57,767 --> 00:14:00,150
+Sheldon: Esta bien, cariño. Yo te cuidaré
+
+231
+00:14:00,270 --> 00:14:01,729
+Sheldon: ¿Qué necesitas?
+
+232
+00:14:02,815 --> 00:14:05,637
+Penny: Mi mamá solía darme
+baños de esponja.
+
+233
+00:14:12,765 --> 00:14:14,821
+Penny: Bien, reglas: no baños de esponja...
+
+234
+00:14:14,941 --> 00:14:16,965
+Penny: y definitivamente no enemas.
+
+235
+00:14:17,904 --> 00:14:18,828
+Sheldon: De acuerdo.
+
+236
+00:14:23,984 --> 00:14:25,022
+Sheldon: Aquí vamos.
+
+237
+00:14:25,308 --> 00:14:27,979
+Penny: 10 horas y media de
+buena simiedad.
+
+238
+00:14:30,988 --> 00:14:32,658
+Penny: Demonios, mis lentes.
+
+239
+00:14:33,999 --> 00:14:36,548
+Sheldon: Muchachos, estoy ciego aquí.
+Me pueden ayudar a buscarlos.
+
+240
+00:14:36,668 --> 00:14:38,018
+- Sheldon: Disculpa.
+- Penny: Está bien.
+
+241
+00:14:41,601 --> 00:14:42,723
+Penny: Los encontré.
+
+242
+00:14:44,715 --> 00:14:45,665
+Sheldon: Genial.
+
+243
+00:14:45,988 --> 00:14:47,620
+Sheldon: Disculpa,
+¿No tienes de repuesto?
+
+244
+00:14:47,740 --> 00:14:48,757
+Penny: Sí, en casa.
+
+245
+00:14:48,877 --> 00:14:49,990
+Penny: Si te vas ahora.
+
+246
+00:14:50,110 --> 00:14:53,828
+Sheldon: Volverás antes que los gorilas le
+den una paliza a Charlton Heston.
+
+247
+00:14:53,948 --> 00:14:56,438
+Penny: Si Sheldon está ahí, en ese caso
+quedarás atrapado para siempre...
+
+248
+00:14:56,558 --> 00:14:58,988
+Penny: En su neurótica red
+de quejidos y mocos.
+
+249
+00:15:07,394 --> 00:15:08,594
+Sheldon: Hola, ¿Penny?
+
+250
+00:15:09,145 --> 00:15:12,196
+Penny: Me preguntaba:
+¿Sheldon aún está en el restaurante?
+
+251
+00:15:14,237 --> 00:15:17,150
+Sheldon: Bien, eso es muy amable de tu parte.
+Bien, me tengo que ir.
+
+252
+00:15:17,270 --> 00:15:20,218
+Sheldon: Tengo casi un Chernóbil aquí.
+Me tengo que ir, adiós.
+
+253
+00:15:21,431 --> 00:15:22,888
+Penny: Está en casa, estoy perdido.
+
+254
+00:15:25,761 --> 00:15:28,566
+Penny: 10 horas y media de
+borrosa simiedad.
+
+255
+00:15:30,138 --> 00:15:31,404
+Sheldon: ¿Qué tal la cirugía de láser?
+
+256
+00:15:33,267 --> 00:15:35,149
+Penny: ¿Quieres que me opere los ojos?
+
+257
+00:15:35,310 --> 00:15:37,501
+Raj: ¿Prefieres volver
+y tratar con Sheldon?
+
+258
+00:15:37,621 --> 00:15:40,405
+Leonard: ¿O que un extraño talle
+tus corneas con un rayo láser?
+
+259
+00:15:42,874 --> 00:15:44,683
+- Howard: ¿Y bien?
+- Leonard: Estoy pensando.
+
+260
+00:15:46,856 --> 00:15:49,456
+Howard: Bien, cómodo y tranquilo.
+
+261
+00:15:49,986 --> 00:15:51,698
+Howard: Te veo después.
+
+262
+00:15:51,818 --> 00:15:52,629
+Leonard: Espera.
+
+263
+00:15:53,827 --> 00:15:56,269
+Raj: ¿Podrías frotar
+esto en mi pecho?
+
+264
+00:15:58,065 --> 00:15:59,966
+Raj: ¿No puedes hacer
+eso tu mismo?
+
+265
+00:16:00,166 --> 00:16:02,735
+Howard: VapoRub hace que mis
+manos huelan raro.
+
+266
+00:16:04,179 --> 00:16:06,998
+- Howard: Pero Sheldon...
+- Leonard: Por favor, por favor, por favor.
+
+267
+00:16:11,601 --> 00:16:13,397
+Leonard: No puedo creer que hago esto.
+
+268
+00:16:19,401 --> 00:16:22,611
+Leonard: No, al contrario de las manecillas del
+reloj o el bello de mi pecho se enreda.
+
+269
+00:16:25,516 --> 00:16:26,554
+Raj: Disculpa.
+
+270
+00:16:31,875 --> 00:16:33,804
+Leonard: ¿Puedes cantarme "Suave Gatito"?
+
+271
+00:16:36,259 --> 00:16:37,129
+Leonard: ¿Qué?
+
+272
+00:16:37,443 --> 00:16:39,798
+Raj: Mi mamá me la cantaba
+cuando estaba enfermo.
+
+273
+00:16:40,216 --> 00:16:42,968
+- Raj: Disculpa querido, no la sé.
+- Howard: Te enseño.
+
+274
+00:16:44,668 --> 00:16:48,257
+Leonard: <i>Suave gatito, tibio gatito,</i>
+
+275
+00:16:48,377 --> 00:16:50,350
+Penny: <i>Pequeña bolita de pelo</i>
+
+276
+00:16:53,087 --> 00:16:56,498
+Sheldon: <i>Gatito feliz, gatito dormilon,</i>
+
+277
+00:16:56,618 --> 00:16:59,298
+Sheldon: <i>purr, purr, purr</i>
+
+278
+00:17:02,319 --> 00:17:03,155
+Penny: Ahora tú.
+
+279
+00:17:09,361 --> 00:17:11,449
+Penny: <i>Suave gatito,</i>
+
+280
+00:17:11,569 --> 00:17:13,788
+Sheldon: <i>Tibio gatito...</i>
+
+281
+00:17:15,237 --> 00:17:18,027
+Penny: <i>Pequeña bolita de pelo</i>
+
+282
+00:17:18,878 --> 00:17:20,061
+Sheldon: Sigue frotando.
+
+283
+00:17:22,145 --> 00:17:24,707
+Sheldon: <i>Pequeña bolita de pelo</i>
+
+284
+00:17:39,589 --> 00:17:41,404
+Penny: ¿Qué puedes ver? Yo no puedo.
+
+285
+00:17:41,524 --> 00:17:43,227
+Sheldon: La sala parece estar vacía.
+
+286
+00:17:43,347 --> 00:17:44,998
+Sheldon: Debe estar en su cuarto.
+
+287
+00:17:45,118 --> 00:17:48,128
+Penny: Mis lentes de repuesto están en
+mi cuarto. en mi tocador,
+
+288
+00:17:48,248 --> 00:17:49,733
+Penny: al lado de mi Batiseñal.
+
+289
+00:17:51,400 --> 00:17:52,704
+Sheldon: No entraré ahí.
+
+290
+00:17:53,323 --> 00:17:54,872
+- Sheldon: ¿Raj?
+- Penny: Por ningún motivo, amigo.
+
+291
+00:17:56,325 --> 00:17:58,425
+Sheldon: Pero yo no puedo,
+no veo nada.
+
+292
+00:17:58,545 --> 00:18:01,521
+Penny: Todo listo, mini cámara
+y auriculares bluetooth.
+
+293
+00:18:02,089 --> 00:18:03,840
+Sheldon: Seremos tus ojos.
+
+294
+00:18:04,909 --> 00:18:05,768
+Leonard: Está bien.
+
+295
+00:18:06,271 --> 00:18:07,344
+Raj: Una última cosa.
+
+296
+00:18:07,845 --> 00:18:11,121
+Leonard: Este es un sensor
+subsónico de impacto.
+
+297
+00:18:12,217 --> 00:18:14,544
+Howard: Si Sheldon se levanta de la cama
+y comienza a caminar,
+
+298
+00:18:14,664 --> 00:18:17,187
+Leonard: Este dispositivo enviará
+una señal al computador.
+
+299
+00:18:17,307 --> 00:18:19,665
+Raj: En ese instante. Basado en
+la geografía del departamento.
+
+300
+00:18:19,785 --> 00:18:21,562
+Leonard: Y en la velocidad al deambular
+de un Sheldon enfermo.
+
+301
+00:18:21,682 --> 00:18:24,761
+Howard: Tienes 7 seg. para salir
+con o sin lentes.
+
+302
+00:18:25,063 --> 00:18:26,780
+Leonard: ¿Mis pasos no lo activarán?
+
+303
+00:18:27,093 --> 00:18:29,442
+Howard: No, estarás en tus
+manos y rodillas.
+
+304
+00:18:29,562 --> 00:18:32,244
+Howard: Y tienes que poner este sensor lo
+más cerca a la habitación de Sheldon.
+
+305
+00:18:32,559 --> 00:18:35,122
+Leonard: ¿Y como lo llevo si estoy
+en mis manos y rodillas?
+
+306
+00:18:40,472 --> 00:18:41,461
+Howard: Quédate agachado.
+
+307
+00:18:42,517 --> 00:18:43,467
+Howard: A la izquierda.
+
+308
+00:18:44,416 --> 00:18:46,090
+- Howard: Ahora sigue igual.
+- Leonard: ¿Qué?
+
+309
+00:18:46,252 --> 00:18:49,427
+- Leonard: Significa: Sigue derecho.
+- Howard: Entonces di: Sigue derecho.
+
+310
+00:18:49,790 --> 00:18:51,295
+Howard: No se dice "sigue derecho"
+
+311
+00:18:51,415 --> 00:18:53,724
+Leonard: Cuando das instrucciones.
+Se dice: "Sigue igual".
+
+312
+00:18:54,521 --> 00:18:55,656
+Howard: Está bien.
+
+313
+00:18:59,690 --> 00:19:01,273
+Howard: Me acabo de
+golpear la cabeza.
+
+314
+00:19:01,770 --> 00:19:03,817
+Raj: Por que no seguiste igual.
+
+315
+00:19:06,727 --> 00:19:08,057
+Howard: <i>Bien, dobla a la derecha..</i>
+
+316
+00:19:09,622 --> 00:19:11,260
+Howard: La imagen se pierde.
+
+317
+00:19:11,698 --> 00:19:13,284
+Howard: Gira tu cabeza a la derecha.
+
+318
+00:19:14,535 --> 00:19:15,985
+Leonard: <i>Ahora, un poco más.</i>
+
+319
+00:19:16,615 --> 00:19:17,693
+Howard: Un poco más.
+
+320
+00:19:18,617 --> 00:19:20,710
+Leonard: <i>Ahí está.
+Ahora sigue igual.</i>
+
+321
+00:19:24,145 --> 00:19:27,518
+Howard: Estás suficientemente cerca del cuarto de
+Sheldon para colocar el sensor.
+
+322
+00:19:29,144 --> 00:19:30,506
+Leonard: <i>Ahora enciéndelo.</i>
+
+323
+00:19:31,090 --> 00:19:32,452
+Howard: ¿No estaba encendido?
+
+324
+00:19:32,453 --> 00:19:33,453
+Leonard: <i>No.</i>
+
+325
+00:19:33,704 --> 00:19:35,599
+Howard: ¿Y por qué tuve que gatear?
+
+326
+00:19:37,151 --> 00:19:38,675
+Howard: Creo que no era necesario.
+
+327
+00:19:42,452 --> 00:19:43,619
+Penny: <i>Bien, esta encendido.</i>
+
+328
+00:19:43,739 --> 00:19:46,743
+Howard: Bueno, desde este punto
+tendrás que gatear.
+
+329
+00:19:48,583 --> 00:19:49,702
+Leonard: Lo sé.
+
+330
+00:19:53,594 --> 00:19:56,453
+Penny: Aguarda. El sensor capta
+algo. Voltea a ver.
+
+331
+00:20:03,137 --> 00:20:04,483
+Penny: Tú, rata maldita.
+
+332
+00:20:06,956 --> 00:20:08,837
+Leonard: Te dije que el sensor funcionaría.
+
+333
+00:20:11,744 --> 00:20:13,878
+Sheldon: Intencionalmente me
+dejaste con Sheldon.
+
+334
+00:20:13,998 --> 00:20:16,639
+Penny: Vamos, Tuve que hacerlo,
+viste como es.
+
+335
+00:20:17,303 --> 00:20:18,934
+Leonard: Penny Tengo hambre.
+
+336
+00:20:19,535 --> 00:20:22,312
+Penny: Está bien. Buenas noticias.
+Leonard volvió.
+
+337
+00:20:23,378 --> 00:20:24,898
+Penny: Aquí tienes.
+Buena suerte. Adiós.
+
+338
+00:20:26,135 --> 00:20:28,151
+Leonard: Leonard, tengo hambre.
+
+339
+00:20:28,491 --> 00:20:30,274
+Sheldon: ¡Penny llévame contigo!
+
+340
+00:20:40,524 --> 00:20:42,088
+Leonard: Quiero un emparedado
+de queso a la parrilla.
+
+341
+00:21:01,051 --> 00:21:04,032
+Sheldon: ¿Crees que Penny
+vendrá a cuidarnos?
+
+342
+00:21:05,514 --> 00:21:08,125
+Sheldon: Creo que Penny no
+volverá nunca más.
+
+343
+00:21:11,639 --> 00:21:13,403
+Leonard: Estoy muy congestionado.
+
+344
+00:21:15,765 --> 00:21:16,998
+Leonard: Bien, ¿y?
+
+345
+00:21:17,401 --> 00:21:18,911
+Sheldon: ¿Puedes ir a la cocina...
+
+346
+00:21:19,031 --> 00:21:21,856
+Sheldon: y traerme la perilla para pavo
+con la etiqueta "mucosa"
+
+347
+00:21:25,424 --> 00:21:27,418
+Leonard: Si me levanto, vomitaré.
+
+348
+00:21:28,910 --> 00:21:31,374
+Sheldon: Debajo del fregadero en el
+recipiente amarillo de plástico.
