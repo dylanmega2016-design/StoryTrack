@@ -5,6 +5,8 @@ filtrar.historia <- function(
     episodio.seleccionado,
     tiempo.seleccionado
 ) {
+  temporada.seleccionada <- as.integer(temporada.seleccionada)
+  episodio.seleccionado <- as.integer(episodio.seleccionado)
   
   convertir.segundos <- function(tiempo) {
     
