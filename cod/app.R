@@ -110,7 +110,7 @@ catalogo <- list(
 # Solo los capítulos completos cuentan en las barras y en el recap.
 vistos_iniciales <- list("The Big Bang Theory|1" = c("1" = 1, "2" = 1, "3" = 1, "4" = 10 / 21))
 
-# Formato mm:ss a partir de segundos
+# Formato minutos:segundos a partir de segundos
 formato_tiempo <- function(seg) {
   seg <- round(seg)
   sprintf("%d:%02d", as.integer(seg %/% 60), as.integer(seg %% 60))
@@ -122,7 +122,7 @@ duracion_de <- function(serie) {
   if (is.null(d)) 30 else d
 }
 
-# Devuelve las temporadas de una serie como lista: "1" = c("1" = "titulo", ...)
+# Devuelve las temporadas de una serie como lista
 temporadas_de <- function(serie) {
   t <- catalogo[[serie]]$temporadas
   if (is.list(t)) return(t)
@@ -464,7 +464,7 @@ ui <- fluidPage(
       # Preguntas sobre personajes
       div(
         class = "sg-card",
-        div(class = "sg-card-head", h2("Pregunta sobre los personajes")),
+        div(class = "sg-card-head", h2("Pregunta sobre los personajes, relaciones, escenas, etc..")),
         div(
           class = "sg-pregunta-fila",
           textAreaInput(
