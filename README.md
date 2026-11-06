@@ -19,7 +19,6 @@
 1. Abrir el proyecto en RStudio.
 2. Ejecutar los scripts en el orden indicado.
 3. Generar el documento informe_final.qmd.
-4. Consultar el PDF en res/.
 
 ## Conectar ChatGPT en StoryTrack (uso local)
 
@@ -39,7 +38,4 @@ app debe iniciar sesión y conceder el permiso desde el navegador.
 5. Volver a Shiny y generar el recap o hacer una pregunta.
 
 La autorización y los tokens se guardan en la carpeta local de datos de la
-cuenta de Windows, fuera de este repositorio. No se deben copiar al código ni
-subir a GitHub. Esta integración está pensada para ejecutar el proyecto
-localmente; publicarlo en un servidor remoto requiere revisar las condiciones
-de acceso correspondientes.
+cuenta de Windows, fuera de este repositorio.
