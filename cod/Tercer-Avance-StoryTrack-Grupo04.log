@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.10.21)  6 NOV 2026 00:39
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.10.21)  6 NOV 2026 00:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -941,12 +941,12 @@ Package hyperref Warning: Rerun to get /PageLabels entry.
 Package babel Info: Main language set to 'spanish'.
 [1
 
-] [2]
+] [2] [3]
 File: ../res/selección.progreso.png Graphic file (type bmp)
 <../res/selección.progreso.png>
 File: ../res/recap.E4.png Graphic file (type bmp)
 <../res/recap.E4.png>
-[3] [4]
+[4]
 File: ../res/recap.E17.png Graphic file (type bmp)
 <../res/recap.E17.png>
 [5] [6]
@@ -973,10 +973,10 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 22474 strings out of 469658
- 418331 string characters out of 5461845
+ 22476 strings out of 469658
+ 418354 string characters out of 5461845
  1035622 words of memory out of 5000000
- 51306 multiletter control sequences out of 15000+600000
+ 51308 multiletter control sequences out of 15000+600000
  629181 words of font info for 54 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  90i,5n,114p,1029b,407s stack positions out of 10000i,1000n,20000p,200000b,200000s
