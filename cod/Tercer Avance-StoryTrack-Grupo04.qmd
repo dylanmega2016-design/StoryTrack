@@ -58,10 +58,47 @@ Debido a que la forma en que los datos fueron construidos, no existen valores fa
 
 PENDIENTE ENVIARLO A IA
 
-# Resultados
+# Resultados 
 
-[PENDIENTE: Análisis, gráficos y tablas.]
+## Selección de capitulos y temporadas en Shiny
+![Selección del progreso del usuario en StoryTrack.](../res/selección.progreso.png){#fig-progreso width=85%}
 
+Aquí el resultado es que la interfaz permite definir con precisión hasta dónde llegó el usuario.
+
+## Generación del recap sin spoilers hasta el episodio 4, minuto 10
+
+![Recap generado por StoryTrack hasta T1:E4, minuto 10:00.](../res/recap.E4.png){#fig-recap width=90% fig-pos="H"}
+
+## Generación del recap sin spoilers hasta el episodio 17 (Toda la primera temporada)
+
+![Recap generado por StoryTrack hasta T1:E4, minuto 10:00.](../res/recap.E17.png){#fig-recap width=90% fig-pos="H"}
+
+Se puede notar que a la hora de agregar más episodios vistos, el resumen cambia completamente por la información nueva añadida.
+
+## Respuesta sobre la relación de dos personajes hasta el episodio 4
+
+![Recap generado por StoryTrack hasta T1:E4, minuto 10:00.](../res/relacion.penny.leonard.E4.png){#fig-recap width=90% fig-pos="H"}
+
+Acá podemos ver como evoluciona la relación entre los personajes Penny y Leonard pero solo hasta el capitulo 4, viendo que en efecto la IA no cuenta la historia sobre ellos después de este capitulo.
+
+## Respuesta sobre la relación de dos personajes hasta el episodio 17 (Toda la primera temporada)
+
+![Recap generado por StoryTrack hasta T1:E4, minuto 10:00.](../res/relacion.penny.leonard.E17.png){#fig-recap width=90% fig-pos="H"}
+
+Podemos ver que cuando se marca toda la primera temporada, en efecto la historia entre ellos avanza ya que la IA tiene más acceso a nueva información.
+
+## Buscar escenas hasta el E17
+
+
+![Recap generado por StoryTrack hasta T1:E4, minuto 10:00.](../res/missy.E15.png){#fig-recap width=90% fig-pos="H"}
+
+Con el resultado anterior, podemos ver que, cuando marcamos la temporada 1 completa, logra encontrar satisfactoriamente al personaje Missy Cooper, especificando el episodio.
+
+## Buscar escenas hasta el 14
+
+![Recap generado por StoryTrack hasta T1:E4, minuto 10:00.](../res/missy.sin.E15.png){#fig-recap width=90% fig-pos="H"}
+
+Note que a diferencia del resultado anterior, como se marcaron hasta el episodio 14, quitando el episodio 15 que es donde sale Missy, la app no nos proporciona la información, probando que en efecto el filtrador de información funciona.
 # Bibliografía
 
 [PENDIENTE: Referencias APA 7.]
