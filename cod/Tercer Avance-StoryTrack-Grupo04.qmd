@@ -155,11 +155,13 @@ Con el resultado anterior, podemos ver que, cuando marcamos la temporada 1 compl
 Note que a diferencia del resultado anterior, como se marcaron hasta el episodio 14, quitando el episodio 15 que es donde sale Missy, la app no nos proporciona la información, probando que en efecto el filtrador de información funciona.
 # Bibliografía
 
-[PENDIENTE: Referencias APA 7.]
+OpenSubtitles. (s. f.). OpenSubtitles: Subtitles search. Recuperado el 6 de noviembre de 2026, de https://www.opensubtitles.org/en/search/subs
+
+OpenAI. (2026). ChatGPT [Modelo de lenguaje de gran escala]. https://chatgpt.com/
 
 # Anexos
 
-[PENDIENTE: Material complementario y enlace al repositorio.]
+https://github.com/dylanmega2016-design/StoryTrack.git
 
 
 
