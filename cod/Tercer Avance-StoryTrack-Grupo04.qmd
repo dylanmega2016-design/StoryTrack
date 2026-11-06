@@ -1,12 +1,9 @@
 ---
-title: "Título del proyecto"
-subtitle: "Informe de resultados — Avance 3"
-author: "Grupo 04"
-date: "2026-11-06"
 lang: es
 
 format:
   pdf:
+    pdf-engine: xelatex
     documentclass: article
     papersize: letter
     fontsize: 12pt
@@ -25,6 +22,36 @@ execute:
   message: false
 ---
 
+\begin{flushleft}
+
+{\small
+\textbf{Universidad de Costa Rica}\\
+Escuela de Matemática\\
+CA-0204 — Herramientas de Ciencia de Datos I\\
+II ciclo, 2026
+}
+
+\vspace{0.3cm}
+
+{\Large\textbf{StoryTrack}}\\
+\textbf{Avance 3 — Informe de resultados}
+
+\vspace{0.25cm}
+
+{\small
+Dylan Madrigal Jiménez \quad María José Angulo Salas\\
+Gabriel Guevara Cornejo \quad Harol Arias Sánchez
+}
+
+\vspace{0.15cm}
+
+{\small 6 de noviembre de 2026}
+
+\end{flushleft}
+
+\noindent\rule{\linewidth}{0.4pt}
+
+
 
 ## Introducción
 
@@ -42,21 +69,48 @@ Desarrollar una herramienta que facilite el segumiento de series de televisión,
 
 ## Metodología
 
-#Obtención y procesamiento de los subtítulos
+# Obtención y procesamiento de los subtítulos
 
-Para el desarrollo de StoryTrack se utilizaron únicamente los subtítulos de la serie *The Big Bang Theory*, con el propósito de trabajar con una base de datos más sencilla y delimitar el alcance del proyecto. Esto permite concentrarse en las funciones principales de la herramienta. Se utilizaron archivos de subtítulos en formato .srt, los cuales contienen los diálogos de los episodios junto con sus respectivos tiempos de aparición. 
+Para el desarrollo de StoryTrack se utilizaron únicamente los subtítulos de la serie *The Big Bang Theory*, con el propósito de trabajar con una base de datos más sencilla y delimitar el alcance del proyecto. Esto permitió concentrarse en las funciones principales de la herramienta. Los archivos utilizados se encuentran en formato .srt, el cual contiene  los diálogos de los episodios junto con sus respectivos tiempos de aparición. 
 
-El procesamiento se realizó mediante el lenguaje de programación R. Para ello, se creó la función la función leer.subtitulos (), encargada de leer los archivos, identificar los bloques de subtítulos y extraer la información necesaria para construir una base de datos estructurada.
+El procesamiento se realizó mediante el lenguaje de programación R. Para ello, se creó la función leer.subtitulos (), encargada de leer los archivos, identificar los bloques de subtítulos y extraer la información necesaria para construir una base de datos estructurada.
 
-De cada bloque se obtuvieron ocho variables: nombre de la serie, temporada, episodio, número de bloque, tiempo de inicio, tiempo de finalización, texto y nombre del archivo original. 
+A partir de los bloques de subtítulos se extrajeron nueve variables: nombre de la serie, temporada, episodio, número de bloque, tiempo de inicio, tiempo de finalización, personaje, texto y nombre del archivo original. La variable personaje se incorporó posteriormente para identificar a quién corresponde cada diálogo, cuando esta información se encuentra disponible en los subtítulos. 
 
-# Consolidación y limpieza de los datos 
+# Filtrado de la historia 
 
-Una vez estructurados los subtítulos, se utilizó la función list.files () para identificar los archivos .srt disponibles. Posteriormente, se procesó cada archivo y se combinaron los resultados mediante rbind(), obteniendo una única base de datos con la información de los episodios seleccionados. 
+Posteriormente, se desarrolló la función filtrar.historia(), con el propósito de limitar la información disponible según el progreso del usuario en la serie y evitar que se revelen acontecimientos que todavía no ha visto. 
 
-Debido a que la forma en que los datos fueron construidos, no existen valores faltantes, campos vacíos ni registros duplicados, ya que estos son subtítulos. 
+Esta función recibe la base de datos de subtítulos y la información correspondiente a la serie, temporada y tiempo seleccionado por el usuario. Para realizar el filtrado, los tiempos de los subtítulos se convierten a segundos, lo que permite compararlos con el límite establecido. 
 
-PENDIENTE ENVIARLO A IA
+De esta manera, se conservan los subtítulos de las temporadas y episodios anteriores al punto seleccionado, así como aquellos del episodio actual cuyo tiempo de finalización no supera el minuto indicado. Este procedimiento constituye la base del sistema denominado **Spoiler Guard**, encargado de restringir la información utilizada posterioremente por la inteligencia artificial. 
+
+# Creación del contexto
+
+Una vez filtrada la información, se desarrolló la función crear.contexto(), encargada de organizar los subtítulos seleccionados en un formato de texto que pueda utilizarse como entrada para la inteligencia artificial. 
+
+Para ello, se combinan los datos de cada regsitro, incluyendo la temporada, el episodio, los tiempos de inicio y finalización, el personaje identificado y el diálogo correspondiente. 
+
+Posteriormente, los registros se unen en un único texto, se unen en un único texto, conservando la información necesaria para identificar a qué episodio y momento pertenece cada intervención. Así, se construye el contexto que se enviará a la inteligencia artificial, utilizando únicamente los subtítulos permitidos por el filtrado anterior. 
+
+# Desarrollo de la aplicación en Shiny 
+
+Para integrar las funciones anteriores, se desarrolló una aplicacion interactiva mediante la libreria shiny de R, cuya estructura principal se encuentra en el archivo app.R.
+
+Dentro de este archivo se incorporó la lectura y consolidación de los subtítulos procesados, así como un catálogo de series y una interfaz que permite seleccionar temporadas y episodios. Aunque el catálogo incluye otras series como ejemplos, el procesamiento de subtítulos se desarrolló utilizando *The Big Bang Theory*. La aplicación permite al usuario registrar su progreso.
+
+Se integraron las funciones filtrar.historia () y crear.contexto(), de manera que la información utilizada para generar resúmenes o responder presguntas se ajuste al progreso registrado por el usuario. La interfaz también incorpora las opciones para solicitar resúmenes y realizar preguntas relacionadas con los personajes y acontecimientos de la serie. 
+
+# Integración con ChatGPT
+
+Finalmente, se desarrolló el archivo chatgpt_local.R, encargado de gestionar la conexión entre StoryTrack y ChatGPT. Este código implementa un procedimiento de autenticación para que el usuario pueda autorizar el acceso desde la aplicación. 
+
+Una vez establecida la conexión, la aplicación está programada para enviar a ChatGPT el contexto previamente filtrado, junto con instrucciones específicas para generar resúmenes o responder preguntas sobre la serie.
+
+Las instrucciones establecen que las respuestas deben elaborarse utilizando únicamente la información proporcionada en los subtítulos, sin incorporar acontecimientos posteriores al progreso del usuario. Asimismo, se indica que, cuando la información disponible no permita responder una pregunta, debe señalarse esta limitación.
+
+De esta forma, se busca combinar el seguimiento de episodios con la generación de resúmenes y respuestas mediante inteligencia artificial, utilizando SpoilerGuard para limitar el contenido enviado según el avance del usuario.
+
 
 # Resultados 
 
