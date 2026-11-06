@@ -1,0 +1,365 @@
+% Options for packages loaded elsewhere
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  spanish,
+  12pt,
+  letterpaper,
+]{article}
+\usepackage{xcolor}
+\usepackage[top=2.5cm,bottom=2.5cm,left=2.5cm,right=2.5cm]{geometry}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{5}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+% Make \paragraph and \subparagraph free-standing
+\makeatletter
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}{
+    \@ifstar
+      \xxxParagraphStar
+      \xxxParagraphNoStar
+  }
+  \newcommand{\xxxParagraphStar}[1]{\oldparagraph*{#1}\mbox{}}
+  \newcommand{\xxxParagraphNoStar}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}{
+    \@ifstar
+      \xxxSubParagraphStar
+      \xxxSubParagraphNoStar
+  }
+  \newcommand{\xxxSubParagraphStar}[1]{\oldsubparagraph*{#1}\mbox{}}
+  \newcommand{\xxxSubParagraphNoStar}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+\makeatother
+
+
+\usepackage{longtable,booktabs,array}
+\newcounter{none} % for unnumbered tables
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+
+
+
+\ifLuaTeX
+\usepackage[bidi=basic,shorthands=off]{babel}
+\else
+\usepackage[bidi=default,shorthands=off]{babel}
+\fi
+\ifLuaTeX
+  \usepackage{selnolig} % disable illegal ligatures
+\fi
+
+
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+ 
+
+
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Tabla de contenidos}
+\else
+  \newcommand\contentsname{Tabla de contenidos}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{Listado de Figuras}
+\else
+  \newcommand\listfigurename{Listado de Figuras}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{Listado de Tablas}
+\else
+  \newcommand\listtablename{Listado de Tablas}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figura}
+\else
+  \newcommand\figurename{Figura}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Tabla}
+\else
+  \newcommand\tablename{Tabla}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listado}
+\newcommand*\listoflistings{\listof{codelisting}{Listado de Listados}}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdflang={es},
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
+
+
+\author{}
+\date{}
+\begin{document}
+
+
+\begin{flushleft}
+
+{\small
+\textbf{Universidad de Costa Rica}\\
+Escuela de Matemática\\
+CA-0204 — Herramientas de Ciencia de Datos I\\
+II ciclo, 2026
+}
+
+\vspace{0.3cm}
+
+{\Large\textbf{StoryTrack}}\\
+\textbf{Avance 3 — Informe de resultados}
+
+\vspace{0.25cm}
+
+{\small
+Dylan Madrigal Jiménez \quad María José Angulo Salas\\
+Gabriel Guevara Cornejo \quad Harol Arias Sánchez
+}
+
+\vspace{0.15cm}
+
+{\small 6 de noviembre de 2026}
+
+\end{flushleft}
+
+\noindent
+
+\rule{\linewidth}{0.4pt}
+
+\subsection{Introducción}\label{introducciuxf3n}
+
+Las series de televisión pueden contar con numerosas temporadas y
+episodios, lo que dificulta recordar todos los acontecimientos
+importantes de la historia. Esto ocurre especialmente cuando una persona
+deja de ver una serie durante un timepo y, al retomarla, no recuerda con
+claridad lo sucedido en episodios anteriores.
+
+Ante esta situación surge \textbf{Story Track}, un proyecto que busca
+desarrollar una herramienta que permite a los usuarios llevar un
+seguimiento de las series que ven, consultar su progreso y acceder a
+resúmenes de los episodios anteriores. Su finalidad es facilitar que las
+personas puedan retomar una serie sin necesidad de volver a ver
+capítulos completos para recordar los acontecimientos más relevantes.
+
+Para desarrollar el proyecto se utiliza el lenguaje de programación R
+junto con herramientas de inteligencia artificial. Mediante R, se extrae
+y organiza la información de los archivos de subtítulos en formato .srt,
+mientras que la inteligencia artificial se utiliza para analizar y
+resumir el contenido de los diálogos. Esto permitirá generar resúmenes
+organizados por episodio, que el usuario podrá consultar según su avance
+en la serie.
+
+De esta manera, StoryTrack busca ofrecer una solución práctica para dar
+seguimiento a las series de televisión, combinando el procesamiento de
+datos y la inteligencia artificial para facilitar el acceso a
+información sobre los episodios y sus acontecimientos principales.
+
+\subsection{Objetivo general}\label{objetivo-general}
+
+Desarrollar una herramienta que facilite el segumiento de series de
+televisión, permitiendo al usuario consultar su progreso y recordar los
+acontecimientos más importantes de la historia mediante resúmenes
+generados con inteligencia artificial.
+
+\subsection{Metodología}\label{metodologuxeda}
+
+\section{Obtención y procesamiento de los
+subtítulos}\label{obtenciuxf3n-y-procesamiento-de-los-subtuxedtulos}
+
+Para el desarrollo de StoryTrack se utilizaron únicamente los subtítulos
+de la serie \emph{The Big Bang Theory}, con el propósito de trabajar con
+una base de datos más sencilla y delimitar el alcance del proyecto. Esto
+permitió concentrarse en las funciones principales de la herramienta.
+Los archivos utilizados se encuentran en formato .srt, el cual contiene
+los diálogos de los episodios junto con sus respectivos tiempos de
+aparición.
+
+El procesamiento se realizó mediante el lenguaje de programación R. Para
+ello, se creó la función leer.subtitulos (), encargada de leer los
+archivos, identificar los bloques de subtítulos y extraer la información
+necesaria para construir una base de datos estructurada.
+
+A partir de los bloques de subtítulos se extrajeron nueve variables:
+nombre de la serie, temporada, episodio, número de bloque, tiempo de
+inicio, tiempo de finalización, personaje, texto y nombre del archivo
+original. La variable personaje se incorporó posteriormente para
+identificar a quién corresponde cada diálogo, cuando esta información se
+encuentra disponible en los subtítulos.
+
+\section{Filtrado de la historia}\label{filtrado-de-la-historia}
+
+Posteriormente, se desarrolló la función filtrar.historia(), con el
+propósito de limitar la información disponible según el progreso del
+usuario en la serie y evitar que se revelen acontecimientos que todavía
+no ha visto.
+
+Esta función recibe la base de datos de subtítulos y la información
+correspondiente a la serie, temporada y tiempo seleccionado por el
+usuario. Para realizar el filtrado, los tiempos de los subtítulos se
+convierten a segundos, lo que permite compararlos con el límite
+establecido.
+
+De esta manera, se conservan los subtítulos de las temporadas y
+episodios anteriores al punto seleccionado, así como aquellos del
+episodio actual cuyo tiempo de finalización no supera el minuto
+indicado. Este procedimiento constituye la base del sistema denominado
+\textbf{Spoiler Guard}, encargado de restringir la información utilizada
+posterioremente por la inteligencia artificial.
+
+\section{Creación del contexto}\label{creaciuxf3n-del-contexto}
+
+Una vez filtrada la información, se desarrolló la función
+crear.contexto(), encargada de organizar los subtítulos seleccionados en
+un formato de texto que pueda utilizarse como entrada para la
+inteligencia artificial.
+
+Para ello, se combinan los datos de cada regsitro, incluyendo la
+temporada, el episodio, los tiempos de inicio y finalización, el
+personaje identificado y el diálogo correspondiente.
+
+Posteriormente, los registros se unen en un único texto, se unen en un
+único texto, conservando la información necesaria para identificar a qué
+episodio y momento pertenece cada intervención. Así, se construye el
+contexto que se enviará a la inteligencia artificial, utilizando
+únicamente los subtítulos permitidos por el filtrado anterior.
+
+\section{Desarrollo de la aplicación en
+Shiny}\label{desarrollo-de-la-aplicaciuxf3n-en-shiny}
+
+Para integrar las funciones anteriores, se desarrolló una aplicacion
+interactiva mediante la libreria shiny de R, cuya estructura principal
+se encuentra en el archivo app.R.
+
+Dentro de este archivo se incorporó la lectura y consolidación de los
+subtítulos procesados, así como un catálogo de series y una interfaz que
+permite seleccionar temporadas y episodios. Aunque el catálogo incluye
+otras series como ejemplos, el procesamiento de subtítulos se desarrolló
+utilizando \emph{The Big Bang Theory}. La aplicación permite al usuario
+registrar su progreso.
+
+Se integraron las funciones filtrar.historia () y crear.contexto(), de
+manera que la información utilizada para generar resúmenes o responder
+presguntas se ajuste al progreso registrado por el usuario. La interfaz
+también incorpora las opciones para solicitar resúmenes y realizar
+preguntas relacionadas con los personajes y acontecimientos de la serie.
+
+\section{Integración con ChatGPT}\label{integraciuxf3n-con-chatgpt}
+
+Finalmente, se desarrolló el archivo chatgpt\_local.R, encargado de
+gestionar la conexión entre StoryTrack y ChatGPT. Este código implementa
+un procedimiento de autenticación para que el usuario pueda autorizar el
+acceso desde la aplicación.
+
+Una vez establecida la conexión, la aplicación está programada para
+enviar a ChatGPT el contexto previamente filtrado, junto con
+instrucciones específicas para generar resúmenes o responder preguntas
+sobre la serie.
+
+Las instrucciones establecen que las respuestas deben elaborarse
+utilizando únicamente la información proporcionada en los subtítulos,
+sin incorporar acontecimientos posteriores al progreso del usuario.
+Asimismo, se indica que, cuando la información disponible no permita
+responder una pregunta, debe señalarse esta limitación.
+
+De esta forma, se busca combinar el seguimiento de episodios con la
+generación de resúmenes y respuestas mediante inteligencia artificial,
+utilizando SpoilerGuard para limitar el contenido enviado según el
+avance del usuario.
+
+\section{Resultados}\label{resultados}
+
+{[}PENDIENTE: Análisis, gráficos y tablas.{]}
+
+\section{Bibliografía}\label{bibliografuxeda}
+
+{[}PENDIENTE: Referencias APA 7.{]}
+
+\section{Anexos}\label{anexos}
+
+{[}PENDIENTE: Material complementario y enlace al repositorio.{]}
+
+
+
+
+\end{document}
