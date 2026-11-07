@@ -1,6 +1,5 @@
 ---
 lang: es
-
 format:
   pdf:
     pdf-engine: xelatex
